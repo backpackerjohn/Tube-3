@@ -1,0 +1,109 @@
+{
+  "retrieved": "2026-07-12",
+  "tool": "vidiq_keyword_research",
+  "country_enrichment": "US",
+  "note": "Volume/competition/overall are vidIQ 0-100 indices; estimatedMonthlySearch is global YouTube searches/month. 3 calls x 5 credits; remaining balance 10 credits reserved for winner keyword map.",
+  "seeds": {
+    "cost of living": {
+      "volume": 73.6,
+      "competition": 63.7,
+      "overall": 58.7,
+      "estimatedMonthlySearch": 85194,
+      "usVolume": 23502,
+      "notable_related": {
+        "personal finance": {
+          "volume": 93.2,
+          "competition": 60.5,
+          "overall": 71.7,
+          "estimatedMonthlySearch": 1759302
+        },
+        "cost of living crisis": {
+          "volume": 70.9,
+          "competition": 59.7,
+          "overall": 58.6,
+          "estimatedMonthlySearch": 55887
+        },
+        "middle class struggle": {
+          "volume": 59.2,
+          "competition": 45.9,
+          "overall": 57.2,
+          "estimatedMonthlySearch": 9277
+        },
+        "financial stress": {
+          "volume": 62.7,
+          "competition": 46.6,
+          "overall": 59.0,
+          "estimatedMonthlySearch": 15893
+        }
+      }
+    },
+    "economic collapse": {
+      "volume": 70.2,
+      "competition": 55.6,
+      "overall": 59.9,
+      "estimatedMonthlySearch": 50361,
+      "usVolume": 9443,
+      "notable_related": {
+        "hyperinflation": {
+          "volume": 54.6,
+          "competition": 46.4,
+          "overall": 54.2,
+          "estimatedMonthlySearch": 4554
+        },
+        "financial survival": {
+          "volume": 62.5,
+          "competition": 25.5,
+          "overall": 67.3,
+          "estimatedMonthlySearch": 15435
+        },
+        "economy": {
+          "volume": 82.3,
+          "competition": 56.8,
+          "overall": 66.7,
+          "estimatedMonthlySearch": 325264
+        }
+      }
+    },
+    "disaster documentary": {
+      "volume": 68.9,
+      "competition": 45.5,
+      "overall": 63.2,
+      "estimatedMonthlySearch": 41529,
+      "usVolume": 3461,
+      "notable_related": {
+        "history documentary": {
+          "volume": 89.4,
+          "competition": 49.0,
+          "overall": 74.1,
+          "estimatedMonthlySearch": 980678,
+          "usVolume": 121519
+        },
+        "seconds from disaster": {
+          "volume": 61.8,
+          "competition": 29.1,
+          "overall": 65.5,
+          "estimatedMonthlySearch": 13906
+        },
+        "history's greatest disasters": {
+          "volume": 52.6,
+          "competition": 40.5,
+          "overall": 55.4,
+          "estimatedMonthlySearch": 3344
+        },
+        "naval disaster": {
+          "volume": 54.4,
+          "competition": 38.5,
+          "overall": 57.2,
+          "estimatedMonthlySearch": 4414
+        },
+        "i survived": {
+          "volume": 77.2,
+          "competition": 75.0,
+          "overall": 56.3,
+          "estimatedMonthlySearch": 147599
+        }
+      }
+    }
+  },
+  "read": "Disaster/history seeds show the best opportunity ratios (high-volume 'history documentary' at only 49 competition, overall 74.1; 'seconds from disaster' at 29.1 competition proves an underserved classic format). Money seeds have larger raw volume ('personal finance' 1.76M) but systematically higher competition (60-75). This supports C09/C10 on search-led discoverability; C13 competes in a higher-competition keyword environment."
+}
