@@ -1,0 +1,363 @@
+{
+  "scores": [
+    {
+      "id": "C01",
+      "name": "The Local AI Lab",
+      "search_demand": 6,
+      "competition_attainability": 7,
+      "growth_potential": 5,
+      "monetization": 7,
+      "production_simplicity": 5,
+      "sustainability": 5,
+      "weighted_total": 6,
+      "gate_flags": ""
+    },
+    {
+      "id": "C02",
+      "name": "Compute Economics",
+      "search_demand": 6,
+      "competition_attainability": 4,
+      "growth_potential": 7,
+      "monetization": 8,
+      "production_simplicity": 4,
+      "sustainability": 6,
+      "weighted_total": 5.95,
+      "gate_flags": ""
+    },
+    {
+      "id": "C03",
+      "name": "Agentic Dev Weekly",
+      "search_demand": 8,
+      "competition_attainability": 3,
+      "growth_potential": 6,
+      "monetization": 8,
+      "production_simplicity": 7,
+      "sustainability": 3,
+      "weighted_total": 5.85,
+      "gate_flags": ""
+    },
+    {
+      "id": "C04",
+      "name": "AI for the Back Office",
+      "search_demand": 3,
+      "competition_attainability": 4,
+      "growth_potential": 3,
+      "monetization": 6,
+      "production_simplicity": 7,
+      "sustainability": 5,
+      "weighted_total": 4.5,
+      "gate_flags": ""
+    },
+    {
+      "id": "C05",
+      "name": "EU5 Grand Strategy Academy",
+      "search_demand": 6,
+      "competition_attainability": 7,
+      "growth_potential": 4,
+      "monetization": 4,
+      "production_simplicity": 5,
+      "sustainability": 6,
+      "weighted_total": 5.4,
+      "gate_flags": ""
+    },
+    {
+      "id": "C06",
+      "name": "Pharloom Depths (Silksong lore)",
+      "search_demand": 5,
+      "competition_attainability": 6,
+      "growth_potential": 4,
+      "monetization": 4,
+      "production_simplicity": 5,
+      "sustainability": 4,
+      "weighted_total": 4.7,
+      "gate_flags": ""
+    },
+    {
+      "id": "C07",
+      "name": "Postmortem (game/studio business docs)",
+      "search_demand": 6,
+      "competition_attainability": 6,
+      "growth_potential": 6,
+      "monetization": 6,
+      "production_simplicity": 3,
+      "sustainability": 7,
+      "weighted_total": 5.85,
+      "gate_flags": "WARN (passes): highest third-party-footage reliance in the field; survives reused-content review only if original graphics/analysis visibly lead every video"
+    },
+    {
+      "id": "C08",
+      "name": "Joker Math (Balatro strategy)",
+      "search_demand": 5,
+      "competition_attainability": 5,
+      "growth_potential": 4,
+      "monetization": 3,
+      "production_simplicity": 8,
+      "sustainability": 4,
+      "weighted_total": 4.6,
+      "gate_flags": ""
+    },
+    {
+      "id": "C09",
+      "name": "Quiet Catastrophes (forgotten disasters)",
+      "search_demand": 7,
+      "competition_attainability": 7,
+      "growth_potential": 6,
+      "monetization": 5,
+      "production_simplicity": 7,
+      "sustainability": 8,
+      "weighted_total": 6.6,
+      "gate_flags": ""
+    },
+    {
+      "id": "C10",
+      "name": "How Nations Break (economic collapse history)",
+      "search_demand": 7,
+      "competition_attainability": 6,
+      "growth_potential": 7,
+      "monetization": 7,
+      "production_simplicity": 6,
+      "sustainability": 6,
+      "weighted_total": 6.55,
+      "gate_flags": ""
+    },
+    {
+      "id": "C11",
+      "name": "You Wake Up In... (sensory everyday-life history)",
+      "search_demand": 7,
+      "competition_attainability": 7,
+      "growth_potential": 7,
+      "monetization": 5,
+      "production_simplicity": 7,
+      "sustainability": 5,
+      "weighted_total": 6.3,
+      "gate_flags": "WARN (passes): AI-imagery-heavy templated format needs material video-to-video variation to stay clear of the mass-produced test"
+    },
+    {
+      "id": "C12",
+      "name": "The Accurate Sleep Historian",
+      "search_demand": 8,
+      "competition_attainability": 5,
+      "growth_potential": 7,
+      "monetization": 6,
+      "production_simplicity": 5,
+      "sustainability": 4,
+      "weighted_total": 5.95,
+      "gate_flags": "WARN (passes): originality defense is solid, but it launches into the exact genre 404 Media documented as slop-flooded \u2014 channel-level enforcement or genre-wide algorithmic demotion is a live tail risk"
+    },
+    {
+      "id": "C13",
+      "name": "Paycheck Nation (cost-of-living explainers)",
+      "search_demand": 7,
+      "competition_attainability": 5,
+      "growth_potential": 7,
+      "monetization": 8,
+      "production_simplicity": 7,
+      "sustainability": 5,
+      "weighted_total": 6.5,
+      "gate_flags": ""
+    },
+    {
+      "id": "C14",
+      "name": "The White-Collar Recession (AI & jobs)",
+      "search_demand": 6,
+      "competition_attainability": 5,
+      "growth_potential": 6,
+      "monetization": 8,
+      "production_simplicity": 6,
+      "sustainability": 4,
+      "weighted_total": 5.9,
+      "gate_flags": ""
+    },
+    {
+      "id": "C15",
+      "name": "Private Equity Autopsies",
+      "search_demand": 6,
+      "competition_attainability": 5,
+      "growth_potential": 6,
+      "monetization": 8,
+      "production_simplicity": 5,
+      "sustainability": 7,
+      "weighted_total": 6.25,
+      "gate_flags": ""
+    },
+    {
+      "id": "C16",
+      "name": "Modern Fraud Files",
+      "search_demand": 6,
+      "competition_attainability": 5,
+      "growth_potential": 6,
+      "monetization": 7,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 6.15,
+      "gate_flags": ""
+    },
+    {
+      "id": "C17",
+      "name": "Salvage & Sinking Forensics",
+      "search_demand": 6,
+      "competition_attainability": 5,
+      "growth_potential": 5,
+      "monetization": 6,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 5.8,
+      "gate_flags": ""
+    },
+    {
+      "id": "C18",
+      "name": "Process Disaster Files (CSB-style industrial)",
+      "search_demand": 7,
+      "competition_attainability": 6,
+      "growth_potential": 6,
+      "monetization": 6,
+      "production_simplicity": 3,
+      "sustainability": 8,
+      "weighted_total": 6.2,
+      "gate_flags": ""
+    },
+    {
+      "id": "C19",
+      "name": "Solved by Science (forensic genealogy)",
+      "search_demand": 6,
+      "competition_attainability": 6,
+      "growth_potential": 6,
+      "monetization": 6,
+      "production_simplicity": 7,
+      "sustainability": 6,
+      "weighted_total": 6.1,
+      "gate_flags": ""
+    },
+    {
+      "id": "C20",
+      "name": "Final Report (air-disaster long tail)",
+      "search_demand": 7,
+      "competition_attainability": 3,
+      "growth_potential": 5,
+      "monetization": 7,
+      "production_simplicity": 5,
+      "sustainability": 7,
+      "weighted_total": 5.7,
+      "gate_flags": ""
+    },
+    {
+      "id": "C21",
+      "name": "Empty Map (settlement geography)",
+      "search_demand": 6,
+      "competition_attainability": 4,
+      "growth_potential": 6,
+      "monetization": 5,
+      "production_simplicity": 5,
+      "sustainability": 7,
+      "weighted_total": 5.45,
+      "gate_flags": ""
+    },
+    {
+      "id": "C22",
+      "name": "Vanished (places that disappeared)",
+      "search_demand": 5,
+      "competition_attainability": 5,
+      "growth_potential": 5,
+      "monetization": 6,
+      "production_simplicity": 4,
+      "sustainability": 7,
+      "weighted_total": 5.4,
+      "gate_flags": ""
+    },
+    {
+      "id": "C23",
+      "name": "The Relocation Report (data-driven city rankings)",
+      "search_demand": 7,
+      "competition_attainability": 5,
+      "growth_potential": 6,
+      "monetization": 7,
+      "production_simplicity": 8,
+      "sustainability": 6,
+      "weighted_total": 6.4,
+      "gate_flags": ""
+    },
+    {
+      "id": "C24",
+      "name": "Concrete Graveyard (failed urban projects)",
+      "search_demand": 5,
+      "competition_attainability": 4,
+      "growth_potential": 5,
+      "monetization": 5,
+      "production_simplicity": 5,
+      "sustainability": 7,
+      "weighted_total": 5.1,
+      "gate_flags": ""
+    },
+    {
+      "id": "C25",
+      "name": "Everyday English Listening Podcast",
+      "search_demand": 8,
+      "competition_attainability": 5,
+      "growth_potential": 7,
+      "monetization": 4,
+      "production_simplicity": 8,
+      "sustainability": 6,
+      "weighted_total": 6.15,
+      "gate_flags": "WARN (passes): two-AI-voice scripted dialogue at 3-5x/week is the closest pattern in the field to the inauthentic-content definition; the original-pedagogy defense must be demonstrably real per episode"
+    },
+    {
+      "id": "C26",
+      "name": "AI-at-Work Tutorials",
+      "search_demand": 7,
+      "competition_attainability": 4,
+      "growth_potential": 5,
+      "monetization": 8,
+      "production_simplicity": 8,
+      "sustainability": 3,
+      "weighted_total": 5.8,
+      "gate_flags": ""
+    },
+    {
+      "id": "C27",
+      "name": "Evidence-Based Aging Well",
+      "search_demand": 7,
+      "competition_attainability": 2,
+      "growth_potential": 4,
+      "monetization": 6,
+      "production_simplicity": 5,
+      "sustainability": 5,
+      "weighted_total": 4.85,
+      "gate_flags": ""
+    },
+    {
+      "id": "C28",
+      "name": "Podcast-Style Listening for ES/FR/DE",
+      "search_demand": 4,
+      "competition_attainability": 7,
+      "growth_potential": 5,
+      "monetization": 5,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 5.6,
+      "gate_flags": "WARN (passes): same AI-voice templated-dialogue exposure as C25; demand itself is unverified inference"
+    }
+  ],
+  "top5": [
+    {
+      "id": "C09",
+      "why": "The only candidate where the attainability evidence survives my survivorship-bias screen at full strength: a genuinely independent Dec-2024 channel breaking out in April 2026, PLUS duplicate-topic absorption (two channels, same Tenerife story, both 100k-250k views weeks apart) proving demand still exceeds supply. Fascinating Horror's moat is famous events, leaving an uncontested long tail a new entrant can own via search. Evergreen, policy-safe, low production bar."
+    },
+    {
+      "id": "C10",
+      "why": "Two independent sub-2-year breakouts (Fall of Nations, Dr. Tam at 109k subs/13M views in 11 months) verified via API \u2014 the lane is demonstrably admitting new channels right now, with finance-adjacent RPM and a 6M-view demand ceiling. Docked for the AI-slop crowding already flagged inside the lane and macro-anxiety dependence; sourcing rigor is the only durable differentiation."
+    },
+    {
+      "id": "C13",
+      "why": "Broad, non-winner-take-all pond (Edwards, HMW, WSM coexist at 350k-1.7M) with top-tier finance RPM and a fast production cycle that reaches YPP thresholds quickly. Scored with eyes open: the Edwards template has been publicly visible for 16 months, so a fast-follower field is guaranteed \u2014 this ranks despite crowding because demand breadth and news cadence keep creating entry windows."
+    },
+    {
+      "id": "C23",
+      "why": "Search-led discovery is the fairest terrain for channel #5001 \u2014 long-tail relocation queries don't care about subscriber count, and a 270k-sub channel pulled 203k views in June 2026. Cheapest production in the field allows the fast packaging iteration a cold-start channel needs, and purchase-intent monetization outruns pure travel RPM. Docked for listicle slop saturation."
+    },
+    {
+      "id": "C11",
+      "why": "George's History (channel created 2025-12-25, 947k-view video 6 weeks later) is the single most extreme cold-start proof in all 28 candidates \u2014 the algorithm is actively distributing this format to brand-new channels today. Ranked fifth rather than first because that same openness guarantees a copycat flood, the underserved-era thesis is unverified, and format-trend decay plus AI-imagery credibility risk cap sustainability."
+    }
+  ],
+  "commentary": "What this field gets right: most candidates were engineered around primary-source research with real originality defenses, and several researchers honestly reported negative evidence \u2014 that honesty is what my lens rewards. What it gets wrong: repeated treatment of a single young-channel breakout as attainability proof. The base rate matters \u2014 the meta file itself cites ~3% of faceless attempts reaching monetization, and the vidIQ scan shows 5,165 'breakout faceless' channels dominated by Shorts slop, so one survivor per niche is close to what pure luck predicts. Specific over-ratings by their own researchers: C17's headline proof (Waterline Salvage, 'created 2025-11') is the incumbent Waterline network's own spinoff \u2014 cross-promoted, not a cold start \u2014 which guts the new-entrant thesis; C03 is pitched enthusiastically while its own risk section concedes accelerating saturation plus Anthropic competing directly, and a catalog that version-churn deletes; C20's Green Dot economics are dazzling but describe a 2021 entry into a lane the researcher admits is now the most saturated scanned \u2014 the long-tail pivot means accepting structurally lower views; C02 and C15 lean on megabrand view counts (Business Insider 7.8M, Sen. Warren 964k) as demand proof, but a CNBC video's views tell you nothing about whether an unknown faceless channel wins the same browse auction against fern-tier packaging; C26's proofs are 2023-era entries \u2014 three years is an epoch in AI-content crowding; C27 is refuted by its own API data (honest entrants at 221/438 subs while misinfo farms take 3.3M views \u2014 the algorithm is rewarding exactly what a credible channel refuses to do); C12 chases documented-enormous demand but a new entrant cannot out-upload AI farms and quality is invisible pre-click, with genre-wide demotion as an uninsurable tail risk. The pattern in my top 5: verified 2025-26 cold-start breakouts, search/topic-driven discovery rather than browse-moat competition, and evergreen wells \u2014 the conditions under which channel #5001 gets found on merit rather than luck. Gaming as a lane is systematically handicapped by bottom-tier RPM regardless of attainability, and the owner's interest areas earned no candy: two of the four AI candidates and three of the four gaming candidates land in my bottom half."
+}

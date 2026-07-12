@@ -1,0 +1,363 @@
+{
+  "scores": [
+    {
+      "id": "C01",
+      "name": "The Local AI Lab",
+      "search_demand": 6,
+      "competition_attainability": 7,
+      "growth_potential": 5,
+      "monetization": 7,
+      "production_simplicity": 6,
+      "sustainability": 6,
+      "weighted_total": 6.25,
+      "gate_flags": ""
+    },
+    {
+      "id": "C02",
+      "name": "Compute Economics",
+      "search_demand": 7,
+      "competition_attainability": 4,
+      "growth_potential": 7,
+      "monetization": 8,
+      "production_simplicity": 5,
+      "sustainability": 6,
+      "weighted_total": 6.25,
+      "gate_flags": ""
+    },
+    {
+      "id": "C03",
+      "name": "Agentic Dev Weekly",
+      "search_demand": 7,
+      "competition_attainability": 5,
+      "growth_potential": 6,
+      "monetization": 7,
+      "production_simplicity": 8,
+      "sustainability": 3,
+      "weighted_total": 5.95,
+      "gate_flags": ""
+    },
+    {
+      "id": "C04",
+      "name": "AI for the Back Office",
+      "search_demand": 3,
+      "competition_attainability": 4,
+      "growth_potential": 3,
+      "monetization": 6,
+      "production_simplicity": 8,
+      "sustainability": 5,
+      "weighted_total": 4.6,
+      "gate_flags": ""
+    },
+    {
+      "id": "C05",
+      "name": "EU5 Grand Strategy Academy",
+      "search_demand": 5,
+      "competition_attainability": 6,
+      "growth_potential": 4,
+      "monetization": 5,
+      "production_simplicity": 5,
+      "sustainability": 6,
+      "weighted_total": 5.2,
+      "gate_flags": ""
+    },
+    {
+      "id": "C06",
+      "name": "Pharloom Depths (Silksong lore)",
+      "search_demand": 7,
+      "competition_attainability": 8,
+      "growth_potential": 5,
+      "monetization": 4,
+      "production_simplicity": 6,
+      "sustainability": 4,
+      "weighted_total": 5.75,
+      "gate_flags": ""
+    },
+    {
+      "id": "C07",
+      "name": "Postmortem (game/studio business docs)",
+      "search_demand": 7,
+      "competition_attainability": 7,
+      "growth_potential": 6,
+      "monetization": 5,
+      "production_simplicity": 4,
+      "sustainability": 6,
+      "weighted_total": 6,
+      "gate_flags": "borderline reused-content: format leans on third-party game footage; researcher's own note calls it 'highest reused-content exposure' \u2014 survives YPP only if original graphics/analysis visibly dominate every video"
+    },
+    {
+      "id": "C08",
+      "name": "Joker Math (Balatro strategy)",
+      "search_demand": 6,
+      "competition_attainability": 7,
+      "growth_potential": 4,
+      "monetization": 3,
+      "production_simplicity": 9,
+      "sustainability": 4,
+      "weighted_total": 5.3,
+      "gate_flags": ""
+    },
+    {
+      "id": "C09",
+      "name": "Quiet Catastrophes (forgotten disasters)",
+      "search_demand": 8,
+      "competition_attainability": 8,
+      "growth_potential": 7,
+      "monetization": 6,
+      "production_simplicity": 7,
+      "sustainability": 8,
+      "weighted_total": 7.35,
+      "gate_flags": ""
+    },
+    {
+      "id": "C10",
+      "name": "How Nations Break (economic collapse history)",
+      "search_demand": 9,
+      "competition_attainability": 8,
+      "growth_potential": 8,
+      "monetization": 8,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 7.85,
+      "gate_flags": ""
+    },
+    {
+      "id": "C11",
+      "name": "You Wake Up In... (sensory everyday-life history)",
+      "search_demand": 7,
+      "competition_attainability": 8,
+      "growth_potential": 8,
+      "monetization": 6,
+      "production_simplicity": 7,
+      "sustainability": 6,
+      "weighted_total": 7,
+      "gate_flags": ""
+    },
+    {
+      "id": "C12",
+      "name": "The Accurate Sleep Historian",
+      "search_demand": 8,
+      "competition_attainability": 7,
+      "growth_potential": 7,
+      "monetization": 6,
+      "production_simplicity": 5,
+      "sustainability": 4,
+      "weighted_total": 6.35,
+      "gate_flags": "inauthentic-content adjacency: the sleep-history genre is a documented AI-slop flood (404 Media); the human-scripted defense is clear on paper, but whole-genre algorithmic demotion and channel-level YPP scrutiny are live risks the creator cannot control"
+    },
+    {
+      "id": "C13",
+      "name": "Paycheck Nation (cost-of-living explainers)",
+      "search_demand": 8,
+      "competition_attainability": 8,
+      "growth_potential": 8,
+      "monetization": 9,
+      "production_simplicity": 7,
+      "sustainability": 6,
+      "weighted_total": 7.8,
+      "gate_flags": ""
+    },
+    {
+      "id": "C14",
+      "name": "The White-Collar Recession (AI & jobs)",
+      "search_demand": 7,
+      "competition_attainability": 6,
+      "growth_potential": 7,
+      "monetization": 8,
+      "production_simplicity": 6,
+      "sustainability": 4,
+      "weighted_total": 6.45,
+      "gate_flags": ""
+    },
+    {
+      "id": "C15",
+      "name": "Private Equity Autopsies",
+      "search_demand": 6,
+      "competition_attainability": 5,
+      "growth_potential": 7,
+      "monetization": 8,
+      "production_simplicity": 5,
+      "sustainability": 7,
+      "weighted_total": 6.4,
+      "gate_flags": ""
+    },
+    {
+      "id": "C16",
+      "name": "Modern Fraud Files",
+      "search_demand": 7,
+      "competition_attainability": 5,
+      "growth_potential": 7,
+      "monetization": 8,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 6.7,
+      "gate_flags": ""
+    },
+    {
+      "id": "C17",
+      "name": "Salvage & Sinking Forensics",
+      "search_demand": 8,
+      "competition_attainability": 8,
+      "growth_potential": 7,
+      "monetization": 6,
+      "production_simplicity": 7,
+      "sustainability": 8,
+      "weighted_total": 7.35,
+      "gate_flags": ""
+    },
+    {
+      "id": "C18",
+      "name": "Process Disaster Files (CSB-style)",
+      "search_demand": 7,
+      "competition_attainability": 5,
+      "growth_potential": 7,
+      "monetization": 6,
+      "production_simplicity": 4,
+      "sustainability": 8,
+      "weighted_total": 6.25,
+      "gate_flags": ""
+    },
+    {
+      "id": "C19",
+      "name": "Solved by Science (forensic genealogy)",
+      "search_demand": 4,
+      "competition_attainability": 6,
+      "growth_potential": 6,
+      "monetization": 5,
+      "production_simplicity": 7,
+      "sustainability": 6,
+      "weighted_total": 5.5,
+      "gate_flags": ""
+    },
+    {
+      "id": "C20",
+      "name": "Final Report (air-disaster long tail)",
+      "search_demand": 8,
+      "competition_attainability": 4,
+      "growth_potential": 7,
+      "monetization": 7,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 6.5,
+      "gate_flags": ""
+    },
+    {
+      "id": "C21",
+      "name": "Empty Map (settlement geography)",
+      "search_demand": 8,
+      "competition_attainability": 5,
+      "growth_potential": 8,
+      "monetization": 6,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 6.65,
+      "gate_flags": ""
+    },
+    {
+      "id": "C22",
+      "name": "Vanished (places that disappeared)",
+      "search_demand": 7,
+      "competition_attainability": 5,
+      "growth_potential": 7,
+      "monetization": 7,
+      "production_simplicity": 4,
+      "sustainability": 8,
+      "weighted_total": 6.45,
+      "gate_flags": ""
+    },
+    {
+      "id": "C23",
+      "name": "The Relocation Report (data-driven rankings)",
+      "search_demand": 8,
+      "competition_attainability": 6,
+      "growth_potential": 7,
+      "monetization": 7,
+      "production_simplicity": 8,
+      "sustainability": 6,
+      "weighted_total": 6.95,
+      "gate_flags": "inauthentic-content pattern risk: ranked listicles + stock b-roll + AI VO at 2/week is the exact templated, easily-replicable shape the July-2025 policy targets; the on-screen-methodology defense must be executed visibly in every video, not just claimed"
+    },
+    {
+      "id": "C24",
+      "name": "Concrete Graveyard (failed urban projects)",
+      "search_demand": 6,
+      "competition_attainability": 4,
+      "growth_potential": 6,
+      "monetization": 6,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 5.75,
+      "gate_flags": ""
+    },
+    {
+      "id": "C25",
+      "name": "Everyday English Listening Podcast",
+      "search_demand": 7,
+      "competition_attainability": 8,
+      "growth_potential": 8,
+      "monetization": 4,
+      "production_simplicity": 9,
+      "sustainability": 6,
+      "weighted_total": 6.8,
+      "gate_flags": "inauthentic-content pattern risk: two-AI-voice templated dialogues at 3-5 uploads/week over a static background reads as mass-produced under the policy's 'materially varied' test; original CEFR-graded pedagogy is a defense but variation must be demonstrable video-to-video"
+    },
+    {
+      "id": "C26",
+      "name": "AI-at-Work Tutorials (profession-niched)",
+      "search_demand": 6,
+      "competition_attainability": 6,
+      "growth_potential": 7,
+      "monetization": 7,
+      "production_simplicity": 8,
+      "sustainability": 3,
+      "weighted_total": 6.1,
+      "gate_flags": ""
+    },
+    {
+      "id": "C27",
+      "name": "Evidence-Based Aging Well",
+      "search_demand": 4,
+      "competition_attainability": 3,
+      "growth_potential": 6,
+      "monetization": 7,
+      "production_simplicity": 6,
+      "sustainability": 4,
+      "weighted_total": 4.9,
+      "gate_flags": ""
+    },
+    {
+      "id": "C28",
+      "name": "Spanish/French/German Listening Podcast",
+      "search_demand": 3,
+      "competition_attainability": 5,
+      "growth_potential": 5,
+      "monetization": 5,
+      "production_simplicity": 6,
+      "sustainability": 7,
+      "weighted_total": 5,
+      "gate_flags": ""
+    }
+  ],
+  "top5": [
+    {
+      "id": "C10",
+      "why": "The single best demand dossier in the field: a 6.0M-view video (Mar 2026) on a channel under 1 year old, a 1.98M-view video in 10 weeks on a second sub-2-year channel, both API-verified, plus a 1.72M-sub adjacent ceiling \u2014 recent, repeatable, multi-channel, broad-audience proof, married to the best RPM tier ($8-22 finance-adjacent). Main watch-out is the AI-slop crowd arriving in the same lane."
+    },
+    {
+      "id": "C13",
+      "why": "Edwards Economics (0 to 358k subs / 12.26M views in under 16 months, API-verified with full upload-playlist pagination) is the strongest single young-channel proof anywhere in the 28, backed by How Money Works' 1.72M ceiling and Wall Street Millennial's sustained 35-125k/video \u2014 proven current demand from a broad US audience plus top-tier finance monetization. Docked on sustainability for doom-fatigue and fast-follower risk since the template is visible to everyone."
+    },
+    {
+      "id": "C09",
+      "why": "Demand proven from multiple independent angles, all recent and API-verified: a 478k-view video (Apr 2026) on a 19-month-old channel, TWO near-identical Tenerife videos absorbing 248k and 108k views weeks apart (demand exceeds supply), a 1.44M-sub ceiling, and even a hyperlocal 6.4k-sub channel with 950k views. Evergreen bottomless well and clean policy posture make this the safest demand bet."
+    },
+    {
+      "id": "C17",
+      "why": "Three concurrent mid-size faceless channels (286k/24.4M, 278k/57.6M, 395k adjacent) prove the audience sustains multiple sellers, and the decisive skeptic evidence is a brand-new entrant: Waterline Salvage, created 2025-11-25, at 831k views on 14 videos in 7 months. Add a professional-mariner core plus casual disaster viewers (breadth), monthly new official reports, and near-zero fad risk."
+    },
+    {
+      "id": "C11",
+      "why": "Format demand is explosive and freshly proven at the newcomer level \u2014 a 947k-view video from a channel created 6 weeks earlier (Dec 2025), a 2.79M-view video in 6 weeks, 151M views on 80 JokeLore videos \u2014 with high browse/viral ceiling. Ranked fifth rather than higher because every proof point is medieval Europe; the pitch's non-medieval eras carry unproven demand (the researcher labels it inference), so treat era expansion as a hypothesis to test, not a fact."
+    }
+  ],
+  "commentary": "From a proven-viewing-behavior standpoint this field is sharply bimodal. The history, money, and disaster-forensics lanes carry genuinely excellent evidence \u2014 recent (2026) API-verified view counts, multiple independent channels, and crucially young/small channels outperforming their subscriber counts (Dr. Jonathan Tam, Edwards Economics, DisastersUncovered, Waterline Salvage, George's History, Ditlev Gren). That is the gold standard: breadth, recency, and repeatability. The weakest candidates lean on exactly what I punish. C28 is the clearest overreach: its researcher verified only that nobody occupies the lane \u2014 whitespace is not demand, and an empty lane after a decade of YouTube language-learning may mean the demand isn't there in this format. C19 substitutes a case PIPELINE (news stories, a podcast, an ISOGG index) for any YouTube view count in the actual format \u2014 zero video-level demand proof. C27's own API pull contradicts its thesis (legit senior-health channels at 221 and 438 subs while misinfo farms take the 3.3M views); the 19x/21x growth multipliers cited for C25/C27 come from TubeLab/OutlierKit vendor snippets that were 403-blocked and never even read in full \u2014 they should carry no weight. C02's demand is media-giant one-offs (Business Insider 7.8M) plus a single High Yield outlier; no dedicated channel of any age has proven the recurring beat, which its own researcher concedes. C05 is a launch-window spike on a game whose concurrents are down 22% and still below its 12-year-old predecessor. C26 and C04 both borrow demand from generic AI-news channels while proposing a profession-niched version whose closest real test (accountant videos at 966-17k views) is a negative signal. On overrating by their own researchers: C20's 'explosive unit economics' belong to incumbents in the most saturated lane presented, C15's headline numbers come from a senator's channel and CNBC (institutional reach, not organic niche demand), and C12's enormous demand is real but sits inside a genre YouTube is actively pressured to demote \u2014 the researcher was right to call it highest-risk. Finally, the vidIQ faceless-breakout scan deserves a warning label: it is dominated by Shorts compilations, reused-clip farms, and meme edits \u2014 near-zero overlap with any gate-passing candidate \u2014 and mainly confirms that the low-effort end of faceless YouTube is saturated slop, which strengthens the case for the research-moat candidates at the top of my ranking. Note also C09 and C17 tie at 7.35; I'd break the tie toward C09 on audience breadth and lower incumbent count in its long-tail territory."
+}
