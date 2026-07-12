@@ -1,0 +1,179 @@
+{
+  "findings": [
+    {
+      "topic": "RPM/CPM by niche (2025-2026)",
+      "summary": "Consistent picture across industry sources and creator-reported data: finance/investing is the top-paying niche, with creator RPMs of roughly $12-35 (some credit-card/tax/investing channels reporting $25-40); named creator data points include Joshua Mayo (finance, faceless-style) reporting ~$21 RPM and Graham Stephan estimated at $16-20 RPM. Education runs ~$4-6.50 RPM (career/professional-development topics like coding and certification prep earn well above K-12 content). History/documentary earns ~$4-12 RPM (one source: $4-9 with US/UK audiences), with strong watch time offsetting the moderate rate. Travel is ~$3-11 RPM (CPM $6-20, highly seasonal, Q2/Q4 peaks; budget/adventure travel measured at $7.34 RPM). Gaming is near the bottom: median US gaming RPM $3.50 per a 2025 Epidemic Sound creator survey, CPMs $2-5. Entertainment/listicle content runs ~$1-3 RPM. Cross-niche patterns: creators keep ~55% of gross ad revenue (so RPM is roughly half of CPM), and Q4 RPM jumps 30-50% on holiday ad budgets. Finance out-earns gaming roughly 3-7x per view.",
+      "key_numbers": "Finance RPM $12-35 (Joshua Mayo ~$21, Graham Stephan est. $16-20); Education $4-6.50; History/documentary $4-12; Travel $3-11; Gaming median $3.50 (Epidemic Sound 2025 survey); Entertainment $1-3; creator revenue share ~55%; Q4 RPM +30-50%"
+    },
+    {
+      "topic": "YouTube Partner Program requirements 2026 - Tier 1 (expanded/early access)",
+      "summary": "Per YouTube's official help pages (support.google.com answer 13429240 'Overview of the expanded YouTube Partner Program' and answer 72851), the lower tier requires: 500 subscribers + 3 valid public uploads in the last 90 days + EITHER 3,000 valid public watch hours in the last 12 months OR 3 million valid public Shorts views in the last 90 days. This tier unlocks fan-funding features (Super Thanks, channel memberships, YouTube Shopping) but NOT ad revenue sharing. Universal requirements for both tiers: follow YouTube channel monetization policies, live in an available country/region, 2-Step Verification enabled, one active AdSense for YouTube account, no active Community Guidelines strikes. Review after application typically takes about a month.",
+      "key_numbers": "500 subs; 3 public uploads/90 days; 3,000 watch hours/12 months OR 3M Shorts views/90 days; unlocks fan funding only"
+    },
+    {
+      "topic": "YouTube Partner Program requirements 2026 - Tier 2 (full monetization / ad revenue share)",
+      "summary": "Per YouTube's official eligibility page (support.google.com answer 72851 and youtube.com/creators/partner-program): full ad revenue sharing requires 1,000 subscribers + EITHER 4,000 valid public watch hours in the last 12 months OR 10 million valid public Shorts views in the last 90 days. Creators who joined at the 500-sub tier automatically become eligible for revenue sharing benefits when they cross the 1,000-sub thresholds. These thresholds are unchanged going into 2026 (confirmed by multiple 2026-dated industry guides: TubeBuddy, StudioBinder, vidIQ blog, tubeanalytics.net).",
+      "key_numbers": "1,000 subs; 4,000 watch hours/12 months OR 10M Shorts views/90 days; ad revenue share ~55% for long-form, 45% for Shorts"
+    },
+    {
+      "topic": "July 2025 'inauthentic content' policy update (formerly 'repetitious content')",
+      "summary": "Effective July 15, 2025, YouTube renamed its longstanding 'repetitious content' monetization guideline to 'inauthentic content.' YouTube (via TeamYouTube's official community post 'Response to creator questions about YPP policies (July 2025)', support thread 356734251, and creator liaison messaging) stressed this was a MINOR update codifying existing enforcement, not a new restriction — such content 'has always been ineligible for monetization.' Inauthentic content = mass-produced or repetitive content: templated videos with little/no variation, content easily replicable at scale, readings of text you didn't create, songs merely pitch/speed-shifted, image slideshows or scrolling text with minimal narrative/commentary/educational value, and AI-generated content made from generic templates that gives the impression of mass production without the creator's original insights or perspective. Key official clarifications: (1) NO change to the separate reused content policy (commentary, clips, compilations, reactions still reviewed under it); (2) channels using AI tools remain eligible to monetize — AI to enhance storytelling is welcomed, but realistic altered/synthetic content must be disclosed; (3) the policy is enforced at the CHANNEL level — violating videos can cost the whole channel monetization; (4) the practical test YouTube states: if the average viewer can clearly tell content differs video-to-video and the substance of each video is materially varied, it's fine to monetize. Context: the update followed a boom in low-effort faceless/AI 'slop' channels.",
+      "key_numbers": "Effective July 15, 2025; official clarification posted July 11, 2025; channel-level enforcement"
+    },
+    {
+      "topic": "What gets faceless channels demonetized vs. what passes",
+      "summary": "Demonetization risk profile (from YouTube's channel monetization policies page, answer 1311392, plus post-July-2025 enforcement reporting): channels get rejected/demonetized for (a) inauthentic content — templated, mass-produced, minimal video-to-video variation, generic-AI-template output, slideshow+robo-voice with no narrative; (b) reused content — repurposing others' clips/footage/text without significant original commentary, editing, or educational/entertainment value added. Documented demonetized patterns: automated slideshows, compilations without commentary, scripted AI narrations lacking human-curated insight, faceless gaming uploads with zero commentary (even original gameplay can be flagged as low-value/reused). What passes: faceless is explicitly NOT a violation category — YouTube evaluates originality, not face-on-camera. Safe patterns: original scripts with a distinct point of view, substantial voiceover commentary that transforms any borrowed footage, human-curated research/storytelling, AI used as a production tool (editing, visuals, cloning your own voice, asset generation) shaped by the creator's own narrative, and material variation between videos. Industry estimate of the funnel: only ~3% of 'YouTube automation/cash cow' channels ever reach monetization and ~97% never break even — the policy is the main filter.",
+      "key_numbers": "~3% of automation/cash-cow channels reach monetization (autofaceless.ai estimate); channel-level enforcement; reused content requires 'significant original commentary/modification/value'"
+    },
+    {
+      "topic": "Evidence that faceless channels can and do monetize (real examples)",
+      "summary": "Multiple large faceless channels are monetized and earning at scale, including after the July 2025 update: Fern (3D history/crime documentaries, ~4.5M subs, 434M+ views, anonymous founders, 60-person team) — estimated $45K-80K+/month AdSense, majority stake acquired by PE firm Electrify Video Partners in early 2025; Lofi Girl (24/7 animated streams, 15M+ subs) est. $20K-45K/month; The Infographics Show est. $100K-300K/month; 5-Minute Crafts est. ~$38M/year. Individual-creator evidence: Adavia Davis earns $40K-60K/month across faceless ambient/sleep channels (reported with AdSense screenshots via Fortune coverage); Noah Morris ~$30K+/month across ~20 faceless channels (2.5M combined subs); Joshua Mayo (finance) reported $613,960 first-year revenue and ~$21 RPM, later ~$100K/month including $500K+/yr affiliates; mid-tier examples: Mr. Nightmare ~$10K/month, World According to Briggs $6-7K/month, Chris Invest $5-6K/month; 'Savvy Cashflow' finance channel hit 2M views and $3.2K AdSense by month six. Typical trajectories (industry aggregate): $500-5,000/month at months 12-18, $2,500-30,000/month for top performers at 18-24+ months. Caveat: big-channel figures are third-party estimates unless creator-disclosed, and survivorship bias is severe (97% of attempts reportedly never break even).",
+      "key_numbers": "Fern $45K-80K+/mo est., 4.5M subs; Adavia Davis $40-60K/mo (AdSense screenshots); Noah Morris $30K+/mo across 20 channels; Joshua Mayo $613,960 year-1, $21 RPM; Infographics Show $100-300K/mo est."
+    },
+    {
+      "topic": "Method note / source-access caveat",
+      "summary": "The sandbox's egress gateway returned 403 on ALL direct page fetches (including support.google.com, youtube.com, and secondary blogs), so official-page content was captured via domain-restricted web search (allowed_domains=support.google.com/youtube.com/blog.youtube) rather than full-page fetches. All URLs listed were returned by live search results — none are fabricated — but exact on-page wording should be re-verified from a network that can load the pages. RPM/CPM figures from SEO-oriented blogs (fluxnote, outlierkit, nexlev, etc.) are directionally consistent with each other and with creator disclosures but are C-reliability estimates, not audited data.",
+      "key_numbers": ""
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://support.google.com/youtube/answer/72851?hl=en",
+      "title": "YouTube Partner Program overview & eligibility - YouTube Help",
+      "supports": "Official YPP thresholds: 1,000 subs + 4,000 watch hours/12mo or 10M Shorts views/90 days for full monetization; 2FA, AdSense, policy-compliance requirements",
+      "reliability": "A"
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/13429240?hl=en",
+      "title": "Overview of the expanded YouTube Partner Program - YouTube Help",
+      "supports": "Official lower tier: 500 subs + 3 public uploads/90 days + 3,000 watch hours/12mo or 3M Shorts views/90 days; fan-funding features only; auto-eligibility for revenue share at 1,000 subs",
+      "reliability": "A"
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/1311392?hl=en",
+      "title": "YouTube channel monetization policies - YouTube Help",
+      "supports": "Official definitions of inauthentic content (mass-produced, templated, minimal variation, generic-AI-template) and reused content; 'materially varied' test; channel-level enforcement",
+      "reliability": "A"
+    },
+    {
+      "url": "https://support.google.com/youtube/thread/356734251/response-to-creator-questions-about-ypp-policies-july-2025?hl=en",
+      "title": "Response to creator questions about YPP policies (July 2025) - TeamYouTube community post",
+      "supports": "Official July 2025 clarification: minor rename of repetitious→inauthentic content, no new restrictions, no change to reused content policy, AI-using channels remain monetizable",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/creators/partner-program/",
+      "title": "Join the YouTube Partner Program | YouTube for Creators",
+      "supports": "Official YPP tier structure and benefits overview",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.socialmediatoday.com/news/youtube-clarifies-monetization-update-inauthentic-repeated-content/752892/",
+      "title": "YouTube Clarifies Changes to Monetization Rules Around Inauthentic Content - Social Media Today",
+      "supports": "July 15, 2025 effective date; rename context; reaction/clip/compilation channels unaffected; creator-confusion backstory",
+      "reliability": "B"
+    },
+    {
+      "url": "https://ppc.land/google-clarifies-youtube-monetization-policies-amid-creator-confusion/",
+      "title": "Google clarifies YouTube monetization policies amid creator confusion - PPC Land",
+      "supports": "July 11, 2025 TeamYouTube clarification details; 'minor update to longstanding repetitious content guideline'; no new restrictions",
+      "reliability": "B"
+    },
+    {
+      "url": "https://imusician.pro/en/resources/blog/youtube-updates-its-monetization-policies",
+      "title": "YouTube Targets Inauthentic Content With Policy Changes - iMusician",
+      "supports": "Examples of inauthentic content incl. pitch/speed-shifted songs; context of faceless AI channel boom driving the update",
+      "reliability": "B"
+    },
+    {
+      "url": "https://outlierkit.com/blog/most-profitable-youtube-niches",
+      "title": "19 Most Profitable YouTube Niches 2026 (Real RPM Data) - OutlierKit",
+      "supports": "Niche RPM table: finance $10-25+, education $4-6.50, history/documentary $5-12, gaming $2-5 CPM",
+      "reliability": "C"
+    },
+    {
+      "url": "https://fluxnote.io/guides/youtube-rpm-by-niche-usa-2026",
+      "title": "YouTube RPM by Niche USA 2026: Finance $40, Gaming $5 - FluxNote",
+      "supports": "Creator-reported RPM aggregation (r/NewTubers, r/PartneredYoutube disclosures): finance $25-40, gaming median $3.50 (Epidemic Sound 2025 survey), travel/history mid-tier ranges",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.tastyedits.com/most-profitable-youtube-niches/",
+      "title": "The 15 Most Profitable YouTube Niches in 2025 - by CPM - TastyEdits",
+      "supports": "CPM by niche 2025 incl. make-money-online $13.52 CPM; finance vs entertainment gap; 55% creator revenue share math",
+      "reliability": "B"
+    },
+    {
+      "url": "https://miraflow.ai/blog/youtube-cpm-rates-by-niche-2026-how-much-youtubers-earn",
+      "title": "YouTube CPM Rates by Niche 2026 - Miraflow",
+      "supports": "Finance CPM leadership ($12-35 creator RPM), education CPM growth from EdTech ad budgets, travel CPM $6-20 with Q2/Q4 seasonality",
+      "reliability": "C"
+    },
+    {
+      "url": "https://outlierkit.com/blog/youtube-rpm-finance-niche",
+      "title": "YouTube RPM Finance Niche 2026: Complete Earnings Guide - OutlierKit",
+      "supports": "Joshua Mayo ~$21 RPM (creator-reported); Graham Stephan est. $16-20 RPM / $163K+/mo AdSense; finance 100K views ≈ $2,100/mo vs gaming ≈ $400",
+      "reliability": "C"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/influencer-making-100k-just-month-150145110.html",
+      "title": "This Influencer Is Making $100K in Just a Month: Here's How - Yahoo Finance",
+      "supports": "Joshua Mayo creator-disclosed numbers: $613,960 first-year YouTube revenue, ~$100K/month, $500K+/yr affiliate income, 809K subs",
+      "reliability": "B"
+    },
+    {
+      "url": "https://fluxnote.io/guides/how-much-history-youtube-channel-makes",
+      "title": "History YouTube Channel Income: $400-$5,000/Month (2026) - FluxNote",
+      "supports": "History niche RPM $4-9 with US/UK audiences; monthly income ranges for history channels",
+      "reliability": "C"
+    },
+    {
+      "url": "https://frameloop.ai/blog/faceless-youtube-statistics-2026",
+      "title": "Faceless YouTube Statistics 2026: Revenue, Growth and Success Rates - Frameloop",
+      "supports": "Faceless channel examples with numbers: Fern $80K+/mo est., Lofi Girl $20-45K/mo, Adavia Davis $40-60K/mo (Fortune-verified AdSense screenshots), Noah Morris $30K+/mo across 20 channels",
+      "reliability": "C"
+    },
+    {
+      "url": "https://sigmastory.in/fern-proves-high-end-3d-animation-and-documentaries-are-the-future-of-youtube/",
+      "title": "Fern Proves High-End 3D Animation And Documentaries Are The Future Of YouTube - SigmaStory",
+      "supports": "Fern profile: anonymous founders, 4M+ subs in ~2 years, 60-person team, Electrify Video Partners majority acquisition early 2025",
+      "reliability": "C"
+    },
+    {
+      "url": "https://vidiq.com/youtube-stats/channel/UCODHrzPMGbNv67e84WDZhQQ/",
+      "title": "fern's YouTube Stats: Subscribers, Views & Earnings - vidIQ stats page",
+      "supports": "Fern AdSense estimate ~$45.55K/month, 4.5M subs, 434M+ total views (third-party estimate)",
+      "reliability": "C"
+    },
+    {
+      "url": "https://autofaceless.ai/blog/youtube-automation-statistics-2026",
+      "title": "YouTube Automation Statistics 2026: Cash Cow Channel Performance & ROI Data - AutoFaceless",
+      "supports": "Survivorship stats: ~3% of automation/faceless channels reach monetization, 97% never break even; mid-tier earner examples (Mr. Nightmare ~$10K/mo, World According to Briggs $6-7K/mo)",
+      "reliability": "C"
+    },
+    {
+      "url": "https://grokipedia.com/page/2025_YouTube_inauthentic_content_demonetizations",
+      "title": "2025 YouTube inauthentic content demonetizations - Grokipedia",
+      "supports": "Patterns among demonetized channels post-July-2025: automated slideshows, compilations without commentary, AI narrations lacking human-curated insight",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.tubebuddy.com/blog/youtube-monetization-requirements/",
+      "title": "YouTube monetization requirements 2026: How to qualify faster - TubeBuddy",
+      "supports": "Corroborates both YPP tiers unchanged into 2026; review takes ~1 month; strike/2FA requirements",
+      "reliability": "B"
+    },
+    {
+      "url": "https://medium.com/@chrisinvestmentalternative/faceless-cash-cow-youtube-channels-case-study-how-much-i-make-update-1-f10a7984d58a",
+      "title": "Faceless Cash Cow YouTube Channels Case Study: How Much I Make Update #1 - Medium (Investment Alternative)",
+      "supports": "First-person creator case study of running multiple faceless channels with disclosed earnings updates",
+      "reliability": "C"
+    },
+    {
+      "url": "https://support.google.com/youtube/community-guide/271248162/",
+      "title": "FAQ: Reused Content & YouTube's Partner Program - YouTube Community guide",
+      "supports": "Official-forum FAQ on how reused content is judged for YPP: need significant original commentary/modification/value viewers can perceive",
+      "reliability": "A"
+    }
+  ]
+}

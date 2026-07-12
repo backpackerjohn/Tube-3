@@ -1,0 +1,313 @@
+{
+  "candidates": [
+    {
+      "name": "Empty Map — population & settlement geography explainers",
+      "interest_area": "travel",
+      "niche": "Population/settlement geography: 'Why does nobody live here?', 'Why is this city exactly here?', why borders/terrain/climate shaped where humans settled. US + world, map-first.",
+      "format": "10-18 min map-driven explainers: custom QGIS/Mapbox map animations + stock drone b-roll + AI-assisted visuals, human-written script from census/geodata research, AI or recorded narration.",
+      "why_now": "The format's demand ceiling keeps rising (RealLifeLore at 7.93M subs / 1.96B total views; fern, created only 2020, at 5.08M subs / 546M views — both verified via YouTube API this session), while the mid-tier is still being conquered by solo creators: Geography By Geoff went from ~30k to 500k subs in ~21 months after Jan-2022 launch, and faceless Map Pack (created 2023-04) sits at 427k subs / 127M views.",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/@RealLifeLore",
+          "title": "RealLifeLore channel stats (YouTube Data API v3, retrieved 2026-07-12)",
+          "finding": "7,930,000 subs, 1.96B views, 496 videos, created 2016 — proves massive sustained appetite for map/geography explainers."
+        },
+        {
+          "url": "https://www.youtube.com/@Fern-TV",
+          "title": "fern channel stats (YouTube Data API v3)",
+          "finding": "5,080,000 subs and 546M views from only 130 videos on a channel created 2020-09 — documentary-style geography/story explainers monetize extreme views-per-video."
+        },
+        {
+          "url": "https://geographicgeoff.substack.com/p/holy-cow-i-hit-500000-subscribers",
+          "title": "Geoff Gibson Substack: 'Holy cow I hit 500,000 subscribers' (facts via search snippet; direct fetch was blocked by proxy)",
+          "finding": "His breakout video 'Why so few Americans live in this huge area in the middle of the country?' reached ~5.3M views; channel went ~30k → 500k subs in ~21 months and ~4M → 87M total views since Jan 2022."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Geography By Geoff",
+          "channelId": "UC7-Z34pbJ0ZAOJRmUCEz0Cg",
+          "subscribers": 1040000,
+          "notes": "API-verified: created 2021-09-06, now 1.04M subs / 256M views / 503 videos. Solo creator (per his own Substack, via search snippet). Best attainability proof: 30k → 500k subs in 21 months starting 2022."
+        },
+        {
+          "channel": "Map Pack",
+          "channelId": "UCb0JxFSwHTzH0AEsAzQHV4w",
+          "subscribers": 427000,
+          "notes": "API-verified: created 2023-04-26, 427k subs / 127M views / 274 videos — a sub-500k faceless geography channel under 3.5 years old. Caveat from its recent uploads (API): it has drifted into daily 30-min-to-2-hour AI-compilation-style videos now pulling only 4k-33k views each — evidence the low-effort end is saturating; differentiation must come from real research."
+        },
+        {
+          "channel": "RealLifeLore",
+          "channelId": "UCP5tjEmvPItGyLhmjdwP7Ww",
+          "subscribers": 7930000,
+          "notes": "API-verified ceiling of the niche: 7.93M subs, 1.96B views. Competes on geopolitics/current events; a settlement-geography specialist lane avoids head-on collision."
+        },
+        {
+          "channel": "fern",
+          "channelId": "UCODHrzPMGbNv67e84WDZhQQ",
+          "subscribers": 5080000,
+          "notes": "API-verified: 5.08M subs, 130 videos, created 2020 — shows how fast a premium-quality faceless geography/doc channel can scale."
+        }
+      ],
+      "monetization_notes": "Education/geography explainer RPM is mid-tier; travel-adjacent content benchmarks around $3-8 RPM with brand deals of $500-2,500/video in travel (fluxnote.io 2026 guide, via search snippet — C reliability). Typical sponsors in this exact niche: VPNs, Ground News, brilliant.org, map/data tools. Long 10-18 min videos allow mid-rolls.",
+      "production_complexity": "Medium. Core skills: QGIS/Mapbox map animation, After Effects or Blender-lite motion, stock footage licensing, data literacy (census, WorldPop, OSM). One well-researched video/week is realistic for a solo creator. No filming required.",
+      "originality_defense": "Every video is built on original data pulls (census tracts, elevation/climate rasters, historical settlement records) rendered into custom maps, with a human-written thesis — the opposite of the stock-footage compilation pattern; Map Pack's current low-view AI-compilation output demonstrates exactly what to avoid and that YouTube is not rewarding it.",
+      "risks": "Top-heavy competition (RealLifeLore, fern) owns broad geopolitics topics; packaging/thumbnail skill is decisive; low-effort AI map channels are flooding search (Map Pack's recent 4k-view uploads), which may increase viewer skepticism toward new faceless geography channels; inference (not verified): niche breakout requires 1 outlier video like Geoff's, so months of sub-10k-view videos are likely first."
+    },
+    {
+      "name": "Vanished — long-form documentaries on places that disappeared",
+      "interest_area": "travel",
+      "niche": "Hidden-history-of-places: ghost towns, drowned/erased towns, places destroyed by disasters or abandoned by industry, and the geography of why they died. US-first (searchable town names), global over time.",
+      "format": "40-75 min narrated documentaries built from archival photos, old maps/Sanborn overlays, terrain flyovers, and AI-restored imagery; human-written narrative script, chapter structure for watch time.",
+      "why_now": "API-verified proof that a sub-500k channel wins with this exact format right now: Part-Time Explorer (485k subs, only 184 videos, 77.9M views) put out 'The Wreck of the Red Arrow' in Feb 2026 (658k views), 'The LOST Ghost Town of Constellation, Arizona' in Mar 2026 (154k views) and a Nova Scotia ghost-town doc in Jun 2026 (43k views in 3 weeks) — hour-plus docs, no host on camera. Bright Sun Films (1.65M subs / 323M views, API) shows the ceiling for 'abandoned/failed places' storytelling.",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/@PartTimeExplorer",
+          "title": "Part-Time Explorer channel + last-10-uploads stats (YouTube Data API v3, retrieved 2026-07-12)",
+          "finding": "485k subs / 77.9M views / 184 videos; recent hour-long place-history docs earned 658k (Feb 2026), 154k (Mar 2026), 101k (Jan 2026), 43k (Jun 2026) views — current, recurring demand for long-form vanished-places documentaries from a sub-500k channel."
+        },
+        {
+          "url": "https://www.youtube.com/@BrightSunFilms",
+          "title": "Bright Sun Films channel stats (YouTube Data API v3)",
+          "finding": "1.65M subs, 323M views, 269 videos — the 'Abandoned/failed places' documentary format sustains a 7-figure-sub channel."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Part-Time Explorer",
+          "channelId": "UC3l-MBGanXHD3UKJtkaQSAw",
+          "subscribers": 485000,
+          "notes": "API-verified attainable-competition anchor: <500k subs, low upload cadence (184 videos since 2019), hour-long docs still hitting 150k-650k views in 2026. Format is narration + archival + maps (occasional field footage — a solo faceless creator can substitute licensed/drone/AI visuals)."
+        },
+        {
+          "channel": "Bright Sun Films",
+          "channelId": "UC5k3Kc0avyDJ2nG9Kxm9JmQ",
+          "subscribers": 1650000,
+          "notes": "API-verified: created 2012, 1.65M subs — demand ceiling for abandoned-places storytelling."
+        },
+        {
+          "channel": "IT'S HISTORY",
+          "channelId": "UCzIZ8HrzDgc-pNQDUG6avBA",
+          "subscribers": 881000,
+          "notes": "API-verified: 881k subs / 159.5M views / 545 videos — adjacent city-history channel showing the topic well supports high volume."
+        }
+      ],
+      "monetization_notes": "60+ min videos maximize mid-roll ad slots and watch-time RPM; documentary/history audiences skew older US/UK (higher CPM — inference). Natural sponsors: genealogy services, audiobook platforms, history apps. Evergreen: town-name searches ('what happened to X, Arizona') keep paying for years — inference from PTE's older uploads still accumulating views (not individually verified).",
+      "production_complexity": "Medium-high per video (deep archival research, 8-10k-word scripts), but low tooling cost: public-domain newspaper archives, Library of Congress/Sanborn maps, USGS terrain. 2-3 videos/month solo is realistic. Fully faceless.",
+      "originality_defense": "Each episode is primary-source historical research (newspapers.com, county records, old plat maps) synthesized into an original narrative — inherently non-compilable; the archival-research moat is exactly what mass-produced AI channels can't fake.",
+      "risks": "Long production cycles mean slow iteration and painful misses; archival image rights need care (favor pre-1929/public domain); Part-Time Explorer's brand loyalty is strong — a new entrant needs a distinct visual signature (e.g., systematic map-overlay 'then/now' style); some overlap with urbex channels whose field footage a faceless creator can't replicate."
+    },
+    {
+      "name": "The Relocation Report — data-driven US city/state rankings with shown methodology",
+      "interest_area": "travel",
+      "niche": "Where-to-live/where-it's-cheap/where-it's-emptying travel-data content: ranked lists of US states, cities, and towns (cost, crime, climate, jobs, decline/boom) built from named public datasets, plus 'why this city is dying/booming' deep dives.",
+      "format": "10-17 min ranking/analysis videos: animated charts and maps, stock b-roll of each city, AI or recorded VO from a human-written script that shows the data methodology on screen.",
+      "why_now": "World According To Briggs (1.36M subs, 455M views, 1,604 videos — API) proved a decade of demand, and API data shows a sub-300k channel winning today: Geography King (270k subs) posted 'The 6 Most Disappointing Cities in the U.S.' on 2026-06-18 and it hit 203,683 views in about 3 weeks; his lake-size state ranking did 48k in 11 days. Interest in relocation/cost-of-living content is durable and search-driven.",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/@WorldAccordingToBriggs",
+          "title": "World According To Briggs channel stats (YouTube Data API v3, retrieved 2026-07-12)",
+          "finding": "1,360,000 subs / 455M views / 1,604 videos — a single-narrator places-ranking channel sustains a 7-figure audience, and 1,600+ uploads proves the topic well is effectively bottomless."
+        },
+        {
+          "url": "https://www.youtube.com/@GeographyKing",
+          "title": "Geography King channel + last-8-uploads stats (YouTube Data API v3)",
+          "finding": "270k-sub channel: '6 Most Disappointing Cities in the U.S.' (2026-06-18) at 203,683 views in ~3 weeks; 'Ranking the Top 25 States with the Largest Lakes' (2026-07-01) at 48,515 views in 11 days — current demand at attainable channel scale."
+        },
+        {
+          "url": "https://fluxnote.io/guides/youtube-travel-channel-guide-2026",
+          "title": "Fluxnote: Travel YouTube Channel 2026 RPM & Growth Guide (facts via search snippet; direct fetch blocked)",
+          "finding": "Travel niche benchmarks ~$3-8 RPM; ~$300-800/100k views in ads plus affiliate; brand deals $500-2,500/video (hotels, credit cards, insurance)."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "World According To Briggs",
+          "channelId": "UCecPJBL6E1PVky1-gj6KH5g",
+          "subscribers": 1360000,
+          "notes": "API-verified niche leader; voice-over slideshow format (low production bar). His 1,604 videos map the topic space but most are listicles without shown methodology — the data-transparency angle is open."
+        },
+        {
+          "channel": "Geography King",
+          "channelId": "UCZ6Qas2nqiX98L0NwqfVT7A",
+          "subscribers": 270000,
+          "notes": "API-verified: 270k subs / 41.8M views / 386 videos; recent uploads range 6k-203k views. Proves a small channel gets six-figure views in this niche in June-July 2026."
+        },
+        {
+          "channel": "Geography By Geoff",
+          "channelId": "UC7-Z34pbJ0ZAOJRmUCEz0Cg",
+          "subscribers": 1040000,
+          "notes": "Adjacent (population geography); his US-decline/growth videos overlap this lane — differentiate with explicit datasets and relocation-utility framing."
+        }
+      ],
+      "monetization_notes": "Best monetization of the four: audience has purchase intent (moving, real estate, travel). Travel RPM ~$3-8 plus relocation/insurance/credit-card sponsors and affiliate (moving services, travel cards) — per fluxnote snippet (C reliability). US-heavy audience keeps CPM up. Inference: 'moving/cost of living' content borrows finance-adjacent CPMs above pure travel.",
+      "production_complexity": "Low-medium — the cheapest of the four to produce: public datasets (Census ACS, BLS, FBI UCR, Zillow ZHVI, NOAA) + chart animation + stock b-roll. 2 videos/week solo is feasible, enabling fast packaging iteration.",
+      "originality_defense": "Differentiator is showing the receipts: on-screen methodology, named datasets, reproducible scoring — versus the niche's standard vibes-based listicles. Original analysis (e.g., building a composite index per video) makes it research content, not compilation, and is defensible under YouTube's reused-content policy.",
+      "risks": "Listicle fatigue and heavy low-quality competition in search results; 'worst places' framing risks advertiser sensitivity and community backlash from named towns; seasonality in travel ads; must resist the slide into clickbait slop that the niche rewards short-term."
+    },
+    {
+      "name": "Concrete Graveyard — why cities' big projects failed (urban decline & infrastructure stories)",
+      "interest_area": "travel",
+      "niche": "Urban planning/infrastructure post-mortems: the freeway that killed a downtown, dead malls' land economics, cancelled megaprojects, transit lines that never opened, and what they did to the places around them.",
+      "format": "15-25 min visual essays: historical aerials vs today (Google Earth/USGS), animated diagrams of the plan vs reality, archival news footage, human-written narration.",
+      "why_now": "IT'S HISTORY (881k subs / 159.5M views, API) pivoted heavily into US urban-decay storytelling and sustains 545 videos of volume; a 23k-sub channel (The Nth Company) got 263k views on a single 2024 urbanism video (API-verified), showing the audience reaches beyond subscriber bases via search/suggested; urbanism commentary (CityNerd ~42.7M views, Banks Rail) is a growing YouTube category per Columbus Underground and Urbanexus roundups (2025).",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/@ItsHistory",
+          "title": "IT'S HISTORY channel stats (YouTube Data API v3, retrieved 2026-07-12)",
+          "finding": "881k subs, 159.5M views, 545 videos — sustained appetite for city-decline/infrastructure history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=bUs0ecnbOdo",
+          "title": "'Urban planning YouTube has a HUGE problem' — NTH CITY (video stats via YouTube Data API v3)",
+          "finding": "263,039 views (published 2024-02-06) on a channel with only 23,100 subs (The Nth Company, API) — urbanism topics outperform channel size via browse/suggested."
+        },
+        {
+          "url": "https://columbusunderground.com/7-urbanism-youtube-channels-you-need-to-follow-immediately-we1/",
+          "title": "Columbus Underground: 7 Urbanism YouTube Channels (facts via search snippet)",
+          "finding": "Documents a maturing urbanism-YouTube ecosystem incl. CityNerd (42.7M views across early videos) — secondary evidence of category growth."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "IT'S HISTORY",
+          "channelId": "UCzIZ8HrzDgc-pNQDUG6avBA",
+          "subscribers": 881000,
+          "notes": "API-verified mid-tier leader in urban-decay history; produces at volume, sometimes criticized by viewers for thin research (inference from community reputation, not verified) — a rigor gap to exploit."
+        },
+        {
+          "channel": "The Nth Company (NTH CITY)",
+          "channelId": "UCFIOcizSqmkHlHIUjaJT7Cg",
+          "subscribers": 23100,
+          "notes": "API-verified: 23.1k subs, 2.57M total views, yet a 263k-view urbanism video — small-channel breakout proof, though the channel itself hasn't compounded it (weakest attainability evidence of the four candidates; flagged honestly)."
+        },
+        {
+          "channel": "Bright Sun Films",
+          "channelId": "UC5k3Kc0avyDJ2nG9Kxm9JmQ",
+          "subscribers": 1650000,
+          "notes": "API-verified: 'Abandoned' series overlaps dead-mall/failed-project stories at the premium end."
+        },
+        {
+          "channel": "City Beautiful",
+          "channelId": "UCGc8ZVCsrR3dAuhvUbkbToQ",
+          "subscribers": 740000,
+          "notes": "API-verified: 740k subs / 204 videos — academic urban-planning explainer channel; face-on-camera, slower cadence; leaves the narrative 'post-mortem documentary' style open."
+        }
+      ],
+      "monetization_notes": "Mid-tier education/documentary RPM (inference); strong sponsor fit: Ground News, Nebula/CuriosityStream-style platforms, engineering/learning apps. US urban topics draw US viewers (higher CPM). Slightly weaker direct purchase-intent than the relocation lane.",
+      "production_complexity": "Medium: Google Earth Studio flyovers, archival aerials (USGS EarthExplorer is free), news archives, diagram animation. 1 video/week solo. Fully faceless.",
+      "originality_defense": "Built on primary documents — planning commission records, environmental impact statements, old newspaper coverage — with original before/after geospatial analysis; nothing to compile because the story synthesis is the product.",
+      "risks": "Weakest attainable-competition evidence of the four (one viral video on a 23k channel plus mid-size incumbents — no verified example of a new channel compounding to 100k+ in this exact lane); overlaps candidate 2 at the 'abandoned' end and B1M/City Beautiful at the planning end; per-video research burden is real; some topics (highway removal, housing) attract politicized comment sections."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.youtube.com/@RealLifeLore",
+      "title": "RealLifeLore — stats via YouTube Data API v3 channels.list (2026-07-12)",
+      "supports": "7.93M subs / 1.96B views / 496 videos / created 2016-02-15 — niche demand ceiling",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@GeographyByGeoff",
+      "title": "Geography By Geoff — stats via YouTube Data API v3",
+      "supports": "1.04M subs / 256M views / 503 videos / created 2021-09-06 — recent solo-creator success",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@Fern-TV",
+      "title": "fern — stats via YouTube Data API v3",
+      "supports": "5.08M subs / 546M views / 130 videos / created 2020-09-24 — premium faceless doc scaling",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@MapPack",
+      "title": "Map Pack — stats + last-8 uploads via YouTube Data API v3",
+      "supports": "Created 2023-04-26, 427k subs / 127M views; recent daily AI-compilation uploads only 4k-33k views (saturation warning)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@PartTimeExplorer",
+      "title": "Part-Time Explorer — stats + last-10 uploads via YouTube Data API v3",
+      "supports": "485k subs / 77.9M views / 184 videos; 2026 docs at 658k, 154k, 101k, 43k views — sub-500k channel winning in vanished-places docs",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@BrightSunFilms",
+      "title": "Bright Sun Films — stats via YouTube Data API v3",
+      "supports": "1.65M subs / 323M views / 269 videos — abandoned-places demand ceiling",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@WorldAccordingToBriggs",
+      "title": "World According To Briggs — stats via YouTube Data API v3",
+      "supports": "1.36M subs / 455M views / 1,604 videos — places-ranking demand + bottomless topic well",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@GeographyKing",
+      "title": "Geography King — stats + last-8 uploads via YouTube Data API v3",
+      "supports": "270k subs; '6 Most Disappointing Cities in the U.S.' 203,683 views in ~3 weeks (June-July 2026) — current demand at attainable scale",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@ItsHistory",
+      "title": "IT'S HISTORY — stats via YouTube Data API v3",
+      "supports": "881k subs / 159.5M views / 545 videos — urban-decay history demand",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/@CityBeautiful",
+      "title": "City Beautiful — stats via YouTube Data API v3",
+      "supports": "740k subs / 204 videos — urban planning explainer incumbent",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bUs0ecnbOdo",
+      "title": "NTH CITY 'Urban planning YouTube has a HUGE problem' — stats via YouTube Data API v3 videos.list",
+      "supports": "263,039 views on a 23.1k-sub channel (The Nth Company, UCFIOcizSqmkHlHIUjaJT7Cg) — small-channel urbanism breakout",
+      "reliability": "A"
+    },
+    {
+      "url": "https://geographicgeoff.substack.com/p/holy-cow-i-hit-500000-subscribers",
+      "title": "Geoff Gibson Substack: 500k milestone post (facts obtained from WebSearch snippet; direct fetch returned 403 via proxy)",
+      "supports": "30k → 500k subs in ~21 months; 4M → 87M views since Jan 2022; breakout video ~5.3M views — solo-creator attainability",
+      "reliability": "B"
+    },
+    {
+      "url": "https://geographicgeoff.substack.com/p/youtube-news-what-if-geography-is",
+      "title": "Geoff Gibson Substack: rebrand announcement (via search snippet)",
+      "supports": "Channel began as 'What If Geography', first episode Jan 2022, rebranded after 38 episodes",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.opb.org/article/2025/02/12/geography-by-geoff-oregon/",
+      "title": "OPB (Oregon Public Broadcasting) profile of Geography by Geoff, Feb 2025 (seen in search results; not fetched)",
+      "supports": "Independent press coverage confirming the channel/creator is a real solo Oregon-based operation",
+      "reliability": "B"
+    },
+    {
+      "url": "https://fluxnote.io/guides/youtube-travel-channel-guide-2026",
+      "title": "Fluxnote: Travel YouTube Channel 2026 RPM & Growth Guide (facts via search snippet; fetch blocked)",
+      "supports": "Travel niche ~$3-8 RPM; $300-800 ads per 100k views; brand deals $500-2,500/video",
+      "reliability": "C"
+    },
+    {
+      "url": "https://outlierkit.com/resources/faceless-youtube-channels/",
+      "title": "OutlierKit: Best Faceless YouTube Niches (facts via search snippet; fetch blocked)",
+      "supports": "Map/data-visualization cited as low-competition faceless format for 2026; travel CPM seasonal, boosted by travel-credit-card content",
+      "reliability": "C"
+    },
+    {
+      "url": "https://columbusunderground.com/7-urbanism-youtube-channels-you-need-to-follow-immediately-we1/",
+      "title": "Columbus Underground: 7 Urbanism YouTube Channels (facts via search snippet)",
+      "supports": "Urbanism-YouTube category growth; CityNerd 42.7M views across 24 early videos",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/reallifelore-s-mind-blowing-geography-explainers-captivate-us-youtube-fans/69277812",
+      "title": "Ad-hoc-news: RealLifeLore geography explainers piece (facts via search snippet)",
+      "supports": "RealLifeLore growth timeline (1M subs by 2019) and continued 2025 view spikes on borders/vanishing-islands topics",
+      "reliability": "C"
+    }
+  ]
+}

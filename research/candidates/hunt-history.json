@@ -1,0 +1,339 @@
+{
+  "candidates": [
+    {
+      "name": "Quiet Catastrophes — forgotten local & industrial disasters",
+      "interest_area": "history",
+      "niche": "Narrative documentaries on forgotten/under-covered historical disasters: mining collapses, maritime sinkings, structural failures, fires — especially long-tail and non-Anglosphere events the big channel (Fascinating Horror) has not covered",
+      "format": "15-30 min narrated documentary: archival photos, animated maps/diagrams of the failure mechanism, human-written research-heavy script, AI or self-recorded narration",
+      "why_now": "The niche leader Fascinating Horror (1.44M subs, 315M views — YouTube API) proves a large ceiling, and brand-new channels are still breaking in during 2025-2026: DisastersUncovered (created 2024-12-22) pulled 478k views on a 28-min Aberfan video published 2026-04-10. Two separate channels each got 100k-250k views on near-identical Tenerife disaster videos in May-June 2026, showing demand exceeds supply even on covered topics.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=p2Lw8NX9qUM",
+          "title": "YouTube Data API videos.list",
+          "finding": "DisastersUncovered 'The Aberfan Disaster' (pub 2026-04-10, 28m10s): 478,348 views — from a channel with only 26.6k subs, i.e. ~18x sub-to-view outperformance"
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=d581ngXJ4Os,mDQ-mX00WfI",
+          "title": "YouTube Data API videos.list",
+          "finding": "Two different channels' 87-min Tenerife disaster docs got 248k views (The Aviation Channel, 12.1k subs, pub 2026-05-20) and 108k views (On The Move, pub 2026-06-10) within weeks — duplicate topics still get absorbed, indicating unmet demand"
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=FascinatingHorror",
+          "title": "YouTube Data API channels.list",
+          "finding": "Niche ceiling: Fascinating Horror at 1,440,000 subs / 315.3M views / 453 videos (created 2019)"
+        },
+        {
+          "url": "https://grokipedia.com/page/Fascinating_Horror_YouTube_channel",
+          "title": "Grokipedia: Fascinating Horror (fact from search snippet, page not fetched)",
+          "finding": "Channel is faceless, Patreon-supported, built on calm non-sensational research-driven disaster storytelling — validating the format as monetizable and solo-producible"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Fascinating Horror",
+          "channelId": "UCFXad0mx4WxY1fXdbvtg0CQ",
+          "subscribers": 1440000,
+          "notes": "Niche leader, created 2019-01-17, 315M views, 453 videos. Covers mostly famous Anglosphere disasters — long tail left open"
+        },
+        {
+          "channel": "DisastersUncovered",
+          "channelId": "UC3lv_rnB5LgXW8t9sUH3hXw",
+          "subscribers": 26600,
+          "notes": "ATTAINABILITY PROOF: created 2024-12-22 (~19 months old), 3.76M views across 64 videos, 478k-view breakout in April 2026"
+        },
+        {
+          "channel": "The Aviation Channel",
+          "channelId": "UCS9BZN-C_9EDnYU5PW6aofQ",
+          "subscribers": 12100,
+          "notes": "Created 2023-12-20, 2.42M views, 253 videos — aviation-disaster vertical works even at micro scale"
+        },
+        {
+          "channel": "Lost Leadville",
+          "channelId": "UCYEIY-A9LuapIWDRH1wrPWQ",
+          "subscribers": 6370,
+          "notes": "Hyperlocal (one Colorado mining town), 950k total views on 40 videos — shows even single-locality disaster history draws views"
+        }
+      ],
+      "monetization_notes": "History/documentary RPM benchmarks $4-10 with Tier-1 audience (per fluxnote.io/toolbil search snippets, reliability C). Disaster content skews US/UK/AU viewers. Fascinating Horror's Patreon + memberships model transfers directly. Inference: some advertiser-sensitivity on tragedy content; mitigated by the proven calm/non-graphic house style.",
+      "production_complexity": "Low-moderate: public-domain archival photos, simple map/diagram animation, one narration track. Research (newspaper archives, accident reports) is the main labor — which is also the originality moat. Fully faceless, solo-feasible at 1 video/week.",
+      "originality_defense": "Each video is original research synthesis from accident-investigation reports and newspaper archives with custom failure diagrams — not compilation footage. The long-tail/non-Anglosphere angle means most topics have no existing English-language video at all.",
+      "risks": "Fascinating Horror owns the famous events — must go long-tail. Tragedy content carries demonetization pockets (inference). Somber tone limits crossover virality. Some archival imagery rights require care."
+    },
+    {
+      "name": "How Nations Break — economic & demographic collapse history",
+      "interest_area": "history",
+      "niche": "Economic history explainers on national collapse: hyperinflations, sovereign defaults, land-reform disasters, demographic implosions, deindustrialization — case-study format (one country/crisis per video)",
+      "format": "15-25 min explainer: charts, animated maps, archival footage stills, human-written analytical script over AI narration; Fall-of-Nations-style causal chain storytelling",
+      "why_now": "Macro-anxiety in 2026 is pulling huge numbers to historical economic collapse content, and the two fastest risers in the lane are both under 2 years old: Fall of Nations (created 2024-10-31) is at 204k subs/43.5M views, and Dr. Jonathan Tam (created 2025-08-28) hit 109k subs/13.3M views in under 11 months with a 6M-view video on Japan's demographic collapse. Mainstream interest confirmed by Big Think's Eric Cline 1177 BC interview ranking in top economic-history results for 2026.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=1QPMcWpJEgM",
+          "title": "YouTube Data API videos.list",
+          "finding": "Dr. Jonathan Tam 'How Japan Finally Made It Impossible to Make Babies' (pub 2026-03-12, 20m28s): 5,996,229 views — on a channel less than 1 year old"
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=S-R55BAYqu8",
+          "title": "YouTube Data API videos.list",
+          "finding": "Fall of Nations Zimbabwe land-reform economic collapse video (pub 2026-05-02, 18m34s): 1,978,165 views in ~10 weeks"
+        },
+        {
+          "url": "https://factually.co/fact-checks/media/is-the-fall-of-nations-youtube-channel-human-or-ai-generated-26ace6",
+          "title": "Factually.co check on Fall of Nations (fact from search snippet, page not fetched)",
+          "finding": "Third-party page documents the channel's rapid rise ('untold stories of collapsing empires... economic disasters') and notes its production model is plausibly AI-hybrid — confirming the niche is winnable with AI-assisted solo production"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Fall of Nations",
+          "channelId": "UC6nMgl1_XBgbr2ufa4UOZDw",
+          "subscribers": 204000,
+          "notes": "ATTAINABILITY PROOF: created 2024-10-31 (~20 months), 43.47M views, 285 videos. Faceless, likely AI-assisted"
+        },
+        {
+          "channel": "Dr. Jonathan Tam",
+          "channelId": "UCcc_LE8kzIzcloTVAttch5w",
+          "subscribers": 109000,
+          "notes": "ATTAINABILITY PROOF: created 2025-08-28 (<11 months), 13.33M views on 107 videos, one 6M-view breakout on demographic-economic history"
+        },
+        {
+          "channel": "How Money Works",
+          "channelId": "UCkCGANrihzExmu9QiqZpPlQ",
+          "subscribers": 0,
+          "notes": "Adjacent finance-explainer incumbent surfacing in the same searches (subs not pulled via API this session); competes on present-day economics, leaving deep-history cases open"
+        },
+        {
+          "channel": "OBF",
+          "channelId": "UCK1XzxcKXB_v_dcw_tflC1A",
+          "subscribers": 0,
+          "notes": "'How To Destroy An Economy' ranked top-10 for the niche query in 2026 (subs not pulled via API this session)"
+        }
+      ],
+      "monetization_notes": "Best RPM of the four lanes: finance-adjacent content benchmarks $8-22 RPM vs $1-5 entertainment (outlierkit/tastyedits search snippets, reliability C). Economic-history titles attract finance advertisers plus sponsors (brokerages, news apps). Inference: RPM likely lands between pure history ($4-10) and pure finance.",
+      "production_complexity": "Moderate: needs genuine economic-data research (World Bank, historical GDP/inflation series), chart design, and careful causal argumentation. Visuals are charts + maps + archival stills — solo-feasible. Higher scripting skill bar than the disaster lane.",
+      "originality_defense": "Value is in analytical synthesis — assembling data series, academic economic-history literature, and primary reporting into an original causal argument per case. No compilation footage; every chart is generated from sourced data.",
+      "risks": "Politically charged topics (Zimbabwe, immigration, demographics) invite comment wars and mislabeling risk; accuracy failures are reputationally fatal in this genre. AI-slop competitors are multiplying in exactly this lane (factually.co flags Fall of Nations itself as possibly AI) — differentiation must come from verifiable sourcing. Some topic overlap with big geopolitics channels."
+    },
+    {
+      "name": "You Wake Up In... — sensory everyday-life history beyond medieval Europe",
+      "interest_area": "history",
+      "niche": "Second-person / immersive 'what it was actually like' daily-life history (smells, food, hygiene, work, sleep) — applying the proven medieval-Europe format to underserved settings: Edo Japan, Roman insulae, Bronze Age cities, Gilded Age tenements, 1970s USSR",
+      "format": "10-20 min immersive narration with period-accurate AI-generated imagery and ambient sound design; optional companion POV Shorts (JokeLore model) as a growth engine",
+      "why_now": "The everyday-life format is exploding across every size tier in 2026 and the newest entrant proof is extreme: George's History was created 2025-12-25 and already has a 947k-view video ('1348: No Showers, No Toilet Paper — Life in the Middle Ages'). Medieval Mindset (created 2024-03) is at 207k subs with a 2.79M-view May 2026 video. Nearly all of this supply clusters on medieval Europe, leaving other eras/civilizations open with identical viewer psychology.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=1ikf4ztFPQg",
+          "title": "YouTube Data API videos.list",
+          "finding": "George's History '1348: No Showers, No Toilet Paper' (pub 2026-02-06, 11m04s): 947,464 views — from a channel created 6 weeks earlier with now only 12.1k subs"
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=849dmdc-Qf8",
+          "title": "YouTube Data API videos.list",
+          "finding": "Medieval Mindset 'Why Medieval Knights Went Completely Insane' (pub 2026-05-27, 21m35s): 2,785,249 views in ~6 weeks"
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=YGprhdU5vLI",
+          "title": "YouTube Data API videos.list",
+          "finding": "JokeLore POV-medieval Short: 5.78M views; channel totals 151.3M views across only 80 videos (created 2024-06) — immersive second-person history has massive Shorts pull"
+        },
+        {
+          "url": "https://www.threads.com/@tubelabhq/post/DJWyYWWOzKw/the-sleepless-historian-is-a-great-example-of-bringing-trends-into-a-boring-nich",
+          "title": "TubeLab on Threads (fact from search snippet, page not fetched)",
+          "finding": "Creator-economy analysts explicitly cite the \"Why You Wouldn't Last a Day as X\" everyday-life-history trend as a repeatable playbook"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "George's History",
+          "channelId": "UCfL3h3aKhXvUJtkQBXrMPCw",
+          "subscribers": 12100,
+          "notes": "ATTAINABILITY PROOF: created 2025-12-25 (~6.5 months old), 1.68M views on 35 videos, near-1M-view breakout"
+        },
+        {
+          "channel": "Medieval Mindset",
+          "channelId": "UCwS7tk2pxX_PZQ5NtmnHgTA",
+          "subscribers": 207000,
+          "notes": "Created 2024-03-24, 14.8M views, 243 videos — fast-cadence faceless essay model, medieval-only"
+        },
+        {
+          "channel": "JokeLore",
+          "channelId": "UCA_Ws8zcrzCpvuTUcFiUc5g",
+          "subscribers": 142000,
+          "notes": "Created 2024-06-30, 151.3M views / 80 videos — POV-history Shorts machine, medieval-only"
+        },
+        {
+          "channel": "Once Upon a Dress",
+          "channelId": "UC3LWxVT4ObEJ9do_G8CiDzA",
+          "subscribers": 48600,
+          "notes": "40.6M views on just 22 videos ('You're a woman in Medieval England') — second-person framing dramatically outperforms"
+        }
+      ],
+      "monetization_notes": "History RPM $4-10 Tier-1 (search-snippet benchmarks, reliability C); broad all-ages appeal helps volume. Shorts arm monetizes poorly (~$0.01-0.06 RPM per snippet data) but drives subs to long-form. Merch/book-list affiliate potential. Inference: slightly lower RPM than economic history but higher viral ceiling.",
+      "production_complexity": "Low-moderate: script research from social-history books and primary sources, AI imagery generation with period-accuracy checking, sound design. The main craft risk is visual consistency. Solo-feasible at 1-2 long-form/week plus Shorts.",
+      "originality_defense": "Original narrative scripts grounded in academic social history (diet, labor, medicine, hygiene scholarship) — the sensory-detail specificity IS the research product. No third-party footage. Differentiates from medieval-clustered incumbents by owning non-European and modern-era settings they don't cover.",
+      "risks": "The medieval slice is already crowded — must commit to underserved eras where search volume is unproven (labeled inference). AI-imagery historical inaccuracy draws credibility attacks from history communities. Format is easily copied; moat is script quality and era breadth."
+    },
+    {
+      "name": "The Accurate Sleep Historian — rigorous long-form history for sleep",
+      "interest_area": "history",
+      "niche": "2-3 hour calm, quiet-narration 'history to fall asleep to' videos (everyday routines, slow chronicles) — positioned explicitly as the human-researched, accurate alternative in a niche currently flooded with error-ridden AI slop",
+      "format": "2-3 hr low-stimulation narrated long-form: soft human-directed narration, minimal slow visuals, human-written primary-source-based scripts; chapters for repeat listening",
+      "why_now": "Demand is documented and enormous — 404 Media reported AI 'boring history' sleep videos flooding YouTube with individual 2-hour videos at 2.3M views — and brand-new entrants still break in: Sleepy History with Oliver was created 2026-01-31 and already has 24.9k subs, 2.2M views, and a 409k-view 2h34m video. The same reporting shows the supply is dominated by glitchy AI slop 'drowning out real history,' which is precisely the quality gap a rigorous human-scripted channel exploits.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics&id=6ijnwbRFkCo",
+          "title": "YouTube Data API videos.list",
+          "finding": "Sleepy History with Oliver 'Evenings Inside a Normal Home in the 1700s' (pub 2026-04-09, 2h34m17s): 409,363 views — channel was 10 weeks old at publication"
+        },
+        {
+          "url": "https://www.404media.co/ai-generated-boring-history-videos-are-flooding-youtube-and-drowning-out-real-history/",
+          "title": "404 Media: AI 'Boring History' videos flooding YouTube (facts from search snippet, page not fetched)",
+          "finding": "Documents the sleep-history boom: 3+ hour videos, 24/7 livestreams, a 2-hour 'How Medieval PEASANTS Survived the Coldest Nights' video with 2.3M views despite AI voice glitches; names Sleepless Historian, Boring History for Sleep, Dreamoria"
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UCoZd78hRUdxxsuGiABuHF_A",
+          "title": "YouTube Data API channels.list",
+          "finding": "Adjacent mega-length model: Historically (created 2023-03) has 309.7M views from only 68 videos ('The ENTIRE History of Rome') — extreme views-per-video economics of ultra-long history"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Sleepy History with Oliver",
+          "channelId": "UCcUEjyUhd-s3Dj0TS0Ekjow",
+          "subscribers": 24900,
+          "notes": "ATTAINABILITY PROOF: created 2026-01-31 (5.5 months old), 2.2M views, 142 videos already — high-cadence, everyday-routines angle"
+        },
+        {
+          "channel": "Historically",
+          "channelId": "UCoZd78hRUdxxsuGiABuHF_A",
+          "subscribers": 1260000,
+          "notes": "Ceiling proof for ultra-long-form: 1.26M subs, 309M views / 68 videos (created 2023-03)"
+        },
+        {
+          "channel": "Cottereau",
+          "channelId": "UCmYAcjJNtB8UsSZjXqyx4Zg",
+          "subscribers": 290000,
+          "notes": "115.9M views on 27 videos — evergreen mega-timeline format compounds for years"
+        },
+        {
+          "channel": "Boring History For Sleep / Sleepless Historian / Dreamoria",
+          "channelId": "",
+          "notes": "Named by 404 Media as the AI-slop incumbents (stats not pulled via API this session) — quality gap is the opening"
+        }
+      ],
+      "monetization_notes": "Watch-time economics are the draw: 2-3 hr videos allow many mid-rolls, and sleep viewers replay nightly (repeat views compounding on a small catalog — see Historically's 4.5M views/video average, API data). History RPM $4-10 benchmarks apply (snippet data, reliability C). Inference: effective RPM may be reduced if viewers are asleep/screen-off (ad skip behavior unverifiable).",
+      "production_complexity": "Moderate: each video needs a 15-25k word accurate script — the biggest labor item — but visuals are minimal (slow pans, ambient scenes), making the edit trivially solo-feasible. Cadence of 1 long video/week is realistic with AI-assisted drafting + human research verification.",
+      "originality_defense": "This is the niche where originality is the entire pitch: incumbents are documented AI slop with fabrication and voice glitches (404 Media). Differentiation = human-verified primary-source scripts, citations in description, consistent narrator persona, and 'actually accurate' branding. No reused footage; fully original narration and text.",
+      "risks": "HIGHEST-RISK candidate: association with a slop-flooded niche invites YouTube 'inauthentic/mass-produced content' policy scrutiny (inference — enforcement behavior unverified this session); discovery competition against high-volume AI farms; audience may not distinguish quality pre-click, so packaging must carry the accuracy positioning. Platform could algorithmically demote the whole genre."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&order=viewCount&publishedAfter=2026-01-01T00:00:00Z&q=archaeology+discovery+documentary",
+      "title": "YouTube Data API search.list — archaeology 2026",
+      "supports": "Top archaeology videos/channels by views 2026 (World of Antiquity, Abyss Archive)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&order=viewCount&publishedAfter=2026-01-01T00:00:00Z&q=economic+history+collapse",
+      "title": "YouTube Data API search.list — economic history 2026",
+      "supports": "Demand ranking for economic-collapse history (Fall of Nations, Dr. Jonathan Tam, OBF, Big Think/Cline)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&order=viewCount&publishedAfter=2026-01-01T00:00:00Z&q=forgotten+disaster+history",
+      "title": "YouTube Data API search.list — forgotten disasters 2026",
+      "supports": "Demand ranking for disaster history (DisastersUncovered, Aviation Channel, On The Move, Lost Leadville)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&order=viewCount&publishedAfter=2026-01-01T00:00:00Z&q=life+in+the+middle+ages",
+      "title": "YouTube Data API search.list — medieval daily life 2026",
+      "supports": "Demand ranking for everyday-life history (Medieval Mindset, George's History, JokeLore, Once Upon a Dress)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&order=viewCount&publishedAfter=2026-02-01T00:00:00Z&q=entire+history+of+sleep+documentary",
+      "title": "YouTube Data API search.list — long-form/sleep history 2026",
+      "supports": "Demand ranking for mega-length and sleep history (Historically, Sleepy History with Oliver)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UC6nMgl1_XBgbr2ufa4UOZDw,UC3lv_rnB5LgXW8t9sUH3hXw,UCS9BZN-C_9EDnYU5PW6aofQ,UCt1U1fGNuA86DYfb9DxN4LQ,UCYEIY-A9LuapIWDRH1wrPWQ,UCAPjn_clh9rxktGSBntLl_w,UC64TYItcUS940vNWhQRnJWg,UCcc_LE8kzIzcloTVAttch5w,UC11aHtNnc5bEPLI4jf6mnYg",
+      "title": "YouTube Data API channels.list — batch 1",
+      "supports": "Sub/view/age stats: Fall of Nations 204k, Dr. Tam 109k, DisastersUncovered 26.6k, Aviation Channel 12.1k, Lost Leadville 6.4k, Abyss Archive 35.4k, World of Antiquity 350k",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UCwS7tk2pxX_PZQ5NtmnHgTA,UCfL3h3aKhXvUJtkQBXrMPCw,UCA_Ws8zcrzCpvuTUcFiUc5g,UC3LWxVT4ObEJ9do_G8CiDzA,UCoZd78hRUdxxsuGiABuHF_A,UCmYAcjJNtB8UsSZjXqyx4Zg",
+      "title": "YouTube Data API channels.list — batch 2",
+      "supports": "Stats: Medieval Mindset 207k (2024-03), George's History 12.1k (2025-12), JokeLore 142k/151M views, Once Upon a Dress 48.6k/40.6M views, Historically 1.26M/309M views, Cottereau 290k/116M views",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UCcUEjyUhd-s3Dj0TS0Ekjow,UC0g0WbvanQND4dC1JDaW1_w,UCD6TPU-PvTMvqgzC_AM7_uA",
+      "title": "YouTube Data API channels.list — batch 3",
+      "supports": "Sleepy History with Oliver: created 2026-01-31, 24.9k subs, 2.2M views, 142 videos; The People Profiles 1.65M subs",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=FascinatingHorror",
+      "title": "YouTube Data API channels.list — Fascinating Horror",
+      "supports": "Niche ceiling: 1.44M subs, 315.3M views, 453 videos, created 2019-01-17",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=FallofCivilizations",
+      "title": "YouTube Data API channels.list — Fall of Civilizations",
+      "supports": "Narrative-history ceiling: 1.49M subs, 217M views from only 45 videos",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics,snippet,contentDetails&id=S-R55BAYqu8,p2Lw8NX9qUM,1QPMcWpJEgM,849dmdc-Qf8,1ikf4ztFPQg,YGprhdU5vLI,imVV-ZioAS4,d581ngXJ4Os,mDQ-mX00WfI",
+      "title": "YouTube Data API videos.list — key breakout videos",
+      "supports": "View counts: Tam Japan 6.0M, Fall of Nations Zimbabwe 1.98M, Medieval Mindset 2.79M, George's History 947k, JokeLore Short 5.78M, Aberfan 478k, Tenerife 248k/108k",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics,contentDetails&id=6ijnwbRFkCo",
+      "title": "YouTube Data API videos.list — Sleepy History video",
+      "supports": "409,363 views on a 2h34m sleep-history video from a 10-week-old channel",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.404media.co/ai-generated-boring-history-videos-are-flooding-youtube-and-drowning-out-real-history/",
+      "title": "404 Media: AI 'Boring History' videos flooding YouTube (facts obtained via search-result snippet; direct fetch blocked 403)",
+      "supports": "Sleep-history demand scale (2.3M views on one 2-hr video, 3+ hr videos, 24/7 streams) and slop-quality gap; names Sleepless Historian, Boring History for Sleep, Dreamoria",
+      "reliability": "B"
+    },
+    {
+      "url": "https://grokipedia.com/page/Fascinating_Horror_YouTube_channel",
+      "title": "Grokipedia: Fascinating Horror (via search snippet)",
+      "supports": "Faceless format, Patreon/memberships model, non-sensational research-led approach of the disaster-niche leader",
+      "reliability": "C"
+    },
+    {
+      "url": "https://factually.co/fact-checks/media/is-the-fall-of-nations-youtube-channel-human-or-ai-generated-26ace6",
+      "title": "Factually.co: Is Fall of Nations AI-generated? (via search snippet)",
+      "supports": "Fall of Nations rise documented by third party; production plausibly AI-hybrid — both opportunity (solo-feasible) and slop-competition risk",
+      "reliability": "C"
+    },
+    {
+      "url": "https://fluxnote.io/guides/how-much-history-youtube-channel-makes",
+      "title": "Fluxnote: History YouTube channel income (via search snippet)",
+      "supports": "History channel earnings $400-$5,000/month; history/documentary RPM $4-10 Tier-1; advertiser demand from publishers/streamers/game brands",
+      "reliability": "C"
+    },
+    {
+      "url": "https://outlierkit.com/blog/most-profitable-youtube-niches",
+      "title": "OutlierKit: Most profitable YouTube niches (via search snippet; direct fetch blocked 403)",
+      "supports": "Finance $8-22 RPM vs gaming/entertainment $1-5; US/UK/CA/AU audiences earn 2-3x global average; Shorts RPM $0.01-0.06",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.threads.com/@tubelabhq/post/DJWyYWWOzKw/the-sleepless-historian-is-a-great-example-of-bringing-trends-into-a-boring-nich",
+      "title": "TubeLab (Threads) on Sleepless Historian (via search snippet)",
+      "supports": "Creator-economy analysts treat everyday-life/sleep history as a repeatable trend playbook",
+      "reliability": "C"
+    }
+  ]
+}

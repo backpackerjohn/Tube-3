@@ -1,0 +1,294 @@
+{
+  "candidates": [
+    {
+      "name": "Paycheck Nation (cost-of-living & economic-anxiety explainers)",
+      "interest_area": "open-field",
+      "niche": "US household-economy explainers: layoffs, housing lock-in, grocery inflation, retirement shortfalls, Gen Z affordability — 'why your paycheck doesn't work anymore', one story per video, driven by fresh government/industry data",
+      "format": "10-15 min faceless data-documentary: AI narration over stock b-roll + original charts built from BLS/Challenger/Fed data; 2-3 uploads/week, news-adjacent but evergreen framing",
+      "why_now": "Cost-of-living anxiety is the dominant US economic story of 2026 (record AI-attributed layoffs per Challenger, affordability crisis), and the exact template was just proven: Edwards Economics went from first upload on 2025-03-26 to 358,000 subs and 12.26M views in ~15.5 months (verified via YouTube API), publishing every ~2 days.",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=SPpbGUvgmTM",
+          "title": "Mass Layoffs Are Coming for White Collar Jobs in 2026 (Edwards Economics)",
+          "finding": "194,449 views within ~3 weeks of 2026-06-24 publish, on a 358k-sub faceless channel (YouTube API videos.list)"
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCMhfTJxvzp70aOMUMORgsBw",
+          "title": "Edwards Economics channel",
+          "finding": "358,000 subs, 12,265,230 total views, 90 videos; oldest upload 2025-03-26 — i.e., the entire channel was built in under 16 months (YouTube API channels.list + playlistItems full pagination)"
+        },
+        {
+          "url": "https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/",
+          "finding": "H1 2026: 443,604 announced US job cuts, second-highest Jan-Jun total since 2020; AI the leading stated reason 4 consecutive months (fact from search snippet; direct fetch returned 403)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Edwards Economics",
+          "channelId": "UCMhfTJxvzp70aOMUMORgsBw",
+          "subscribers": 358000,
+          "notes": "THE attainability proof: <16 months old, 90 videos, recent uploads 11k-194k views each (API-verified). Faceless, AI/VO narration over stock footage."
+        },
+        {
+          "channel": "How Money Works",
+          "channelId": "UCkCGANrihzExmu9QiqZpPlQ",
+          "subscribers": 1720000,
+          "notes": "Genre ceiling: 1.72M subs, 283.6M views, 314 videos (API). Weekly cadence leaves the 2-3x/week news-reactive lane open."
+        },
+        {
+          "channel": "Wall Street Millennial",
+          "channelId": "UCUyH4QfXX-5NOT0bULqG6lQ",
+          "subscribers": 366000,
+          "notes": "366k subs, 950 videos since 2020 (API); adjacent finance-news lane, shows near-daily solo cadence is viable at 35k-125k views/video."
+        }
+      ],
+      "monetization_notes": "Finance/personal-economy is top-tier RPM territory — one industry blog puts faceless finance RPM at roughly $10-25 (Overseeros, C-grade snippet claim, unverified). Sponsor fit: budgeting apps, brokerages, job platforms, newsletters. Evergreen re-watch on affordability topics.",
+      "production_complexity": "Moderate-low: each video is a research brief (BLS/Challenger/Fed/news data) + original script + charts + stock b-roll + AI narration. Fastest production cycle of the four candidates; solo creator can hit 2-3/week.",
+      "risks": "Fast-follower influx (the Edwards template is visible to everyone); doom-fatigue if the economy improves; commodity stock-footage look requires strong data/charts to differentiate; some topics skirt 'controversial issues' ad suitability.",
+      "originality_defense": "Every video is an original script synthesizing primary data (jobs reports, Fed data, earnings) with custom-built charts and analysis — no reused footage narratives. Clears YouTube's July 2025 'inauthentic content' policy (policy rename fact from C-grade blog snippets) because the value is the research and thesis, not compiled clips."
+    },
+    {
+      "name": "The White-Collar Recession (AI & the future of work, by the numbers)",
+      "interest_area": "open-field",
+      "niche": "Data-driven breakdowns of AI's impact on jobs and industries: monthly jobs-report explainers, 'can AI actually do this job' industry autopsies, company-by-company AI restructuring stories, historical automation parallels",
+      "format": "12-18 min faceless explainer: AI narration + original data visualizations + archival/stock footage; anchored to recurring data drops (Challenger reports, BLS releases, big-company layoff announcements) for built-in search demand every month",
+      "why_now": "AI has been the #1 stated reason for US job cuts for four consecutive months — a streak with no precedent in outplacement data — with 101,743 AI-attributed cuts YTD and tech absorbing ~31% of all H1 2026 layoffs (Challenger via search snippets). Viewing demand is verified across many channels, yet no faceless channel owns this beat — views are scattered across CNN, BBC, tech channels, and career coaches (inference from scan).",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=8LLpAyNCh7M",
+          "title": "Record layoffs driven by AI: Econ analyst reacts (CNN)",
+          "finding": "111,911 views since 2026-06-05 (YouTube API)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=8EE4rG3UH7Y",
+          "title": "The Dangerous Math Behind AI Layoffs (ByteMonk)",
+          "finding": "76,137 views since 2026-05-07 on a 390k-sub solo tech channel founded 2021 (YouTube API)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=SPpbGUvgmTM",
+          "title": "Mass Layoffs Are Coming for White Collar Jobs in 2026 (Edwards Economics)",
+          "finding": "194,449 views in ~3 weeks — the layoffs topic is Edwards' biggest recent video by 4x (YouTube API)"
+        },
+        {
+          "url": "https://www.hrdive.com/news/tech-layoffs-surge-83percent-h1-2026-challenger-ai-disruption/824320/",
+          "finding": "Tech employers announced 139,156 H1 2026 job cuts, +83% YoY; AI leading stated reason 4 straight months (facts from search snippet; direct fetch 403)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "ByteMonk",
+          "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
+          "subscribers": 390000,
+          "notes": "390k subs, created 2021-11, 538 videos (API). Covers AI layoffs occasionally from a software-engineering angle — not an economics-first owner of the beat."
+        },
+        {
+          "channel": "Edwards Economics",
+          "channelId": "UCMhfTJxvzp70aOMUMORgsBw",
+          "subscribers": 358000,
+          "notes": "Touches the topic within a broader cost-of-living channel; its AI-layoffs video massively outperformed its channel average (194k vs ~11-53k), signaling unmet demand."
+        },
+        {
+          "channel": "Mark Savant",
+          "channelId": "UC2ePGMF5jsWze1sc0Gftf4w",
+          "subscribers": 21800,
+          "notes": "21.8k subs, jobs-report reaction videos get ~2.2k views (API) — the beat is open at the low end; execution quality, not incumbency, is the barrier."
+        }
+      ],
+      "monetization_notes": "Careers + business + AI = premium advertiser triangle (B2B SaaS, upskilling platforms, job boards, resume/interview tools). Strong sponsorship fit beyond AdSense; recurring monthly report videos build predictable search traffic.",
+      "production_complexity": "Moderate: requires genuine data literacy (Challenger/BLS/earnings-call parsing) and careful sourcing, but the monthly data cadence hands you a content calendar. Solo-feasible at 1-2 videos/week with AI narration and chart-heavy visuals.",
+      "risks": "Thesis risk: if the 'AI layoffs' narrative deflates (some coverage already questions attribution — e.g., BBC's 'What If We're Wrong About AI Layoffs?'), demand cools; mitigate by framing as broader future-of-work/labor-economics channel. Crowded midfield of career-coach commentary, though little rigorous faceless documentary treatment (inference).",
+      "originality_defense": "Original analysis of primary labor data and corporate filings with custom visualizations; each video advances a researched thesis rather than aggregating news clips. Skeptical, evidence-first framing differentiates from AI-hype and AI-doom content farms."
+    },
+    {
+      "name": "Private Equity Autopsies (who really killed your favorite brand)",
+      "interest_area": "open-field",
+      "niche": "Follow-the-money post-mortems of PE-destroyed companies: Red Lobster, Joann, TGI Fridays, Party City, Toys R Us, plus healthcare, nursing homes, vet clinics, local news, HVAC roll-ups — the mechanism (LBOs, sale-leasebacks, dividend recaps) as the recurring villain",
+      "format": "15-20 min faceless investigative documentary: AI narration, court/bankruptcy filings on screen, original financial timelines and diagrams of each deal structure; 1 video/week",
+      "why_now": "The PE-killed-brands story is exploding into mainstream awareness in 2025-26: a CNBC explainer on PE behind Red Lobster/TGI Fridays bankruptcies drew 280k views, and Sen. Elizabeth Warren's May 2026 'How Private Equity Gutted Local Malls' video hit 964k views (both API-verified) — while the dedicated faceless-documentary treatment of the PE angle appears unowned; incumbents (Company Man, Bright Sun Films, MagnatesMedia) tell general rise-and-fall stories, not deal-mechanics stories (inference from scans).",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=B_7SQDuUKQs",
+          "title": "How Private Equity Gutted Local Malls: Joann Fabrics, Red Lobster, Claire's, and More (Sen. Elizabeth Warren)",
+          "finding": "964,530 views since 2026-05-21 — a politician's channel pulling ~1M views on this exact topic (YouTube API)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=H9OmY-Tgup0",
+          "title": "How Private Equity Is Behind Red Lobster And TGI Fridays' Bankruptcies (CNBC)",
+          "finding": "280,507 views since 2025-02-13 (YouTube API)"
+        },
+        {
+          "url": "https://www.cnbc.com/2025/02/25/red-lobster-tgi-fridays-bankruptcies-private-equity.html",
+          "finding": "In 2024, 21 restaurant/bar chains filed for bankruptcy, 10 of them PE-backed; PE invested >$90B in US restaurants 2014-2024; Red Lobster's PE owner sold its real estate for $1.5B then rents crushed the chain (facts from search snippet; direct fetch 403)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Wall Street Millennial",
+          "channelId": "UCUyH4QfXX-5NOT0bULqG6lQ",
+          "subscribers": 366000,
+          "notes": "366k subs (<500k = attainable proof), created 2020, recent videos 35k-125k views (API); covers corporate failure/fraud news but not a dedicated PE-autopsy format."
+        },
+        {
+          "channel": "MagnatesMedia",
+          "channelId": "UCE4Gn00XZbpWvGUfIslT-tA",
+          "subscribers": 1850000,
+          "notes": "1.85M subs, 193M views over 255 videos (API) — proves long-form faceless business documentary economics, but story-of-the-founder framing, not deal forensics."
+        },
+        {
+          "channel": "Bright Sun Films",
+          "channelId": "UC5k3Kc0avyDJ2nG9Kxm9JmQ",
+          "subscribers": 1650000,
+          "notes": "1.65M subs, 269 videos since 2012 (API); 'Bankrupt' series proves durable demand for brand-death stories."
+        },
+        {
+          "channel": "More Perfect Union",
+          "channelId": "UCehBVAPy-bxmnbNARF-_tvA",
+          "subscribers": 3640000,
+          "notes": "3.64M subs, 675M total views (API); labor-angle economic exposés at giant scale confirm the audience — but it is a funded media org, not a solo faceless competitor."
+        }
+      ],
+      "monetization_notes": "Business/finance documentary audience = high RPM; strong evergreen tail (bankruptcy stories keep getting searched for years). Sponsor fit: investing platforms, business tools, newsletters. Series/franchise structure ('Autopsy #14') aids bingeing and membership upsell.",
+      "production_complexity": "Moderate-high: each episode needs real document research (bankruptcy dockets, PitchBook-style deal history via news coverage, court filings), but sources are public and the narrative template repeats. 1/week solo with AI narration + motion-graphic deal diagrams.",
+      "risks": "Defamation care required — stick to filed/adjudicated facts and hedge causal claims; politically charged framing can polarize; giants could adopt the angle (mitigation: volume + niche depth across unglamorous sectors like nursing homes and vet clinics that giants skip).",
+      "originality_defense": "Built on primary documents (bankruptcy filings, SEC filings, court records) with original deal-structure diagrams and financial timelines — analysis no compilation channel can replicate; each video makes an argued case, satisfying YouTube's authenticity/originality bar."
+    },
+    {
+      "name": "Modern Fraud Files (2020s financial crime case documentaries)",
+      "interest_area": "open-field",
+      "niche": "Closed-case documentaries of recent financial crime: fintech collapses (Frank, Synapse-style), crypto scams and rug pulls, PPP/pandemic fraud, Ponzi schemes from DOJ/SEC actions, startup fraud (Nikola-style) — cases with indictments/convictions and public court records",
+      "format": "15-20 min faceless case-file documentary: AI narration, court documents and SEC complaints on screen, timeline graphics; 1 video/week, each case sourced from DOJ/SEC press releases (an effectively infinite, legally safe topic well)",
+      "why_now": "Financial-crime storytelling demand is proven at every scale (CNBC's American Greed has run 200+ episodes; giants like Coffeezilla own breaking scandals), while the 2020s produced an unprecedented backlog of adjudicated fraud cases — crypto, PPP, fintech — that established channels haven't systematically covered; a 366k-sub channel gets 87k-93k views per fraud story right now (API-verified).",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=IUvV6DVLXFs",
+          "title": "Wall Street Millennial recent uploads (via API uploads-playlist scan)",
+          "finding": "Fraud-topic videos on a 366k-sub channel: 'Finnish Battery Startup Accused Of Massive Fraud' 87,083 views (2026-06-23) and 'Sam Altman's Crypto Scam Is Imploding' 93,195 views (2026-06-11) — both above the channel's ~35-50k baseline (YouTube API; the URL cited is representative of the uploads playlist scanned via playlistId UUUyH4QfXX-5NOT0bULqG6lQ)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Greed",
+          "finding": "American Greed: long-running CNBC documentary series on Ponzi schemes, embezzlement and white-collar crime — legacy-TV proof of durable demand for the exact format (from search result snippet)"
+        },
+        {
+          "url": "https://blog.autonolab.com/niches/2025-12-11-faceless-youtube-investigation/",
+          "finding": "Industry blog identifies white-collar crime/financial fraud narratives as an underserved angle in the faceless investigation/documentary space with wealthier, higher-RPM demographics (claim from search snippet; direct fetch 403 — C-grade, unverified)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Wall Street Millennial",
+          "channelId": "UCUyH4QfXX-5NOT0bULqG6lQ",
+          "subscribers": 366000,
+          "notes": "366k subs, created 2020-07, 950 videos, 91.2M total views (API): a solo faceless channel <500k succeeding on finance fraud/failure news — the attainability anchor."
+        },
+        {
+          "channel": "FINAiUS",
+          "channelId": "UCGBoWe1mzCvbbqDNncmxm8A",
+          "subscribers": 776000,
+          "notes": "776k subs from just 78 videos, 65M views (API) — extreme views-per-video efficiency of cinematic finance documentaries."
+        },
+        {
+          "channel": "MagnatesMedia",
+          "channelId": "UCE4Gn00XZbpWvGUfIslT-tA",
+          "subscribers": 1850000,
+          "notes": "Occasionally covers crime/mafia business stories at giant scale; doesn't run a systematic modern-fraud case-file franchise (inference)."
+        }
+      ],
+      "monetization_notes": "True-crime x finance doubles the watch-time of crime with the RPM of finance (RPM claim C-grade). Strong sponsor fit: identity protection, VPNs, fraud-monitoring, investing tools — advertisers that specifically seek scam-aware audiences. Excellent evergreen back-catalog behavior.",
+      "production_complexity": "Moderate: DOJ/SEC press releases and complaints provide free, reliable primary sources and a repeatable research pipeline; heavier scripting burden (industry guidance suggests 8-20 hours of research/writing per documentary — C-grade snippet claim). Solo-feasible at 1/week.",
+      "risks": "Coffeezilla and news channels own breaking scandals — must position as 'case closed' retrospectives, not investigations; defamation risk managed by covering only indicted/convicted cases; some ad-suitability sensitivity around crime content; audience overlap with true-crime is unproven for AI-narrated formats (inference).",
+      "originality_defense": "Primary-document journalism: each script is original synthesis of court filings, SEC complaints, and reporting, with the creator's own case chronology and analysis — the opposite of reused-content compilation; visible document sourcing on screen also builds trust and demonetization resistance."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels",
+      "title": "YouTube Data API v3 — channels.list (statistics,snippet)",
+      "supports": "All subscriber/view/video counts and channel creation dates: Edwards Economics 358k, Wall Street Millennial 366k, ByteMonk 390k, Modern MBA 803k, MagnatesMedia 1.85M, Bright Sun Films 1.65M, More Perfect Union 3.64M, How Money Works 1.72M, FINAiUS 776k, Mark Savant 21.8k",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos",
+      "title": "YouTube Data API v3 — videos.list (statistics,snippet)",
+      "supports": "All per-video view counts: Warren PE video 964,530; CNBC PE video 280,507; CNN AI layoffs 111,911; ByteMonk 76,137; Edwards layoffs video 194,449; WSM fraud videos 87,083 and 93,195; and others",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/playlistItems",
+      "title": "YouTube Data API v3 — playlistItems.list (uploads playlists UUMhfTJxvzp70aOMUMORgsBw, UUUyH4QfXX-5NOT0bULqG6lQ)",
+      "supports": "Edwards Economics oldest upload 2025-03-26 (channel effectively <16 months old); recent upload cadence and titles for Edwards Economics and Wall Street Millennial",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.challengergray.com/blog/challenger-report-june-layoffs-cool-to-45849-down-53-from-may-ai-leads-reasons-for-fourth-consecutive-month/",
+      "title": "Challenger, Gray & Christmas — June 2026 Job Cut Report",
+      "supports": "AI leading stated reason for US job cuts 4 consecutive months; 101,743 AI-attributed cuts YTD; 443,604 H1 2026 total cuts; facts obtained from search snippet — direct fetch returned HTTP 403",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.hrdive.com/news/tech-layoffs-surge-83percent-h1-2026-challenger-ai-disruption/824320/",
+      "title": "HR Dive — Tech accounts for nearly a third of US layoffs in H1 2026",
+      "supports": "Tech H1 2026 cuts 139,156, +83% YoY; ~31% of all H1 layoffs; facts from search snippet — direct fetch 403",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/02/25/red-lobster-tgi-fridays-bankruptcies-private-equity.html",
+      "title": "CNBC — How private equity played a role in Red Lobster and TGI Fridays bankruptcies",
+      "supports": "21 restaurant/bar chain bankruptcies in 2024, 10 PE-backed; >$90B PE investment in US restaurants 2014-2024; $1.5B Red Lobster sale-leaseback; facts from search snippet — direct fetch 403",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B_7SQDuUKQs",
+      "title": "Sen. Elizabeth Warren — How Private Equity Gutted Local Malls (May 2026)",
+      "supports": "Mainstream demand for PE-killed-brands topic: 964,530 views (stats via API)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H9OmY-Tgup0",
+      "title": "CNBC — How Private Equity Is Behind Red Lobster And TGI Fridays' Bankruptcies",
+      "supports": "280,507 views (stats via API)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SPpbGUvgmTM",
+      "title": "Edwards Economics — Mass Layoffs Are Coming for White Collar Jobs in 2026",
+      "supports": "194,449 views in ~3 weeks on a sub-400k faceless channel (stats via API)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8LLpAyNCh7M",
+      "title": "CNN — Record layoffs driven by AI: Econ analyst reacts",
+      "supports": "111,911 views; mainstream news demand for AI-layoffs economics coverage (stats via API)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8EE4rG3UH7Y",
+      "title": "ByteMonk — The Dangerous Math Behind AI Layoffs",
+      "supports": "76,137 views on a 390k-sub solo channel founded 2021 (stats via API)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.overseeros.com/blog/successful-faceless-finance-youtube-channels",
+      "title": "Overseeros — Successful Faceless Finance YouTube Channels in 2026",
+      "supports": "Finance faceless RPM claim (~$10-25), MagnatesMedia production stack description; from search snippet, not independently verified",
+      "reliability": "C"
+    },
+    {
+      "url": "https://blog.autonolab.com/niches/2025-12-11-faceless-youtube-investigation/",
+      "title": "Autonolab — Best Faceless YouTube Investigation Channels to Start in 2026",
+      "supports": "Claim that white-collar crime / financial fraud is an underserved higher-RPM documentary angle; from search snippet — direct fetch 403; unverified",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.vozo.ai/blogs/profitable-faceless-youtube-niches",
+      "title": "Vozo — Faceless YouTube Channel Niches (2025-2026)",
+      "supports": "July 2025 YouTube policy renaming 'repetitious content' to 'inauthentic content' targeting mass-produced low-variation videos; from search snippet; official policy page fetch returned 403 — treat as unconfirmed secondary claim",
+      "reliability": "C"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/American_Greed",
+      "title": "Wikipedia — American Greed",
+      "supports": "Long-running CNBC white-collar-crime documentary series as proof of durable format demand; from search snippet",
+      "reliability": "B"
+    }
+  ]
+}

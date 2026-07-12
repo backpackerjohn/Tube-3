@@ -1,0 +1,283 @@
+{
+  "candidates": [
+    {
+      "name": "EU5 Grand Strategy Academy (Paradox mechanics & nation guides)",
+      "interest_area": "gaming",
+      "niche": "Strategy guides and mechanics explainers for Europa Universalis V and the Paradox grand-strategy ecosystem (EU5 primary, CK3/Stellaris/Victoria 3 as expansion lanes)",
+      "format": "10-20 min scripted mechanics explainers and nation opening guides: own-captured gameplay, map/UI overlays, human-written script with AI or self-recorded narration; evergreen 'how X actually works' framing over patch-chasing",
+      "why_now": "EU5 launched 2025-11-04 and its guide ecosystem is still thin versus EU4's 12-year-old library. Beginner-guide videos posted within days of launch pulled 43k-222k views each (YouTube API verified). EU4 still had MORE concurrent players than EU5 as of May 2026 (13,503 vs 9,033 per a Steam community comparison), meaning a large veteran population has not yet migrated — a multi-year stream of 'switching to EU5' learners. Paradox titles are decade-long platforms with DLC waves that reset guide demand repeatedly.",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=qP0a4iAm5nU",
+          "title": "The Complete Beginner's Guide To Europa Universalis 5 (Ludi et Historia)",
+          "finding": "221,982 views since 2025-11-08 (YouTube API videos.list, retrieved 2026-07-12)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=nA1MujbbSA0",
+          "title": "The Ultimate EU5 Starter Guide for New Players! (Lookas et bella)",
+          "finding": "142,492 views since 2025-11-04 on a 22.8k-sub channel — views ~6x subscriber count indicates search/browse-driven demand, not audience-driven (YouTube API)"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3450310/discussions/0/841752959259873432/",
+          "finding": "Community-tracked comparison: EU5 at 9,033 concurrents vs EU4 at 13,503 on 2026-05-02 — large not-yet-migrated veteran audience (search snippet, not independently verified; player count sites steamcharts/steambase blocked 403 this session)"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3450310/discussions/0/667222425710502578/",
+          "finding": "Players actively asking for EU5 YouTube channel recommendations; only a handful of names (Generalist Gaming, The Red Hawk, Budgetmonk, Laith) surface — thin supply signal (search snippet)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Ludi et Historia",
+          "channelId": "UCc44DwqpTHpQJrCgjWVsjkA",
+          "subscribers": 255000,
+          "notes": "Created 2019, 99.6M total views. Biggest EU-focused guide channel; proves the ceiling, not a blocker for long-tail nation guides. (channels.list)"
+        },
+        {
+          "channel": "Lookas et bella",
+          "channelId": "UCGnpjeVyBeX9u0mfUf_kZwg",
+          "subscribers": 22800,
+          "notes": "ATTAINABILITY PROOF: created 2023-02-28, only 22.8k subs, yet its EU5 starter guide hit 142k views. 6.4M total channel views on 218 videos. (channels.list)"
+        },
+        {
+          "channel": "PartyElite",
+          "channelId": "UCg3BiSs8eBE9hA9EWYTgtAg",
+          "subscribers": 255000,
+          "notes": "Generalist strategy channel; EU5 beginner video 43k views — mid-tier competition. (channels.list)"
+        }
+      ],
+      "monetization_notes": "Grand-strategy audience skews older/male/PC — above-average gaming CPM (inference from audience demographics, not verified). Long-tail search traffic gives guides multi-year AdSense life; Patreon works well in Paradox communities; later lanes: campaign VODs, DLC review sponsorships.",
+      "production_complexity": "Medium-high: must actually learn/play EU5 deeply (hundreds of hours of domain knowledge is the moat); per-video production is simple (screen capture + overlays + narration). 100+ video well is trivial: ~30 major nations x openings, ~40 core mechanics, economy/warfare/diplomacy deep-dives, patch/DLC updates.",
+      "risks": "Patch churn can invalidate specific guides (mitigate: mechanics-first evergreen framing, version-stamped titles). EU5 concurrents trended down ~22% over 30 days per tracker snippet — if the game underperforms long-term the niche shrinks, though Paradox titles historically grow across years of DLC (inference). Niche ceiling is mid-six-figures subs, not millions.",
+      "originality_defense": "All footage self-captured from own gameplay; scripts are original systems analysis and tested strategies. Nothing to compile — this content cannot exist without playing the game. Zero reused-content exposure."
+    },
+    {
+      "name": "Pharloom Depths (Silksong + lore-rich indie lore documentaries)",
+      "interest_area": "gaming",
+      "niche": "Lore deep-dives and theory videos for Hollow Knight: Silksong, expanding to adjacent lore-dense indies (Rain World, Nine Sols, Blasphemous, Tunic, Animal Well)",
+      "format": "12-25 min narrated lore documentaries: own-captured footage, item-text cross-referencing, map graphics, original theories; human-written script (lore fans punish shallow AI scripts), AI or self voice",
+      "why_now": "Silksong (Sept 2025) has sold 7M+ copies plus 'millions more' on Game Pass, and Team Cherry announced the FREE Sea of Sorrow expansion for 2026 — a guaranteed second lore-demand wave on a game whose community norm is years of theorycrafting. Brand-new channels are demonstrably breaking in right now: a channel created 2025-08-27 has 1.9M views in under 11 months.",
+      "demand_evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/",
+          "title": "PC Gamer: Silksong 7M copies in 3 months",
+          "finding": "7M+ copies sold by Dec 2025 excluding Game Pass players — enormous installed base hungry for post-game explanation content"
+        },
+        {
+          "url": "https://www.windowscentral.com/gaming/hollow-knight-silksong-7-million-copies-sold-sea-of-sorrow-2026",
+          "title": "Windows Central: Sea of Sorrow expansion",
+          "finding": "Free Sea of Sorrow expansion launching 2026 — scheduled demand-reset event for lore content"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=K4Zoq1Yk-dM",
+          "title": "The (Somewhat) Complete Lore of Silksong (mossbag)",
+          "finding": "2,385,937 views since 2025-11-07 (YouTube API) — proves topic ceiling"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Ag3dOpVbe-s",
+          "title": "Silksong's Location Lore Explained (Ditlev Gren)",
+          "finding": "357,016 views on a video published 2026-02-14 — five months AFTER launch, demand persists (YouTube API)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=BeMVsiPICPs",
+          "title": "The Lore Behind All Endings in Silksong (Marushca)",
+          "finding": "237,977 views from a 5,500-subscriber channel — views 43x subs = pure topic demand (YouTube API)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "mossbag",
+          "channelId": "UCTvH45HvnOzqXvfNJqdc3xg",
+          "subscribers": 573000,
+          "notes": "Dominant Hollow Knight lore channel (94.6M views, only 93 videos). Owns flagship 'complete lore' topics but uploads slowly — long-tail topics uncovered. (channels.list)"
+        },
+        {
+          "channel": "Ditlev Gren",
+          "channelId": "UCSSiy2Ia1hI1_4vXatb99sQ",
+          "subscribers": 10100,
+          "notes": "ATTAINABILITY PROOF: channel created 2025-08-27 (Silksong launch window), 21 videos, 1,909,760 total views, multiple 350k+ view videos. A solo newcomer succeeding in months. (channels.list)"
+        },
+        {
+          "channel": "Marushca",
+          "channelId": "UC7vKb1sBx7F6O3dn_-0dtmw",
+          "subscribers": 5500,
+          "notes": "5.5k subs, 2.09M total views — second independent proof that tiny channels get large views here. (channels.list)"
+        },
+        {
+          "channel": "The Lorebrarians",
+          "channelId": "UClysgISO14gw9PyHBMV_t1A",
+          "subscribers": 152000,
+          "notes": "Multi-game lore channel; two Silksong videos at 275k and 478k views. (channels.list + videos.list)"
+        }
+      ],
+      "monetization_notes": "Lore audiences are the strongest Patreon converters in gaming (mossbag/VaatiVidya model — inference from their public Patreon presence). 15min+ docs enable midrolls; gaming CPM moderate. Sea of Sorrow coverage in 2026 is a subscriber-acquisition event.",
+      "production_complexity": "Medium: requires completing the game and deep wiki/item-text research per video; footage capture is easy; one quality video/week solo is realistic. Well depth: Silksong alone supports 50+ (characters, areas, endings, item lore, theories, expansion), adjacent indies push it well past 100.",
+      "risks": "Single-franchise concentration until multi-game expansion lands; mossbag soaks up the biggest topics; lore demand is wave-shaped (spikes at releases, decays between) — the 2026 expansion mitigates near-term. Fan communities detect low-effort AI scripting quickly.",
+      "originality_defense": "Original theory synthesis, cross-referenced primary text (in-game item descriptions), self-captured footage. Analysis and argumentation, definitionally not compilation."
+    },
+    {
+      "name": "Postmortem (rise-and-fall business documentaries on games & studios)",
+      "interest_area": "gaming",
+      "niche": "Deeply researched 'why this game/studio/franchise died' business documentaries — timelines, financials, design missteps — for the 2024-2026 wave of shutdowns and the huge evergreen back catalog",
+      "format": "20-40 min documentary: original timeline reconstruction from cited reporting, own motion graphics/charts, transformative fair-use footage, human-written script + AI narration acceptable",
+      "why_now": "The industry's 2024-2026 contraction (live-service shutdowns, studio closures) generates a constant stream of fresh subjects on top of hundreds of evergreen ones. The format is proven to be TOPIC-driven, not channel-driven: a 21.9k-sub channel with only 11 uploads has a 749k-view rise-and-fall documentary (YouTube API verified).",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=4heLi8Zpqe4",
+          "title": "PUBG Mobile: The Rise and Fall of an Empire (Glad2be1000)",
+          "finding": "749,005 views on a channel with 21,900 subs and just 11 videos — 34x views-to-subs ratio proves click demand independent of channel size (YouTube API)"
+        },
+        {
+          "url": "https://www.youtube.com/@GVMERS",
+          "title": "GVMERS channel",
+          "finding": "541,000 subs, 73M views across only 168 documentary videos = ~435k avg views/video; self-described 4-person team, so format is near-solo-producible (YouTube API channels.list, retrieved 2026-07-12)"
+        },
+        {
+          "url": "https://www.resetera.com/threads/recommend-me-some-gaming-youtube-channels.202842/",
+          "finding": "nerdSlayer's 'Death of a Game' and GVMERS repeatedly recommended by communities — established, named audience appetite for the genre (search snippet, community source)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "GVMERS",
+          "channelId": "UCSuhUzpdXg9jme6eN6HA_IA",
+          "subscribers": 541000,
+          "notes": "Genre leader; 73M views / 168 videos; slow cadence (4-person team, ~13 yrs) leaves hundreds of subjects uncovered. (channels.list)"
+        },
+        {
+          "channel": "Glad2be1000",
+          "channelId": "UCbAgquCgpfGSG1oMp_KGnJg",
+          "subscribers": 21900,
+          "notes": "ATTAINABILITY PROOF: 11 videos, 4.54M total views, 749k on one rise-and-fall doc. (channels.list + videos.list)"
+        },
+        {
+          "channel": "nerdSlayer Studios",
+          "notes": "Long-running 'Death of a Game' series; not API-verified this session (search.list quota exhausted; handle uncertain) — treat size as unverified."
+        }
+      ],
+      "monetization_notes": "Long runtimes = multiple midrolls; business/industry framing attracts finance-adjacent advertisers (inference). Back-catalog is highly evergreen — dead games stay dead. Sponsor-friendly (VPN/game services).",
+      "production_complexity": "High — the hardest of the four: each video needs days of research across news archives, earnings reports, dev interviews. Solo cadence realistically 2/month. Well depth effectively unlimited (500+ dead games/studios/franchises).",
+      "risks": "Highest reused-content exposure of the four: footage-heavy docs must lead with original graphics, charts, and analysis to survive YPP review (mitigable, but real). Research errors on contested shutdowns invite community backlash. Slow cadence delays monetization threshold.",
+      "originality_defense": "Value is the original research synthesis: sourced timelines, financial analysis, original motion graphics. Footage used as illustrative evidence under commentary, never as the content itself — structurally the opposite of a compilation."
+    },
+    {
+      "name": "Joker Math (Balatro & roguelike-deckbuilder strategy/probability explainers)",
+      "interest_area": "gaming",
+      "niche": "Strategy, scoring-math, and design analysis for Balatro and the roguelike-deckbuilder genre (Slay the Spire, Monster Train 2, new releases)",
+      "format": "8-15 min screen-capture explainers with score-math overlays: deck/joker analysis, probability breakdowns, 'why this build works' — AI narration viable, original math is the product",
+      "why_now": "Balatro's free 1.1 update — the game's first content expansion — lands in 2026 on all platforms (confirmed still in active development Feb 2026). Every joker/mechanic it adds resets the strategy meta and search demand. Meanwhile a channel created Feb 2025 has already amassed 21.8M views in this niche, proving late entry still works.",
+      "demand_evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/card-games/balatros-big-1-1-update-is-delayed-to-2026-for-a-very-good-reason-im-slow/",
+          "title": "PC Gamer: Balatro 1.1 delayed to 2026",
+          "finding": "1.1 is a free update for everyone on all platforms, releasing 2026 — scheduled demand-reset event"
+        },
+        {
+          "url": "https://www.gamesradar.com/games/roguelike/balatros-long-awaited-1-1-update-is-still-in-the-works-localthunk-says-last-night-i-stayed-up-until-the-early-hours-of-the-morning/",
+          "title": "GamesRadar: 1.1 still in the works (Feb 2026)",
+          "finding": "Active development confirmed Feb 2026 — update is coming, not vaporware"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=VEOCJtKYgpI",
+          "title": "How To Beat Every Deck In Balatro Explained (Roze)",
+          "finding": "318,032 views since 2025-07-12 — strategy-explainer demand a full 17 months after game launch (YouTube API)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=atVF4VLHks4",
+          "title": "Balatro Basics 1 (Balatro University)",
+          "finding": "610,610 views on a fundamentals explainer — evergreen tutorial demand (YouTube API)"
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Balatro University",
+          "channelId": "UCpAwXXH3rPmSIlWYwIOwlEA",
+          "subscribers": 195000,
+          "notes": "Created 2023-11-24, 195k subs, 59.4M views — niche leader built from zero in ~2.5 years, mostly gameplay-with-commentary rather than produced explainers. (channels.list)"
+        },
+        {
+          "channel": "Roze (@balatroze)",
+          "channelId": "UCnwmElguXyE2bRbp65THV3g",
+          "subscribers": 30600,
+          "notes": "ATTAINABILITY PROOF: created 2025-02-01, 30.6k subs, 21.8M total views in ~17 months (heavy Shorts mix — inference from views/subs ratio). (channels.list)"
+        },
+        {
+          "channel": "Merlot Mocha / iamfallfromgrace",
+          "notes": "Multiple sub-10k-view strategy videos exist — the floor is real; differentiation on math rigor required. (videos.list)"
+        }
+      ],
+      "monetization_notes": "Weakest CPM story of the four (younger casual audience, shorter videos — inference). Compensations: very low production cost per video, Shorts funnel demonstrably works here (Roze), genre expansion adds sponsor surface (new deckbuilder launches).",
+      "production_complexity": "Low — easiest of the four: screen capture + overlay math + script. High cadence (3+/week) feasible solo. Well: ~150 jokers x builds, deck strategies, challenge runs, probability theory, plus genre-wide coverage → 100+ videos comfortably, more after 1.1.",
+      "risks": "Single-game concentration until genre expansion; two incumbents (Balatro University, Roze) own recommendation mindshare; if 1.1 slips past 2026 the demand-reset thesis delays ('done when it's done' per developer). Balatro-only demand is post-peak — API data shows it persists but the explosive 2024 wave is over.",
+      "originality_defense": "Original probability math, tested builds, tier analysis from own runs — self-captured footage, analysis-first scripting. Not a compilation by construction."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos",
+      "title": "YouTube Data API v3 videos.list (retrieved 2026-07-12)",
+      "supports": "All video view/like/publish-date figures cited (Silksong lore videos, EU5 guides, Balatro strategy videos, PUBG Mobile doc)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels",
+      "title": "YouTube Data API v3 channels.list (retrieved 2026-07-12)",
+      "supports": "All channel subscriber/view/creation-date figures (mossbag, Ditlev Gren, Marushca, Lorebrarians, Gingy, NeddyTheNoodle, Ludi et Historia, Lookas et bella, PartyElite, GVMERS, Glad2be1000, Roze, Balatro University)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/",
+      "title": "PC Gamer: Silksong sold 7M+ copies in 3 months",
+      "supports": "Silksong installed-base demand (7M copies excluding Game Pass)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.windowscentral.com/gaming/hollow-knight-silksong-7-million-copies-sold-sea-of-sorrow-2026",
+      "title": "Windows Central: 7M sold, Sea of Sorrow free expansion 2026",
+      "supports": "2026 free expansion = upcoming lore-demand wave",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.pcgamer.com/games/card-games/balatros-big-1-1-update-is-delayed-to-2026-for-a-very-good-reason-im-slow/",
+      "title": "PC Gamer: Balatro 1.1 delayed to 2026",
+      "supports": "Balatro 1.1 free update on all platforms in 2026 (why-now catalyst)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/roguelike/balatros-long-awaited-1-1-update-is-still-in-the-works-localthunk-says-last-night-i-stayed-up-until-the-early-hours-of-the-morning/",
+      "title": "GamesRadar: Balatro 1.1 still in the works (Feb 2026)",
+      "supports": "1.1 development confirmed active as of Feb 2026",
+      "reliability": "B"
+    },
+    {
+      "url": "https://steamcommunity.com/app/3450310/discussions/0/841752959259873432/",
+      "title": "Steam discussion: EU4 has more players than EU5",
+      "supports": "EU5 9,033 vs EU4 13,503 concurrents on 2026-05-02 (unmigrated veteran audience thesis) — search snippet only, not independently verified",
+      "reliability": "C"
+    },
+    {
+      "url": "https://steamcommunity.com/app/3450310/discussions/0/667222425710502578/",
+      "title": "Steam discussion: Any good yt channel? (EU5)",
+      "supports": "Players actively seeking EU5 guide channels; thin recommended-channel supply (Generalist Gaming, Red Hawk, Budgetmonk, Laith)",
+      "reliability": "C"
+    },
+    {
+      "url": "https://tracker.gg/population/steam/3450310",
+      "title": "Tracker.gg EU5 population page",
+      "supports": "EU5 ~7,700 current online / 8,464 24h peak / -22% 30-day trend — from search snippet; direct fetch blocked (403), treat as approximate",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.resetera.com/threads/recommend-me-some-gaming-youtube-channels.202842/",
+      "title": "ResetEra: gaming channel recommendations",
+      "supports": "Community appetite for GVMERS/nerdSlayer-style documentary channels",
+      "reliability": "C"
+    },
+    {
+      "url": "https://vidiq.com/blog/post/top-youtube-gaming-niches/",
+      "title": "vidIQ: Best YouTube gaming niches 2026",
+      "supports": "Video essays/analysis listed among top 2026 gaming niches; essay audiences convert well to Patreon (secondary, promotional source)",
+      "reliability": "C"
+    }
+  ]
+}

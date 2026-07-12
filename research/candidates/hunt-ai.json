@@ -1,0 +1,399 @@
+{
+  "candidates": [
+    {
+      "name": "The Local AI Lab (working title)",
+      "interest_area": "ai",
+      "niche": "Local / self-hosted AI: running open-weight LLMs on your own hardware — build guides, model-vs-hardware benchmarks, private AI stack tutorials (Ollama, Open WebUI, llama.cpp), 'can $X hardware run model Y?' tests",
+      "format": "8-15 min screen-capture + benchmark-chart explainers with AI/cloned narration; original benchmark runs and cost math as the visual spine; no face needed",
+      "why_now": "Open-weight models (DeepSeek, Qwen, Llama) got good enough for daily work in 2025-26 while API costs and privacy worries push users local; used RTX 3090s (~$700-900) made entry cheap. r/LocalLLaMA is ~686k-890k members and growing fast (sources differ on exact count). Fresh 2026 videos in the niche are pulling 50k-320k views from channels of every size.",
+      "demand_evidence": [
+        {
+          "url": "https://gummysearch.com/r/LocalLLaMA/",
+          "title": "r/LocalLLaMA subreddit stats",
+          "finding": "r/LocalLLaMA reported at ~771k members (other 2026 sources in the same search reported 686k-890k) — a large, fast-growing hobbyist demand pool. From search snippet; exact current count unverified."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=illvibK_ZmY",
+          "title": "The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab (VirtualizationHowto)",
+          "finding": "321,483 views (YouTube API, verified) on a 108k-sub channel, published 2025-10-31 — 3x sub-count outperformance shows topic demand exceeds channel size."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=K2IGHj7KQoM",
+          "title": "Are Local Models Finally Good Enough? (Techno Tim)",
+          "finding": "137,385 views (YouTube API, verified), published 2026-05-18 — demand is current, not a 2023 fad."
+        },
+        {
+          "url": "https://www.digitalapplied.com/blog/home-ai-server-build-self-hosted-llm-2026-guide",
+          "title": "Build a Home AI Server in 2026 (search snippet)",
+          "finding": "Multiple 2026 buyer-intent guides exist; snippet claims cloud 70B inference costs $300-800/mo vs $1,500-2,000 one-time local build with 6-12 month breakeven — the cost-math content angle. Blog-grade source, figures unverified."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Technically Tim",
+          "channelId": "UCZKdfneLKfx7kp64a8Ks2Yg",
+          "subscribers": 16300,
+          "notes": "KEY ATTAINABILITY PROOF: channel created 2024-04-27, only 7 videos, 493k total views (API-verified). Its self-hosted local AI stack video has 80,338 views. A near-new channel with 7 uploads winning in this niche."
+        },
+        {
+          "channel": "Digital Spaceport",
+          "channelId": "UCiaQzXI5528Il6r2NNkrkJA",
+          "subscribers": 93800,
+          "notes": "Dedicated local-AI/homelab benchmark channel, 189 videos, 7.7M total views (API-verified) — the niche supports a mid-size specialist."
+        },
+        {
+          "channel": "VirtualizationHowto",
+          "channelId": "UCrxcWtpd1IGHG9RbD_9380A",
+          "subscribers": 108000,
+          "notes": "108k subs; single self-hosted-AI video at 321k views (API-verified)."
+        },
+        {
+          "channel": "Techno Tim",
+          "channelId": "UCOk-gHyjcWZNj3Br4oxwh0A",
+          "subscribers": 333000,
+          "notes": "Largest adjacent incumbent (homelab generalist with face); local AI is a sub-topic for him, not his core — a dedicated faceless benchmark channel can out-niche him."
+        },
+        {
+          "channel": "The Smart Workshop",
+          "channelId": "UCuDBkw9mGzkpExvGXZLfA-A",
+          "subscribers": 6880,
+          "notes": "Small channel also active here (3.5k views on cluster video) — floor exists but execution matters."
+        }
+      ],
+      "monetization_notes": "High-intent hardware audience: GPU/mini-PC/NAS affiliate links, sponsors already active in the space (Tailscale runs its own 58k-view tutorial — vendors pay for this audience). Tech/dev CPM is upper-tier (inference — not independently verified). Later: paid build guides / consulting funnels.",
+      "production_complexity": "Medium. Needs one credible test rig (~$1-2k, e.g., used RTX 3090) to generate original benchmarks; per-video work is running tests + screen capture + charts + scripted narration. Solo-feasible on a weekly cadence.",
+      "risks": "Model/tooling churn makes some tutorials stale in months (counter: hardware-tier and cost-math videos age slowly). Benchmark credibility requires actually owning hardware. Homelab generalists (Techno Tim, Christian Lempa 273k) can flood the topic when it trends.",
+      "originality_defense": "Every video is built on benchmarks and cost calculations you run yourself — original primary data, not reused footage. Scripted analysis of tradeoffs (quantization, VRAM, $/token) is genuine research output; screen recordings are your own."
+    },
+    {
+      "name": "Compute Economics (working title)",
+      "interest_area": "ai",
+      "niche": "The money and physics behind the AI boom: data center capex documentaries, power-grid and nuclear deals, cooling, chip supply chain, circular-financing analysis, failed projects and local fights — 'Wall Street Millennial for AI infrastructure'",
+      "format": "10-18 min documentary explainers: researched narration over maps, capex/power charts, satellite imagery, licensed b-roll and AI-generated scene visuals; fully faceless",
+      "why_now": "Hyperscalers are reportedly planning ~$700B in 2026 data center spend and McKinsey sizes the buildout at $5.2T by 2030 (search snippets); electricity, inflation, and oversupply fears made this a mainstream story in 2026. Browse demand is proven at the multi-million-view level, but supply is fragmented — no dedicated small/mid channel owns the beat; wins come from generalist channels' occasional videos.",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=dhqoTku-HAA",
+          "title": "How AI Datacenters Eat the World (High Yield)",
+          "finding": "1,603,425 views (YouTube API, verified) on a 120k-sub, 106-video channel — a 13x sub-count outlier proving huge browse demand for deep AI-infrastructure explainers from mid-size creators, not just media giants."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=t-8TDOFqkQA",
+          "title": "Exposing The Dark Side of America's AI Data Center Explosion (Business Insider)",
+          "finding": "7,789,278 views (YouTube API, verified), published 2025-09-12 — mass-audience appetite for the topic."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=DGjj7wDYaiI",
+          "title": "I Live 400 Yards From Mark Zuckerberg's Massive Data Center (More Perfect Union)",
+          "finding": "3,801,907 views (YouTube API, verified) — human-angle infrastructure stories travel."
+        },
+        {
+          "url": "https://technologychecker.io/blog/data-center-market-statistics-ai",
+          "title": "Data Center Market Statistics 2026 (search snippet)",
+          "finding": "Worldwide data center systems spend forecast $582B in 2026 (up from $236B in 2023); hyperscaler 2026 plans ~$700B; McKinsey $5.2T by 2030 — a story well that keeps refilling. Secondary aggregator; figures not independently verified."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "High Yield",
+          "channelId": "UCmMwHbw2j8LfvTKVh3O7Vdw",
+          "subscribers": 120000,
+          "notes": "Closest analog (faceless silicon analysis, solo); its one datacenter video did 1.6M views but the channel stays chip-focused — the infrastructure-economics beat itself is unclaimed. API-verified."
+        },
+        {
+          "channel": "MoneyFlows",
+          "channelId": "UC4nueJix0bSLmZyilUuCVrQ",
+          "subscribers": 16300,
+          "notes": "16k-sub finance channel got 31,620 views on an AI-datacenter-stocks video (API-verified) — small channels can rank on this topic."
+        },
+        {
+          "channel": "Business Insider",
+          "channelId": "UCcyq283he07B7_KUX07mmtA",
+          "subscribers": 0,
+          "notes": "Media giants (BI, PBS, More Perfect Union) take the investigative angle occasionally; subscriber count not pulled. They validate demand but don't serve recurring analytical coverage."
+        },
+        {
+          "channel": "BIS Research / CSIS / RCR Wireless (institutional uploads)",
+          "channelId": "UCWLeTWjw_IUsYwIa244KjPg",
+          "subscribers": 0,
+          "notes": "My API scan of top 'AI data center explained' search results found mostly corporate/institutional uploads with 84-14k views — YouTube-search supply is weak/fragmented; no dedicated explainer channel dominates. (Inference from a 10-video sample.)"
+        }
+      ],
+      "monetization_notes": "Business/finance-adjacent audience commands top-tier CPMs (inference, widely reported but not verified here); natural sponsors: brokerage apps, B2B SaaS, energy/tech newsletters. Story format compounds into a bingeable back catalog like business-documentary channels.",
+      "production_complexity": "Medium-high. Each episode is 15-25 hours of research, scripting, chart-building, and edit; no hardware needed. Solo-feasible at 1 video/week, and the research moat is the differentiator.",
+      "risks": "Attainability evidence is the weakest of my four: I found no <2yr dedicated channel succeeding on this exact beat (the gap could mean opportunity or weak recurring demand — the 1.6M-view High Yield outlier and three multi-million media hits argue opportunity). Browse-dependent: needs strong packaging/thumbnails. If the AI capex cycle busts, pivot to covering the bust (which historically also draws views — inference).",
+      "originality_defense": "Pure original journalism/analysis: synthesizing filings, capex reports, and power-market data into narrated documentaries. Nothing is compiled or reused; charts and scripts are original works."
+    },
+    {
+      "name": "Agentic Dev Weekly (working title)",
+      "interest_area": "ai",
+      "niche": "Agentic coding workflows — Claude Code, subagents, MCP, spec-driven development — taught as reproducible, evergreen engineering patterns with measured before/after results, aimed at working developers and technical builders (not 'build an app with no code' hype)",
+      "format": "8-14 min terminal/screen-capture tutorials and workflow case studies with scripted narration; each video ships a repo/config; faceless by default",
+      "why_now": "Claude Code reportedly passed $2.5B run-rate revenue by Feb 2026 with enterprise seats quadrupling (secondary sources) — an exploding user base that constantly needs workflow education. Multiple channels founded in the last 18 months are converting this demand into 25k-300k subs, and 2026 uploads routinely clear 25k-100k views.",
+      "demand_evidence": [
+        {
+          "url": "https://agentmarketcap.ai/blog/2026/04/05/anthropic-agentic-coding-trends-report-claude-code-eight-shifts",
+          "title": "Anthropic 2026 Agentic Coding Trends Report coverage (search snippet)",
+          "finding": "Claude Code at $2.5B ARR nine months post-launch; enterprise subscriptions quadrupled in 2026. Secondary source citing an Anthropic report; not verified against the primary."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=eSP7PLTXNy8",
+          "title": "Build a proactive agent workflow with Claude Code (Anthropic's own channel)",
+          "finding": "247,816 views in ~7 weeks (YouTube API, verified) — even vendor-produced workflow content pulls a quarter-million views; audience hunger outstrips supply of good material."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jZgcWCzxh1I",
+          "title": "Claude Code Dynamic Workflows Clearly Explained (Nate Herk)",
+          "finding": "97,760 views in 6 weeks (YouTube API, verified)."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=bcM9dP_uXJU",
+          "title": "How to Build an AI Agent with Claude Code (AI Master)",
+          "finding": "50,918 views in 12 days (YouTube API, verified), on a faceless channel created 2023 that's reached 298k subs."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Compile Future",
+          "channelId": "UCn3o-gnsVNfBhP5TtyV2RxQ",
+          "subscribers": 48000,
+          "notes": "KEY ATTAINABILITY PROOF: created 2025-01-12, only 31 videos, 48k subs, 1.38M total views (API-verified) — an 18-month-old channel built on exactly this content; its beginner Claude Code workflow video has 25,956 views."
+        },
+        {
+          "channel": "DIY Smart Code",
+          "channelId": "UC_a85mUHqsy5j0CYCgLnkEQ",
+          "subscribers": 25100,
+          "notes": "Created 2024-12-24, 25.1k subs, 4.2M total views (API-verified) — second sub-2-year success."
+        },
+        {
+          "channel": "AI Master",
+          "channelId": "UC0yHbz4OxdQFwmVX2BBQqLg",
+          "subscribers": 298000,
+          "notes": "Faceless AI-tutorial channel, created 2023, 298k subs, 30.6M views (API-verified) — ceiling proof for faceless format."
+        },
+        {
+          "channel": "Nate Herk | AI Automation",
+          "channelId": "UC2ojq-nuP8ceeHqiroeKhBA",
+          "subscribers": 853000,
+          "notes": "Largest incumbent (853k, API-verified), automation-generalist with face; leaves the rigorous-engineering-patterns lane open."
+        },
+        {
+          "channel": "Leon van Zyl",
+          "channelId": "UCtevzRsHEKhs-RK8pAqwSyQ",
+          "subscribers": 101000,
+          "notes": "101k subs; recent Claude Code video 6.7k views — mid-size players don't automatically win each upload; packaging decides."
+        }
+      ],
+      "monetization_notes": "Developer audience = premium sponsors (dev tools, AI infra, cloud credits) and strong course/template upsell; dev-tool sponsorships are among the best-paying on YouTube (inference). AdSense CPM high for B2B tech (inference).",
+      "production_complexity": "Low-medium. Screen recording + real project repos; main cost is staying current and actually engineering the workflows being taught. Fastest niche to ship in — 2-3 videos/week feasible solo.",
+      "risks": "SATURATION IS REAL AND ACCELERATING — this is the most crowded of my four lanes; dozens of channels pivoted here in 2026, plus Anthropic's own channel. Tool-version churn kills old tutorials (counter-program with evergreen patterns: spec-driven dev, testing agents, code review). Single-vendor dependency on Anthropic's product trajectory. Differentiation must come from measured results (real diffs, real time savings), not feature tours.",
+      "originality_defense": "Every video is an original engineering write-up: your own repos, configs, benchmarks of agent performance, and measured outcomes. This is authored technical education, not compilation — closer to a conference talk than a reaction video."
+    },
+    {
+      "name": "AI for the Back Office (working title)",
+      "interest_area": "ai",
+      "niche": "AI workflows for accountants, bookkeepers, and finance professionals: ChatGPT/Claude/Excel-Copilot for month-end close, reconciliation, client comms, tax-season prep; AI bookkeeping tool reviews with real firm numbers",
+      "format": "6-12 min screen-capture walkthroughs of real accounting workflows with scripted narration; template downloads as lead magnets; faceless",
+      "why_now": "Every accounting firm is being pushed to adopt AI, but YouTube supply is thin, dated, and dominated by one QuickBooks-centric creator; nobody owns the 'AI-first accounting workflows' position. Demand per video is modest but the audience is high-value B2B and the competition is the weakest I scanned.",
+      "demand_evidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=CFAMh7NMqgo",
+          "title": "ChatGPT for Accountants with Use Cases (365 Financial Analyst)",
+          "finding": "104,009 views (YouTube API, verified) — proof a well-packaged accountant-AI video can clear six figures."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=JVoTQXxma6Q",
+          "title": "ChatGPT for Accountants 101 (Hector Garcia CPA)",
+          "finding": "17,082 views (API-verified) on a 2023 video that was never seriously updated — the incumbent's coverage is stale."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9YLMt-xRNrY",
+          "title": "ChatGPT for Accountants: Create Income Statements (Simon Sez IT, 2026-02)",
+          "finding": "Only 966 views (API-verified) on a 721k-sub channel — honest negative signal: generic tutorial framing is NOT pulling search volume; positioning must be workflow/outcome-led. I present this niche as higher-risk/lower-ceiling on views."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Hector Garcia CPA",
+          "channelId": "UC00MExfC3vuP9680IUW0jLA",
+          "subscribers": 339000,
+          "notes": "Dominant incumbent (API-verified) but QuickBooks-centric, face-driven, 1,094 videos of legacy content — AI is a side topic."
+        },
+        {
+          "channel": "365 Financial Analyst",
+          "channelId": "UC1KZthNKVq8I8feFK8Z1eIQ",
+          "subscribers": 224000,
+          "notes": "224k subs; owns the one big accountant-AI hit (104k views) but is a broad finance-education brand, not an AI-workflow specialist."
+        },
+        {
+          "channel": "Value Pricing Academy",
+          "channelId": "UCOVYQamvkiM8_aCGw6nQ7xg",
+          "subscribers": 11900,
+          "notes": "11.9k-sub accountant-niche channel monetizing via coaching (API-verified) — shows small channels survive here on backend revenue. I did NOT find a <2yr breakout channel in this niche; that specific attainability proof is missing (stated honestly)."
+        },
+        {
+          "channel": "Simon Sez IT",
+          "channelId": "UC-3e3hAUhDV2lwcoQGD2grg",
+          "subscribers": 721000,
+          "notes": "Generic software-training giant getting ~1k views per accountant-AI video (API-verified) — big subs don't convert here without niche credibility."
+        }
+      ],
+      "monetization_notes": "Weakest AdSense volume of the four, but strongest per-viewer value: accounting-software affiliates/sponsors pay for exactly this audience, and template packs / CPE-style mini-courses / firm consulting are natural backends. This niche is a lead-gen business wearing a YouTube channel, not an ad-revenue play (inference).",
+      "production_complexity": "Low. Screen recordings of AI + accounting-software workflows; needs genuine accounting domain knowledge (or a paid SME reviewer) for credibility and to avoid harmful errors.",
+      "risks": "Highest risk of the four: view ceiling is demonstrably modest (most scanned videos 1k-17k views); no young-channel breakout found to prove attainability; giving wrong tax/accounting guidance carries reputational/liability risk; seasonal demand spikes around tax deadlines. Choose only if pursuing the lead-gen model, not raw views.",
+      "originality_defense": "Original workflow engineering: you design and demonstrate your own prompt chains, templates, and process maps for real accounting tasks. Zero reused content; the deliverables (templates) are original IP."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos",
+      "title": "YouTube Data API v3 — videos.list (batched calls for 30 videos across 4 niches, this session)",
+      "supports": "All video view counts, publish dates, and channel attributions cited in candidates (e.g., High Yield 1,603,425; Business Insider 7,789,278; VirtualizationHowto 321,483; Anthropic 247,816; AI Master 50,918)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels",
+      "title": "YouTube Data API v3 — channels.list (batched calls for 26 channels, this session)",
+      "supports": "All subscriber counts, channel creation dates, video counts, total views (e.g., Technically Tim 16.3k subs/created 2024-04; Compile Future 48k subs/created 2025-01; High Yield 120k; Hector Garcia 339k). Note: search.list quota was exhausted, so competitor discovery used web search for video URLs, then API verification of stats.",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dhqoTku-HAA",
+      "title": "How AI Datacenters Eat the World — High Yield",
+      "supports": "1.6M-view outlier on 120k-sub channel; AI-infrastructure browse demand",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t-8TDOFqkQA",
+      "title": "Exposing The Dark Side of America's AI Data Center Explosion — Business Insider",
+      "supports": "7.8M views; mass-market demand for data center stories",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DGjj7wDYaiI",
+      "title": "I Live 400 Yards From Mark Zuckerberg's Massive Data Center — More Perfect Union",
+      "supports": "3.8M views; human-angle infrastructure demand",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=illvibK_ZmY",
+      "title": "The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab — VirtualizationHowto",
+      "supports": "321k views on 108k-sub channel; local AI demand",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=K2IGHj7KQoM",
+      "title": "Are Local Models Finally Good Enough? — Techno Tim (2026-05)",
+      "supports": "137k views; local AI demand is current in 2026",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yoze1IxdBdM",
+      "title": "How to Self-Host Your Own Private Local AI Stack — Technically Tim",
+      "supports": "80k views on a channel created 2024-04 with 7 videos; attainability proof for local AI niche",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eSP7PLTXNy8",
+      "title": "Build a proactive agent workflow with Claude Code — Anthropic",
+      "supports": "247k views in ~7 weeks; agentic coding education demand",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jZgcWCzxh1I",
+      "title": "Claude Code Dynamic Workflows Clearly Explained — Nate Herk",
+      "supports": "97k views in 6 weeks; agentic coding demand",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bcM9dP_uXJU",
+      "title": "How to Build an AI Agent with Claude Code — AI Master",
+      "supports": "50k views in 12 days on faceless channel; format viability",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vGx5Y_gSEO0",
+      "title": "Claude Code Tutorial: Full AI Coding Workflow for Beginners — Compile Future",
+      "supports": "25.9k views; young channel (2025-01) winning in agentic coding niche",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CFAMh7NMqgo",
+      "title": "ChatGPT for Accountants (with Use Cases) — 365 Financial Analyst",
+      "supports": "104k views; accountant-AI ceiling proof",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JVoTQXxma6Q",
+      "title": "ChatGPT for Accountants 101 — Hector Garcia CPA",
+      "supports": "17k views on stale 2023 incumbent content",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9YLMt-xRNrY",
+      "title": "ChatGPT for Accountants: Create Income Statements — Simon Sez IT",
+      "supports": "966 views on 721k-sub channel; negative signal on generic framing in accountant niche",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCiaQzXI5528Il6r2NNkrkJA",
+      "title": "Digital Spaceport — YouTube channel",
+      "supports": "Dedicated local-AI/homelab specialist at 93.8k subs (stats API-verified)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://gummysearch.com/r/LocalLLaMA/",
+      "title": "r/LocalLLaMA — Subreddit Stats & Analysis (GummySearch)",
+      "supports": "r/LocalLLaMA ~771k members (other search snippets: 686k-890k); local AI community size. Search snippet, not fetched directly.",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.digitalapplied.com/blog/home-ai-server-build-self-hosted-llm-2026-guide",
+      "title": "Build a Home AI Server in 2026: Self-Hosted LLM Guide",
+      "supports": "2026 hardware entry costs (~$700-900 used RTX 3090) and local-vs-cloud cost math; from search snippet",
+      "reliability": "C"
+    },
+    {
+      "url": "https://technologychecker.io/blog/data-center-market-statistics-ai",
+      "title": "Data Center Market Statistics 2026 — TechnologyChecker",
+      "supports": "$582B 2026 data center systems spend forecast; growth rates; from search snippet",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.coradvisors.net/2026/06/ai-data-center-development-costs-2026.html?m=1",
+      "title": "AI Data Center Development Costs in 2026 — Core Insights Review",
+      "supports": "$15-20M per MW AI facility cost vs $10M traditional; McKinsey $5.2T by 2030; from search snippet",
+      "reliability": "C"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-demand-begins-justify-massive-110000106.html",
+      "title": "AI Demand Begins to Justify Massive Cost of Data-Center Buildout — Yahoo Finance",
+      "supports": "Narrative that 2026 demand is validating buildout economics; search result, not fetched",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.pbs.org/video/we-saw-what-ai-data-centers-dont-want-you-to-see-n1ewcf/",
+      "title": "We Saw What AI Data Centers Don't Want You to See — PBS (2026-05-30)",
+      "supports": "Mainstream media investing in data-center documentaries (Stargate, Texas); from search snippet",
+      "reliability": "B"
+    },
+    {
+      "url": "https://agentmarketcap.ai/blog/2026/04/05/anthropic-agentic-coding-trends-report-claude-code-eight-shifts",
+      "title": "Anthropic 2026 Agentic Coding Trends Report coverage — AgentMarketCap",
+      "supports": "Claude Code $2.5B ARR by Feb 2026; enterprise quadrupling; secondary coverage of an Anthropic report, from search snippet — not verified against primary",
+      "reliability": "C"
+    },
+    {
+      "url": "https://serpsculpt.com/claude-code-usage-statistics/",
+      "title": "Claude Code Usage Statistics 2026 — SerpSculpt",
+      "supports": "Corroborating Claude Code growth stats (10x in 3 months, market share claims); SEO aggregator, low independent reliability",
+      "reliability": "C"
+    },
+    {
+      "url": "https://sanj.dev/post/self-hosted-llm-guide-2026/",
+      "title": "Self-Hosted LLM Guide 2026",
+      "supports": "2026 framing that local LLM went from novelty to defensible operational choice; from search snippet",
+      "reliability": "C"
+    }
+  ]
+}

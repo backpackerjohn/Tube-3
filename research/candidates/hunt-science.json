@@ -1,0 +1,293 @@
+{
+  "candidates": [
+    {
+      "name": "Salvage & Sinking Forensics (modern maritime casualties from official accident reports)",
+      "interest_area": "open-field",
+      "niche": "Modern commercial-shipping disasters, salvage/wreck-recovery operations, and marine engineering failures, reconstructed from primary investigation reports (MAIB/NTSB/TSB/ATSB) rather than the over-mined Titanic-era canon.",
+      "format": "12-20 min documentary explainer: original script from the official casualty report, AI/2D map-and-diagram reconstructions, calm human-quality AI narration, timeline-driven 'what the investigators found' structure.",
+      "why_now": "The niche is visibly inflecting: a brand-new faceless channel (Waterline Salvage, created 2025-11-25) pulled 831K views on just 14 videos in ~7 months, while two mid-size faceless incumbents (Maritime Horrors 286K subs/58 videos, Waterline Stories 278K/93 videos) prove the audience sustains multiple channels. Professional mariners actively discuss and recommend these channels (gCaptain forum thread), and new MAIB/NTSB marine reports drop monthly, giving a permanent stream of fresh, uncovered stories.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels",
+          "title": "YouTube Data API channels.list (fetched this session)",
+          "finding": "Maritime Horrors: 286,000 subs, 24,456,836 views on only 58 videos (~422K avg/video). Waterline Stories: 278,000 subs, 57,645,935 views on 93 videos. Waterline Salvage: channel created 2025-11-25, already 10,100 subs and 831,626 views on 14 videos (~59K avg/video in first 7 months) — demand absorbs brand-new entrants."
+        },
+        {
+          "url": "https://www.favoree.io/channel/waterline_stories-66c9f3920695848ebbfea340",
+          "title": "Favoree — Waterline Stories",
+          "finding": "Confirms Waterline grew into a multi-channel network (Disasters, Salvage, Chronicles) at 274K subs / 54.5M views — a solo-creator-origin brand expanding because demand exceeds one channel's output."
+        },
+        {
+          "url": "https://forum.gcaptain.com/t/interesting-youtube-channel-on-marine-accidents-and-disasters/61407",
+          "title": "gCaptain professional mariner forum thread",
+          "finding": "Working mariners organically discover and recommend marine-accident YouTube channels — evidence of an engaged professional core audience beyond casual viewers."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Maritime Horrors",
+          "channelId": "UCgmDs3shU7q1wrxBx9eE74g",
+          "subscribers": 286000,
+          "notes": "286K subs, 24.4M views, only 58 videos (~422K avg views/video). Faceless narration by a USCG veteran (per Wondering Eagle blog, 2022). API-verified. Under 500K = attainable-competition proof."
+        },
+        {
+          "channel": "Waterline Stories",
+          "channelId": "UCU4MrOmalNBJHAK69q6ue9w",
+          "subscribers": 278000,
+          "notes": "278K subs, 57.6M views, 93 videos. API-verified."
+        },
+        {
+          "channel": "Waterline Salvage",
+          "channelId": "UCnMbYb2bUrZ_Y27smtWI0KQ",
+          "subscribers": 10100,
+          "notes": "KEY PROOF: channel created 2025-11-25 (7.5 months old), 831,626 views on 14 videos. A <2-year channel gaining real traction right now. API-verified."
+        },
+        {
+          "channel": "Brick Immortar",
+          "channelId": "UCjw9YUv4UoA3d0V_Pc6zLTQ",
+          "subscribers": 395000,
+          "notes": "395K subs, 55.9M views on 61 videos (~917K avg/video) — adjacent structural/marine failure analysis; shows report-driven forensic format monetizes attention. API-verified."
+        }
+      ],
+      "monetization_notes": "Long-form (12-20 min) with high retention = strong watch-time RPM; audience skews male 25-54 (favorable for VPN/audiobook/insurance sponsors typical of disaster-docu channels). Official accident reports and government imagery are largely public domain, keeping production costs near zero. Not made-for-kids, low demonetization risk (industrial accidents, not gore).",
+      "production_complexity": "Medium. Each video = read 1 official casualty report (30-200 pages), script 2,000-2,500 words, build maps/ship diagrams (AI image gen + simple 2D animation), AI or self-recorded narration. Solo creator: 1 video/week realistic. No footage-licensing dependency if diagrams are original.",
+      "originality_defense": "Every episode is an original synthesis of a primary-source investigation report — original script, original diagrams, analytical structure (cause chain, human factors, regulatory aftermath). Zero reliance on reused footage; the report IS the source, exactly like Brick Immortar's model. This is the opposite of a compilation channel.",
+      "risks": "Three visible incumbents means the historical-shipwreck end is contested — must hold the 'modern casualties + salvage engineering' lane. Sensitive when casualties involve deaths (frame respectfully, Fascinating Horror-style). Channel creation date via API is account creation, not first upload, so incumbent 'age' is partly inferred. Waterline Salvage's traction, while real, is early-stage (10K subs)."
+    },
+    {
+      "name": "Process Disaster Files (global industrial / chemical-plant accident breakdowns, CSB-style)",
+      "interest_area": "open-field",
+      "niche": "Refinery explosions, chemical releases, dust explosions, mine and factory disasters worldwide — animated forensic breakdowns built from official investigation reports (US CSB, UK HSE, EU/Asian regulators). The US government's own CSB channel proved massive demand but uploads rarely and covers only US incidents.",
+      "format": "10-15 min animated forensic breakdown: 3D/AI-assisted process animation showing the failure sequence (valve by valve), human-written script from the investigation report, AI narration, 'what changed afterward' safety-legacy ending.",
+      "why_now": "USCSB — a government agency that uploads sporadically with zero growth strategy — has 420K subs and 73.6M views on just 103 videos (~715K avg/video, API-verified): pure unserved organic demand. No independent solo channel owns the global version of this format; the closest independents (Plainly Difficult 1.1M, Brick Immortar 395K) cover it only partially and keep growing, while modern AI animation tools have just made CSB-quality process visualization feasible for a solo creator.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels",
+          "title": "YouTube Data API channels.list (fetched this session)",
+          "finding": "USCSB: 420,000 subs, 73,609,818 views on 103 videos (~715K avg/video) despite being a no-strategy government channel. Plainly Difficult: 1.1M subs, 219.8M views (disaster-history ceiling). Brick Immortar: 395K subs, 55.9M views on 61 videos."
+        },
+        {
+          "url": "https://www.youtube.com/playlist?list=PL0920C54C4FCB97C4",
+          "title": "U.S. Chemical Safety Board Videos playlist (from search results)",
+          "finding": "CSB's entire public catalog is a bounded, sparse playlist — it does not cover non-US incidents at all, leaving hundreds of documented global industrial disasters without the animated-forensic treatment."
+        },
+        {
+          "url": "https://playboard.co/en/channel/UCFXad0mx4WxY1fXdbvtg0CQ",
+          "title": "Playboard — Fascinating Horror analytics",
+          "finding": "Fascinating Horror (API-verified this session: 1.44M subs, 315M views, 453 videos since 2019) demonstrates the ceiling for respectful, research-first disaster storytelling by a solo faceless creator."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "USCSB (US Chemical Safety Board)",
+          "channelId": "UCXIkr0SRTnZO4_QpZozvCCA",
+          "subscribers": 420000,
+          "notes": "420K subs, 73.6M views, 103 videos. Government channel, sparse uploads, US-only scope — a demand proxy, not a real competitor. API-verified."
+        },
+        {
+          "channel": "Plainly Difficult",
+          "channelId": "UCb0MyY46T9ZYOzDHkYnIoXg",
+          "subscribers": 1100000,
+          "notes": "1.1M subs, 219.8M views, 431 videos — broad 'disaster documentary' generalist (nuclear, rail, industrial); does not do deep process-engineering animation. API-verified."
+        },
+        {
+          "channel": "Brick Immortar",
+          "channelId": "UCjw9YUv4UoA3d0V_Pc6zLTQ",
+          "subscribers": 395000,
+          "notes": "ATTAINABLE PROOF: 395K subs (<500K), 55.9M views on only 61 videos, report-driven structural/industrial failure analysis by a solo creator. API-verified."
+        },
+        {
+          "channel": "Fascinating Horror",
+          "channelId": "UCFXad0mx4WxY1fXdbvtg0CQ",
+          "subscribers": 1440000,
+          "notes": "1.44M subs, 315.3M views, 453 videos since 2019 — niche ceiling for solo faceless disaster storytelling. API-verified."
+        }
+      ],
+      "monetization_notes": "Engineering/safety-professional audience overlaps with high-CPM B2B-ish sponsors (PPE brands, engineering courses, Brilliant, CuriosityStream). EHS training market gives a second revenue path (licensing clips to corporate safety trainings — CSB videos are already used this way in industry, inference from their playlist's training-oriented framing). Long watch time, evergreen library.",
+      "production_complexity": "Medium-high. The moat IS the process animation: solo creator needs Blender/AI 3D pipeline or stylized 2D motion graphics. Scripts from public investigation reports (CSB/HSE reports are free, detailed, public domain in the US). 1 video per 1-2 weeks. Highest production bar of my four candidates — which is also why the field is empty.",
+      "originality_defense": "Built entirely on primary-source investigation reports with original animation and analysis; nothing to reuse even if one wanted to (most of these incidents have no usable footage). The format inherently requires original research and visualization — un-copyable by compilation channels.",
+      "risks": "Highest production complexity of the four; accuracy errors in technical explanations would be punished by the engineer-heavy audience. I could not retrieve a Reddit/press source documenting the 'fans want more CSB videos' sentiment (two searches failed) — the USCSB view stats stand as the demand evidence, and the claim that no independent channel owns the global lane is an inference from competitor scans, not exhaustively verified (search.list API quota was exhausted this session)."
+    },
+    {
+      "name": "Solved by Science (cold cases cracked by forensic genetic genealogy, science-first and ethically framed)",
+      "interest_area": "open-field",
+      "niche": "The 1,600+ (and rapidly growing) cold cases solved by forensic genetic genealogy — told as science-method stories (how the DNA tree was built, how the Doe was identified) rather than killer-glorifying true crime. YouTube's current supply is A&E TV-clip dumps; no dedicated independent faceless channel owns this beat.",
+      "format": "15-20 min single-case documentary: human-written script from court records/press/Othram case files, original family-tree and lab-method graphics, AI narration, victim-centered framing (DNA:ID podcast's proven episode structure, ported to video).",
+      "why_now": "The case pipeline is exploding right now: Florida's AG announced a $600K Othram partnership in April 2026 to attack a 21,000-case backlog, Othram claims 600+ solves, and NBC reports 1,600+ total FGG solves with crowdfunding filling gaps — every month produces new, named, adjudicated cases to cover. Meanwhile my searches show YouTube supply is dominated by A&E 'Cold Case Files' re-uploads and one-off compilations, with the dedicated single-case treatment living on podcasts (DNA:ID), not video.",
+      "demand_evidence": [
+        {
+          "url": "https://www.nbcnews.com/news/us-news/genetic-genealogy-forensic-tool-crowdfunding-rcna259925",
+          "title": "NBC News: genetic genealogy forensic tool / crowdfunding",
+          "finding": "1,600+ cases solved via forensic genetic genealogy in the US and Canada per an ongoing academic tally; method applicable to hundreds of thousands of unsolved crimes but underfunded — mainstream news validation of topic salience and a 1,600-case topic well."
+        },
+        {
+          "url": "https://www.wlrn.org/law-justice/2026-04-08/uthmeier-deploys-genetic-genealogy-to-tackle-massive-cold-case-backlog",
+          "title": "WLRN (April 2026): Florida deploys genetic genealogy on cold case backlog",
+          "finding": "Florida AG announced $600,000 partnership with Othram against 21,000+ unsolved murders; Othram credits its tech with 600+ solves — guarantees a growing stream of fresh, coverable cases through 2026+."
+        },
+        {
+          "url": "https://music.amazon.com/podcasts/6af7d44c-cfb0-4bc0-bc61-f50a3baf2c7b/dna-id",
+          "title": "DNA: ID podcast (Amazon Music)",
+          "finding": "A dedicated one-case-per-episode genetic-genealogy podcast already exists and sustains a multi-season run — the format is proven in audio while the equivalent dedicated YouTube channel is absent (absence is an inference from search results; search.list quota prevented an exhaustive API sweep)."
+        },
+        {
+          "url": "https://isogg.org/wiki/Law_enforcement_cases_solved_using_genetic_genealogy",
+          "title": "ISOGG Wiki: law enforcement cases solved using genetic genealogy",
+          "finding": "A maintained public index of solved FGG cases — a ready-made, sourced content backlog of well over 100 episodes."
+        },
+        {
+          "url": "https://dnasolves.com/articles/",
+          "title": "DNASolves (Othram) featured case archive",
+          "finding": "Othram publishes ongoing case write-ups — a primary-source feed for new episodes."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Cold Trace - True Crime Stories",
+          "channelId": "UCj3dz5z4zca7sTiYa7ZixwQ",
+          "subscribers": 126000,
+          "notes": "KEY ATTAINABLE PROOF: channel created 2024-03-19 (16 months old), 126K subs, 24.9M views across 306 videos — a sub-2-year faceless true-crime narration channel succeeding now. (That it is faceless-narration style is per its positioning in search results; stats are API-verified.)"
+        },
+        {
+          "channel": "A&E 'Cold Case Files' official uploads",
+          "channelId": "",
+          "subscribers": 0,
+          "notes": "Not API-scanned; observed via web search: A&E full-episode marathons dominate YouTube results for 'cold case DNA' queries — TV-clip supply, not creator-native supply. Inference: the dedicated independent lane is open."
+        }
+      ],
+      "monetization_notes": "True crime carries ad-suitability risk, but science-first, victim-identification framing (Doe cases, lab methodology) sits closer to educational content and matches advertiser-friendly guidelines better than murder-porn framing. Strong sponsor fit: ancestry/DNA kits, audiobook and streaming true-crime services. Podcast-repurposing gives a second revenue rail.",
+      "production_complexity": "Low-medium. Sources are public (court records, agency press releases, Othram/DNASolves write-ups, ISOGG index). Visuals: original family-tree diagrams, maps, timeline graphics — no crime-scene footage needed. Fastest to produce of my four candidates; 1-2 videos/week solo.",
+      "originality_defense": "Each episode is original investigative synthesis across court records, press, and lab sources with original tree/method graphics — no archival footage dependency, no re-narrated Wikipedia. The science-method angle (how the genealogy was actually built) is analysis, not recap.",
+      "risks": "True crime demonetization waves and platform policy shifts; ethical/legal care needed (only adjudicated or officially released cases; victim-family sensitivity; some named suspects pre-trial must be handled as alleged). A&E and big true-crime channels could move into the sub-niche. Could not verify via API search whether other small FGG-dedicated channels exist (search quota exhausted) — the 'gap' is an inference from multiple web searches."
+    },
+    {
+      "name": "Final Report (air-disaster investigations beyond the famous 50 — fresh reports and non-Western incidents)",
+      "interest_area": "open-field",
+      "niche": "Air accident investigation explainers focused on the under-covered inventory: newly released 2024-2026 final reports, non-Western carriers, helicopter/GA/cargo incidents — the long tail that incumbents (who keep re-telling the same canonical crashes) leave open.",
+      "format": "15-25 min investigation narrative: flight-sim (MSFS) recreations + original CVR/FDR timeline graphics, human-written script from the official final report (NTSB/BEA/AAIB/etc.), AI or self-recorded narration.",
+      "why_now": "This format has the most explosive verified unit economics I found anywhere in the lane: Green Dot Aviation, faceless and founded Oct 2021, averages ~1.2M views per video (117.9M views / 97 videos) at 600K subs — while Mini Air Crash Investigation proves a modest solo operation sustains 231K subs / 64.2M views with simple visuals, and Disaster Breakdown (261K) confirms a third mid-tier seat exists. New final reports are published weekly worldwide, so the content well refills itself; the catch is real and stated below: the famous-crash end is crowded, so entry must target the uncovered long tail.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels",
+          "title": "YouTube Data API channels.list (fetched this session)",
+          "finding": "Green Dot Aviation: created 2021-10-07, 600,000 subs, 117,870,607 views on 97 videos = ~1.21M average views per video. Mini Air Crash Investigation: 231,000 subs, 64,234,040 views on 312 videos (~206K avg). Disaster Breakdown: 261,000 subs, 56,695,560 views on 187 videos."
+        },
+        {
+          "url": "https://www.favoree.io/channel/disaster_breakdown-6651083fd200e614ef004caa",
+          "title": "Favoree — Disaster Breakdown",
+          "finding": "Confirms a third mid-tier channel (258K subs, 54.8M views) built by a solo creator scripting from publicly available official accident reports — the exact production model proposed here."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Green Dot Aviation",
+          "channelId": "UCfCNU6LWB66VR48V58d2KOg",
+          "subscribers": 600000,
+          "notes": "Founded Oct 2021 → 600K subs, ~1.21M avg views/video, faceless MSFS-visual format. Proof a post-2021 entrant reached the top tier. API-verified."
+        },
+        {
+          "channel": "Mini Air Crash Investigation",
+          "channelId": "UCKS-DNHu6BYk9fxH-jCdV_g",
+          "subscribers": 231000,
+          "notes": "ATTAINABLE PROOF: 231K subs (<500K), 64.2M lifetime views across 312 videos with modest production — a sustainable mid-tier solo lane exists. API-verified."
+        },
+        {
+          "channel": "Disaster Breakdown",
+          "channelId": "UCAHoOAB6wy04LvRW2vLffBQ",
+          "subscribers": 261000,
+          "notes": "261K subs, 56.7M views, 187 videos; solo creator, scripts from official accident reports (per Favoree). API-verified."
+        }
+      ],
+      "monetization_notes": "Aviation audiences are premium: high sponsor CPMs (flight-sim hardware, VPNs, Brilliant, aviation courses), long watch sessions, evergreen back catalog (Green Dot's per-video average shows library value). MSFS footage recorded by the creator is original material, sidestepping licensing.",
+      "production_complexity": "Medium. Requires MSFS + recording rig and report-reading discipline; 1 video per 1-2 weeks solo. Higher scripting bar than true crime (technical accuracy scrutinized by pilot viewers).",
+      "originality_defense": "Original scripts from primary-source final reports, self-recorded sim recreations, original FDR/CVR timeline graphics — the Green Dot/Mini ACI model, which YouTube treats as transformative documentary work, not reused content.",
+      "risks": "MOST SATURATED of my four candidates — Mentour Pilot, Green Dot, Disaster Breakdown, Mini ACI and others already compete; the 'famous crashes' end is effectively closed. The under-covered-long-tail thesis (non-Western, helicopter/GA, fresh 2024-26 reports) is an inference from incumbent catalogs, not something I could verify with API keyword searches (search.list quota exhausted). Long-tail incidents likely draw lower per-video views than canonical crashes. Recommend this as the fallback pick, not the lead."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels",
+      "title": "YouTube Data API v3 channels.list (statistics+snippet), fetched via curl this session",
+      "supports": "All subscriber/view/video counts and channel creation dates cited for: Fascinating Horror (1.44M/315.3M/453), Waterline Stories (278K/57.6M/93), Maritime Horrors (286K/24.5M/58), Plainly Difficult (1.1M/219.8M/431), Brick Immortar (395K/55.9M/61), USCSB (420K/73.6M/103), The Space Race (830K/185M/454, created 2021-07), Primal Space (1.92M/472.8M/166), Green Dot Aviation (600K/117.9M/97, created 2021-10), Mini Air Crash Investigation (231K/64.2M/312), Cold Trace (126K/24.9M/306, created 2024-03-19), Waterline Salvage (10.1K/831.6K/14, created 2025-11-25), Disaster Breakdown (261K/56.7M/187). Note: search.list quota was exhausted (429), so competitor discovery used web search + forHandle/id lookups; channel publishedAt = account creation, not necessarily first upload.",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.nbcnews.com/news/us-news/genetic-genealogy-forensic-tool-crowdfunding-rcna259925",
+      "title": "NBC News: This powerful forensic tool is cracking cold cases — but price tag is often an obstacle",
+      "supports": "1,600+ cases solved by forensic genetic genealogy in US/Canada (academic tally); method underfunded relative to applicable caseload. (Fact from search result snippet.)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.wlrn.org/law-justice/2026-04-08/uthmeier-deploys-genetic-genealogy-to-tackle-massive-cold-case-backlog",
+      "title": "WLRN (2026-04-08): Uthmeier deploys genetic genealogy to tackle massive cold case backlog",
+      "supports": "Florida AG's $600K Othram partnership; 21,000+ unsolved Florida murders; Othram credited with 600+ solves — 2026 news-cycle demand for the Solved by Science candidate. (Fact from search result snippet.)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://isogg.org/wiki/Law_enforcement_cases_solved_using_genetic_genealogy",
+      "title": "ISOGG Wiki: Law enforcement cases solved using genetic genealogy",
+      "supports": "Existence of a maintained public index of solved FGG cases = 100+ episode topic well.",
+      "reliability": "B"
+    },
+    {
+      "url": "https://dnasolves.com/articles/",
+      "title": "DNASolves (Othram) featured case articles",
+      "supports": "Ongoing primary-source feed of newly solved cases for episode sourcing.",
+      "reliability": "B"
+    },
+    {
+      "url": "https://music.amazon.com/podcasts/6af7d44c-cfb0-4bc0-bc61-f50a3baf2c7b/dna-id",
+      "title": "DNA: ID podcast on Amazon Music",
+      "supports": "A dedicated one-case-per-episode genetic-genealogy show sustains multi-season audio run; equivalent dedicated YouTube channel not found in searches (gap claim is an inference).",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.favoree.io/channel/waterline_stories-66c9f3920695848ebbfea340",
+      "title": "Favoree: Waterline Stories channel profile",
+      "supports": "Waterline network structure (Disasters/Salvage/Chronicles), 274K subs, 54.5M views, first upload June 2018, UK-based.",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.favoree.io/channel/disaster_breakdown-6651083fd200e614ef004caa",
+      "title": "Favoree: Disaster Breakdown channel profile",
+      "supports": "Disaster Breakdown is a solo creator scripting from publicly available official accident reports; 258K subs / 54.8M views (consistent with my API numbers).",
+      "reliability": "B"
+    },
+    {
+      "url": "https://wonderingeagle.wordpress.com/2022/04/17/maritime-horrors-is-a-youtube-channel-to-follow-if-you-love-history/",
+      "title": "Wondering Eagle blog (2022): Maritime Horrors is a channel to follow",
+      "supports": "Maritime Horrors producer is a US Coast Guard veteran; channel active by April 2022 (its 2013 API creation date is account creation, not content start).",
+      "reliability": "C"
+    },
+    {
+      "url": "https://forum.gcaptain.com/t/interesting-youtube-channel-on-marine-accidents-and-disasters/61407",
+      "title": "gCaptain forum: Interesting YouTube channel on marine accidents and disasters",
+      "supports": "Professional mariners organically discuss/recommend marine-accident YouTube channels — community demand signal.",
+      "reliability": "C"
+    },
+    {
+      "url": "https://playboard.co/en/channel/UCFXad0mx4WxY1fXdbvtg0CQ",
+      "title": "Playboard: Fascinating Horror analytics",
+      "supports": "Third-party analytics coverage of Fascinating Horror; also provided the channel ID used for my API verification.",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL0920C54C4FCB97C4",
+      "title": "U.S. Chemical Safety Board Videos playlist",
+      "supports": "CSB's public video catalog is bounded and US-only — the global industrial-disaster animation lane is unoccupied by the demand-proving incumbent.",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/",
+      "title": "Hollywood Reporter: Faceless Creators Take a Hit As YouTube Cracks Down on AI Slop",
+      "supports": "Risk context for all candidates: YouTube's 2025 crackdown on reused/AI-slop content — why every candidate is designed around original primary-source research, not compilation. (Fact from search result snippet.)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.youtube.com/@_ColdTrace",
+      "title": "Cold Trace - True Crime Stories (YouTube channel)",
+      "supports": "Discovery source for Cold Trace's handle (faceless true-crime narration positioning); stats verified separately via API.",
+      "reliability": "C"
+    }
+  ]
+}

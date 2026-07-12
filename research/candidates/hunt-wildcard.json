@@ -1,0 +1,247 @@
+{
+  "candidates": [
+    {
+      "name": "Everyday English Listening Podcast (niched to one learner pain-point)",
+      "interest_area": "open-field",
+      "niche": "Faceless 'podcast-style' English listening practice for B1-B2 ESL learners — scripted two-voice conversations with on-screen subtitles, targeting a specific pain point ('understand English but can't speak', English for job interviews / healthcare workers / travel)",
+      "format": "15-22 min two-voice scripted dialogue episodes, AI or recorded voices, full on-screen subtitles, simple static/animated background; 3-5 uploads/week",
+      "why_now": "English-learning podcasts were flagged as a 21x-growth faceless niche for 2026 in TubeLab's ranked niche data (via search snippet), and YouTube API data confirms multiple young faceless channels breaking out in 2024-2026 with modest production. The format monetizes global demand that never expires.",
+      "demand_evidence": [
+        {
+          "url": "https://tubelab.net/blog/faceless-youtube-channel-niches",
+          "title": "Faceless YouTube Channel Niches: 30 Scored & Ranked (2026) - TubeLab",
+          "finding": "Search snippet lists 'English learning podcasts' at 21x growth among fastest-growing faceless niches (15x+). NOTE: page itself returned 403 to fetch; fact comes from the search-result snippet only."
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=LEP-LearnEnglishPodcast",
+          "title": "YouTube Data API: LEP - Learn English Podcast",
+          "finding": "Channel created 2024-01-22, now 809,000 subs / 25.5M views / 381 videos (API, retrieved 2026-07-12). Recent uploads (Mar-Apr 2026) pull 11k-47k views each per videos.list — demand is current, not a one-time spike."
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UC7xiDQtNRvpUIh3aqdDK4KA",
+          "title": "YouTube Data API: VOA Learn English Through Stories",
+          "finding": "Channel created 2023-03-06 reached 258,000 subs / 6.6M views with only 21 videos (API) — evidence that a tiny catalog can win in this niche via evergreen search/suggested traffic."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "LEP - Learn English Podcast",
+          "channelId": "UCTHXJnuHzZ_QZb3E9W2aBNQ",
+          "subscribers": 809000,
+          "notes": "Created Jan 2024; 25.5M total views; faceless conversational-podcast format; consistent 11k-47k views on Apr 2026 uploads. THE attainable-competition proof: <2.5 years old."
+        },
+        {
+          "channel": "VOA Learn English Through Stories",
+          "channelId": "UC7xiDQtNRvpUIh3aqdDK4KA",
+          "subscribers": 258000,
+          "notes": "Created Mar 2023; 258k subs from just 21 videos, 6.6M views; single uploads at 40k-115k views."
+        },
+        {
+          "channel": "Thinking in English Podcast",
+          "channelId": "UCnWxuf5Rt9OcSt4AiviCe1A",
+          "subscribers": 83900,
+          "notes": "Created 2022; 1.7M views / 938 videos — mid-tier is viable; niche not winner-take-all."
+        },
+        {
+          "channel": "Learn English Podcast",
+          "channelId": "UCp6atfeVomdWYasrwdNn8bQ",
+          "subscribers": 5140,
+          "notes": "Created 2021, 146k views / 241 videos — counter-example showing generic execution stalls; differentiation (specific pain point, quality scripts) matters."
+        }
+      ],
+      "monetization_notes": "AdSense on long watch-time videos (podcast format = high average view duration). Caveat (inference): audience is largely non-US/EU ESL learners, so RPM is likely low ($1-4 est., unverified) — volume play. Strong secondary monetization: language-app affiliates, own PDF/Anki study packs, channel memberships. Feedspot/industry lists confirm a large sponsor ecosystem (Preply, FluentU, etc. actively market in this space).",
+      "production_complexity": "Low-medium for a solo creator: original dialogue scripts (LLM-assisted, human-edited for level-appropriate vocabulary), 2 AI voices, subtitle render, static visual. 3-5 episodes/week feasible. Deep well: unlimited daily-life/职业 scenarios — 100+ videos trivially.",
+      "originality_defense": "Every episode is an originally scripted dialogue engineered for a CEFR level and a specific speaking pain point — original writing and pedagogy, not compilation or reused content. Differentiation vs. incumbents: pick one under-served segment (e.g., English for healthcare workers or job interviews) rather than generic 'daily conversation'.",
+      "risks": "Low RPM per view (global audience); LEP's success has already triggered copycats — generic 'daily English podcast' positioning may be crowded by launch (inference); AI-voice-only channels must meet YouTube's July 2025 inauthentic-content bar via original scripts and consistent persona."
+    },
+    {
+      "name": "AI-at-Work Tutorials (one profession, one workflow at a time)",
+      "interest_area": "ai",
+      "niche": "Faceless screen-recorded tutorials on using specific new AI tools for a specific professional audience (e.g., 'AI for accountants', 'AI for teachers', 'automate X with n8n/Claude/GPT agents') — not generic AI news",
+      "format": "8-15 min screen-recording walkthroughs with voiceover, slides and live demos; weekly 'what changed this week in [tool]' cadence",
+      "why_now": "OutlierKit's 2026 data (via search snippet) calls AI/tech education the fastest-growing faceless category with RPMs above $15 and demand for 'how to use [new AI tool]' outpacing quality supply. API data shows faceless AI channels born in 2023 compounding to 60M+ views.",
+      "demand_evidence": [
+        {
+          "url": "https://outlierkit.com/resources/faceless-youtube-channels/",
+          "title": "Best Faceless YouTube Niches & Channel Ideas in 2026 - OutlierKit",
+          "finding": "Search snippet: AI/tech education is the fastest-growing 2026 faceless category, RPMs above $15, demand outpacing supply of quality creators. NOTE: page 403'd on fetch; fact from search snippet only."
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=theAIGRID",
+          "title": "YouTube Data API: TheAIGRID",
+          "finding": "Faceless AI channel created 2023-01-18: 396,000 subs, 67.5M views, 976 videos (API, 2026-07-12) — under 500k subs yet 67M+ views, proving the lane pays without mega-scale."
+        },
+        {
+          "url": "https://awisee.com/blog/successful-faceless-youtube-channels/",
+          "title": "Top 9 Most Successful Faceless YouTube Channels in 2026 - AWISEE",
+          "finding": "Search snippet names TheAIGRID as a breakout faceless example: 'timely, well-explained AI news... clear narration over screen recordings' with premium advertisers."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "TheAIGRID",
+          "channelId": "UCbY9xX3_jW5c2fjlZVBI4cg",
+          "subscribers": 396000,
+          "notes": "Created Jan 2023; 67.5M views / 976 videos; faceless narration over demos. <500k subs = attainable-competition proof."
+        },
+        {
+          "channel": "AI Search",
+          "channelId": "UCIgnGlGkVRhd4qNFcEwLL4A",
+          "subscribers": 704000,
+          "notes": "Created Feb 2023; 61.4M views / 462 videos — second independent faceless success born <3.5 years ago; higher views-per-video (~133k avg) than TheAIGRID."
+        }
+      ],
+      "monetization_notes": "Highest-RPM lane found this session ($15+ per OutlierKit snippet; finance/AI/B2B advertisers). Exceptional affiliate stack: AI tool subscriptions pay recurring commissions; sponsorships from AI SaaS are abundant. Own products: prompt packs, workflow templates, courses.",
+      "production_complexity": "Low: screen recording + voiceover, no filming. But requires genuine hands-on testing of tools (that IS the moat). Deep well: every new model/tool release x every profession = hundreds of videos; weekly news pegs guarantee topics.",
+      "originality_defense": "Original hands-on testing, benchmarks, and profession-specific workflows — screen recordings of the creator's own builds cannot be compilation content. Differentiator vs. crowded generic AI news: commit to one profession's workflows and publish reproducible step-by-steps.",
+      "risks": "Content decays fast (tool UIs change monthly) — little evergreen back-catalog; generic 'AI news' sub-lane is genuinely crowded (TheAIGRID/AI Search + many more), so a new entrant must niche by audience; hype-cycle exposure if AI ad spend cools."
+    },
+    {
+      "name": "Evidence-Based Aging Well (senior health, done credibly)",
+      "interest_area": "open-field",
+      "niche": "Faceless explainer channel for 60+ viewers on mobility, nutrition, sleep, medication literacy — rigorously sourced (citing real studies/geriatric guidance) in a niche currently dominated by AI misinformation farms",
+      "format": "10-15 min narrated explainers with medical illustrations/B-roll, large text, slow pacing tuned for older viewers; cited sources on screen",
+      "why_now": "Senior health was flagged at 19x growth for 2026 (TubeLab snippet), and a McGill Office for Science and Society investigation (surfaced via search snippet) documents AI content-farm videos targeting seniors ('Over 60?' titles) with a top video at 3.3M views — proof of massive under-served demand currently being captured by low-trust actors. YouTube's Feb 2026 removals of 'AI slop' channels (per search snippet) are clearing exactly these incumbents.",
+      "demand_evidence": [
+        {
+          "url": "https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues",
+          "title": "Deceitful AI Videos Mislead Seniors on Important Health Issues - McGill OSS",
+          "finding": "Search snippet: content farms use AI to mass-produce senior-health videos; one channel's trademark is titles opening with 'Over 60?' and its most popular video has 3.3M views. Demand is real and huge; current supply is untrustworthy. NOTE: page 403'd on fetch; facts from search snippet."
+        },
+        {
+          "url": "https://tubelab.net/blog/faceless-youtube-channel-niches",
+          "title": "Faceless YouTube Channel Niches: 30 Scored & Ranked (2026) - TubeLab",
+          "finding": "Search snippet: 'senior health advice' listed at 19x growth among fastest-growing faceless niches (snippet-only, page 403)."
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UCq5KgYuZ_K-_nE_kPrJveLg",
+          "title": "YouTube Data API: Senior Health 60+ and Seniors Health Channel",
+          "finding": "COUNTER-EVIDENCE I could verify: two legit small channels are NOT breaking out — 'Senior Health 60+' (created 2024-06): 221 subs/17.5k views/56 videos; 'Seniors Health Channel' (created 2025-02): 438 subs/70.2k views/194 videos. The 3.3M-view winners appear to be the misinfo farms. Attainable competition for credible players is UNPROVEN by my API data."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Senior Health 60+",
+          "channelId": "UCq5KgYuZ_K-_nE_kPrJveLg",
+          "subscribers": 221,
+          "notes": "Created 2024-06; 17.5k views / 56 videos — small legit entrant stalling."
+        },
+        {
+          "channel": "Seniors Health Channel",
+          "channelId": "UCxFLiaIt2YeDshJGwX7MjKQ",
+          "subscribers": 438,
+          "notes": "Created 2025-02; 70.2k views / 194 videos — high output, weak traction; suggests generic execution fails while sensational farms win."
+        }
+      ],
+      "monetization_notes": "High CPM potential: health/pharma/insurance advertisers target 60+ viewers; Medium-sourced claims of $15+ RPM and supplement/wellness affiliates (reliability C). YMYL classification means AdSense is sensitive to medical-accuracy signals — credible sourcing is also a monetization strategy.",
+      "production_complexity": "Medium: research-heavy scripts (must cite real studies), AI narration + licensed illustration/B-roll. Deep well: 100+ topics easily (every condition, medication class, exercise, nutrition question for 60+).",
+      "originality_defense": "The entire thesis is anti-slop: original research summaries with on-screen citations, fact-checked scripts, consistent named narrator persona — positioned explicitly against the content farms McGill documented. Not compilation; every script is original synthesis of real literature.",
+      "risks": "HIGHEST-RISK candidate: (1) my own API data shows legit small channels failing while sensationalist farms win — the honest version may grow slowly; (2) YMYL/medical-misinfo enforcement risk if any claim is sloppy; (3) ethical burden of accuracy for a vulnerable audience; (4) the '19x growth' and '100k subs in 90 days' claims come from B/C-grade blogs and are unverified. Treat as high-upside/unproven."
+    },
+    {
+      "name": "Podcast-Style Listening Practice for Spanish/French/German (format transfer)",
+      "interest_area": "open-field",
+      "niche": "Port the API-proven English 'listening podcast' format (candidate #1) to learners of Spanish, French, or German — scripted level-graded dialogues with subtitles for the world's next-largest language-learning markets",
+      "format": "Identical to candidate #1: 15-20 min two-voice scripted dialogues, subtitles, level-graded (A2/B1), AI or human voices",
+      "why_now": "The format is proven in English at multiple channel scales (LEP 809k subs in 2.5 yrs; VOA-stories 258k from 21 videos — both API-verified), while the equivalent lanes in other major languages are near-empty: I probed the obvious handles via the YouTube API and found essentially unclaimed territory.",
+      "demand_evidence": [
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=learnspanishpodcast",
+          "title": "YouTube Data API: handle probes for learnspanishpodcast / learnfrenchpodcast / learngermanpodcast",
+          "finding": "Whitespace evidence (API, 2026-07-12): @learnspanishpodcast — 0 subs/0 videos (name squatted, unused since 2024); @learnfrenchpodcast — 30 subs/17 videos; @learngermanpodcast — 0/0. The exact format winning in English has no established equivalent occupying these lanes. IMPORTANT: this proves low competition, not demand — demand for this format in ES/FR/DE is an INFERENCE from the English analog and was not directly verified this session."
+        },
+        {
+          "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=LEP-LearnEnglishPodcast",
+          "title": "YouTube Data API: LEP - Learn English Podcast (format proof)",
+          "finding": "Format viability proof: 809k subs / 25.5M views in ~2.5 years with this exact format in English (API-verified)."
+        }
+      ],
+      "competitor_scan": [
+        {
+          "channel": "Learn Spanish Podcast (dormant)",
+          "channelId": "UCJCAWkhVpWH6YGtG2mPGTHA",
+          "subscribers": 0,
+          "notes": "Created 2024-07, zero videos — prime name unclaimed in practice."
+        },
+        {
+          "channel": "Learn French Podcast",
+          "channelId": "UC9qboTP9UVZ93X2wG7mLgfw",
+          "subscribers": 30,
+          "notes": "Created 2022, 17 videos, 550 total views — no serious incumbent in the handle-obvious position."
+        },
+        {
+          "channel": "Learn German Podcast (dormant)",
+          "channelId": "UC3MyxqDjtK7dZyFTffVl17g",
+          "subscribers": 0,
+          "notes": "Created 2024-11, zero videos."
+        }
+      ],
+      "monetization_notes": "Spanish/French/German learners skew US/EU (higher RPM than the ESL audience of candidate #1 — inference). Same affiliate stack (Babbel/Preply-type sponsors are heavy YouTube advertisers per the English-learning ecosystem sources). Caveat: absolute demand is a fraction of English-learning demand.",
+      "production_complexity": "Low-medium, but requires native-level fluency or a trusted native reviewer in the target language — the main solo-creator constraint. AI voices in ES/FR/DE are mature. Deep well: same unlimited scenario space as English.",
+      "originality_defense": "Original level-graded dialogue scripts per episode; pedagogy-first writing. Nothing to compile or reuse — the lane barely exists yet in this format.",
+      "risks": "Demand is inferred, not verified (search.list quota exhaustion prevented direct demand measurement this session); face-led incumbent teachers (e.g., Spanish YouTube teachers) may satisfy part of the demand; creator needs target-language competence; smaller TAM than English."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels",
+      "title": "YouTube Data API v3 - channels.list (stats for LEP, VOA Stories, Thinking in English, Learn English Podcast, TheAIGRID, AI Search, Senior Health 60+, Seniors Health Channel, Quiz Class, Trivia Quiz Rush, Sleepless Historian, learnspanish/french/germanpodcast probes)",
+      "supports": "All subscriber/view/video counts and channel creation dates cited in candidates; retrieved live 2026-07-12",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos",
+      "title": "YouTube Data API v3 - videos.list + playlistItems.list (recent-upload performance for LEP, VOA Stories, Quiz Class; senior trivia videos ajNQu_HdedQ, 2OOSEkBO-w8)",
+      "supports": "Per-video view counts: LEP 11k-47k views on Mar-Apr 2026 uploads; VOA 16k-115k per video; Quiz Class 419k-view elderly-trivia video but only ~200-500 views on July 2026 uploads (rejected lane)",
+      "reliability": "A"
+    },
+    {
+      "url": "https://tubelab.net/blog/faceless-youtube-channel-niches",
+      "title": "Faceless YouTube Channel Niches: 30 Scored & Ranked (2026) - TubeLab",
+      "supports": "21x growth for English learning podcasts, 19x senior health, 16x science-humor, 21x betrayal narratives; SNIPPET-ONLY (direct fetch returned 403)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://outlierkit.com/resources/faceless-youtube-channels/",
+      "title": "Best Faceless YouTube Niches & Channel Ideas in 2026 - OutlierKit",
+      "supports": "AI/tech education fastest-growing 2026 faceless category, RPM >$15, demand outpacing supply; SNIPPET-ONLY (403 on fetch)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues",
+      "title": "Deceitful AI Videos Mislead Seniors on Important Health Issues - McGill OSS",
+      "supports": "Senior-health demand scale (3.3M views on one farm video; 'Over 60?' title pattern; Vietnam-based content farms) and the misinformation risk in that niche; SNIPPET-ONLY (403 on fetch)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://awisee.com/blog/successful-faceless-youtube-channels/",
+      "title": "Top 9 Most Successful Faceless YouTube Channels in 2026 - AWISEE",
+      "supports": "TheAIGRID as named breakout faceless AI channel; YouTube July 2025 inauthentic-content policy context; snippet-based",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.vozo.ai/blogs/youtube/profitable-faceless-youtube-niches",
+      "title": "Faceless YouTube Channel Niches (2025-2026) - Vozo",
+      "supports": "Late-2025 context: bar rising for faceless content; Feb 2026 YouTube removals of large AI-slop channels; viewers rewarding original insight (snippet)",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.unkoa.com/faceless-youtube-10000-month-2025/",
+      "title": "Faceless YouTube Channel Earnings (2026) - Unkoa (and related snippets)",
+      "supports": "RPM ranges by niche (finance $9-21, education $9-14) and 38%-of-new-ventures faceless stat; vendor-blog grade, snippet-based, unverified",
+      "reliability": "C"
+    },
+    {
+      "url": "https://videos.feedspot.com/english_learning_youtube_channels/",
+      "title": "45 English Learning YouTubers You Must Follow in 2026 - Feedspot",
+      "supports": "Scale/sponsor ecosystem of the English-learning YouTube category (snippet)",
+      "reliability": "C"
+    },
+    {
+      "url": "https://medium.com/@saibualasanta10/13-faceless-youtube-niches-poised-for-massive-growth-in-2026-and-why-senior-health-is-the-sleeper-7b7c98a6f4e9",
+      "title": "13 Faceless YouTube Niches Poised for Massive Growth in 2026 - Medium",
+      "supports": "Claims of senior-health channels hitting 100k subs in <90 days and only ~10k channels serving the audience; UNVERIFIED, anecdotal",
+      "reliability": "C"
+    }
+  ]
+}

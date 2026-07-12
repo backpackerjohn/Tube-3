@@ -1,0 +1,181 @@
+{
+  "findings": [
+    {
+      "topic": "Overall YouTube viewership and watch-time trends 2025-2026",
+      "summary": "YouTube is the dominant single distributor of TV watch-time in the US and still growing. Per Nielsen's Media Distributor Gauge, YouTube captured 13.4% of all US TV viewing in July 2025 (sixth consecutive month at #1, largest lead ever recorded over #2 Disney at 9.4%), held 12.5% in January 2026 (up from 10.8% a year earlier, 11th straight month at #1), and posted 13.5% in March 2026 even as total streaming time fell 7% that month. Streaming overall hit a record 47.5% of US TV viewing in December 2025, exceeding broadcast (21.4%) plus cable (20.2%) combined. On the platform side, CEO Neal Mohan announced at Cannes Lions (June 2025) that viewers watch over 1 billion hours of YouTube on TVs daily and Shorts average 200+ billion daily views (up ~186% from 70B in March 2024). Financially, Alphabet reported YouTube ads revenue of $40.37B for full-year 2025 (+11.7% YoY vs $36.15B in 2024) and disclosed total YouTube revenue (ads + subscriptions) topped $60B in 2025 — larger than Netflix. Net: watch-time and revenue are both growing, with the living-room/CTV screen as the primary growth engine.",
+      "key_numbers": "13.4% of US TV viewing (Jul 2025), 12.5% (Jan 2026, vs 10.8% YoY), 13.5% (Mar 2026); 1B+ hours/day on TVs; Shorts 200B daily views; FY2025 YouTube ads $40.37B (+11.7%), total YouTube revenue >$60B"
+    },
+    {
+      "topic": "Content categories growing on YouTube right now",
+      "summary": "Officially documented growth areas: (1) Podcasts — YouTube announced 1B+ monthly active podcast viewers in Feb 2026-adjacent announcement (Feb 26, 2025) and said living-room podcast watch-time hit 700M+ hours in October 2025, up from ~400M hours a year earlier (+75% YoY); YouTube is now the most-used podcast service in the US. (2) Shorts — 200B+ daily views and ~2B monthly users, YouTube's fastest-growing format. (3) Living-room/CTV-native content generally (long-form, TV-friendly formats) — driven by the 1B daily TV hours. (4) AI-generated content is the fastest-expanding supply-side category: Kapwing's AI Slop Report found 278 of the world's top ~15,000 channels are pure 'AI slop' with 63B+ cumulative views, and ~20% (104/500) of videos recommended to a brand-new account were AI slop; Sherwood News and TechRadar corroborate that in mid-2025 several of the fastest-growing channels on the platform were fully AI-generated (music, animal stories, pranks). Lower-reliability industry blogs (OutlierKit, vidIQ blog, etc.) additionally claim high growth in AI-narrated education, senior health, homestead/rural vlogging, English-learning podcasts, and 'betrayal/revenge' narrative niches (15-21x growth claims) — treat these multipliers as unverified directional signals, not hard data.",
+      "key_numbers": "Podcasts: 1B monthly viewers, 700M living-room hours in Oct 2025 (vs 400M Oct 2024); Shorts: 200B daily views, 2B monthly users; ~20% of videos shown to new users classified as AI slop (Kapwing)"
+    },
+    {
+      "topic": "Documented case studies of faceless/automated channels launched 2024-2026",
+      "summary": "Best-documented cases: (1) Adavia Davis (Fortune, Dec 30, 2025) — 22-year-old running 5 faceless AI channels (history/sleep documentaries, Minecraft, animals); $40K-$60K/month revenue (~$700K/year) verified via AdSense screenshots, ~$6.5K/month operating costs (85-89% margin), pipeline uses Claude for scripts/visuals plus ElevenLabs narration via proprietary 'TubeGen' software; a 6-hour video costs as little as $60 to produce. (2) Masters of Prophecy — AI music channel (Suno-generated 80s-style synth-pop plus AI visuals) created June 2024; went from a few hundred subscribers in Feb 2025 to 30M+ by June 2025, covered by Sherwood News and TechRadar as YouTube's fastest-growing AI channel; in May 2025 four of the ten most-subscribed channels on the platform published only AI-generated videos (Sherwood). (3) Kapwing AI Slop Report — 278 pure-AI-slop channels among top-100 channels per country have 63B+ views, 221M subscribers, est. $117M/year ad revenue; named examples: Bandar Apna Dost (India, ~2.4B views, up to ~$4.25M est. revenue) and Pouty Frenchie (Singapore, 2B+ views, ~$4M/year est.). (4) Other AI channels reported at ~10M subs by mid-2025: Chick of Honor (AI animal stories) and Monkey Prankster (AI pranks) — secondary-source claims. Older/pre-2024 faceless benchmarks often cited in the trade press: Fern (~$80K/month est., 3D crime docs) and 5-Minute Crafts (81M subs) — estimates, not audited. Caution: most 'faceless channel income' statistics circulating online come from AI-tool vendors' marketing blogs (Frameloop, AutoFaceless, Miraflow, etc.) and are not verifiable; the Fortune profile and Kapwing study are the strongest evidence available.",
+      "key_numbers": "Davis: $40-60K/mo revenue, $6.5K/mo costs, $60 per 6-hr video; Masters of Prophecy: ~0 to 30M+ subs Feb-Jun 2025; Kapwing: 278 channels, 63B views, 221M subs, est. $117M/yr"
+    },
+    {
+      "topic": "YouTube AI-content policies: disclosure rules and monetization impact",
+      "summary": "Two distinct policy layers. (A) Disclosure (transparency): since March 18, 2024, Creator Studio requires creators to disclose 'altered or synthetic' content that is realistic — i.e., makes a real person appear to say/do something they didn't, alters footage of real events/places, or generates realistic scenes that didn't occur. Disclosure triggers an 'Altered or synthetic content' label (expanded description for most videos; prominent on-player label for sensitive topics like health, news, elections, finance). Exempt: AI used for productivity (scripts, ideas, captions), clearly unrealistic/animated content, and inconsequential edits — meaning typical AI narration over stock/animated visuals generally does NOT require a label unless it's realistic and potentially misleading. Repeated non-disclosure can bring content removal or suspension from the Partner Program, and YouTube may apply labels itself. (B) Monetization (July 15, 2025 YPP update): YouTube renamed 'repetitious content' to 'inauthentic content' — mass-produced, templated content with little variation, easily replicable at scale, is ineligible for monetization. YouTube framed it as a minor clarification of longstanding rules amid the AI-slop surge; Head of Editorial Rene Ritchie confirmed AI-assisted content remains monetizable if it is 'significantly original and authentic' with real human value (commentary, storytelling, original insights), and reaction/clip formats with added commentary stay eligible. Practical implication for faceless/AI channels: AI visuals and narration do not per se block monetization, but low-variation template output is the specific demonetization target, and realistic synthetic media must carry the disclosure label.",
+      "key_numbers": "Disclosure tool live March 18, 2024; 'inauthentic content' YPP policy effective July 15, 2025; penalties: content removal or YPP suspension for repeated non-disclosure"
+    },
+    {
+      "topic": "Evidence-quality caveats",
+      "summary": "Reliability is highly bimodal in this space. Strong (A-grade): Nielsen Gauge data, Alphabet SEC filings/earnings, YouTube official blog announcements, and reporting in Fortune/Variety/TechCrunch/TheWrap. Weak (C-grade): nearly all 'faceless YouTube statistics' pages (e.g., claims like 'faceless channels are 38% of new creator monetization ventures' or '$15-40 RPM for automation channels') originate from AI-video-tool vendors with a commercial interest in the niche and cite no methodology — they should not be load-bearing in any go/no-go decision. Also note headwinds: Kapwing/OutlierKit-reported enforcement waves against AI slop in late 2025/2026 and the March 2026 Nielsen data showing total streaming time can contract month-to-month.",
+      "key_numbers": ""
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.nielsen.com/news-center/2025/youtube-netflix-ride-the-wave-of-summer-streaming-highs-in-nielsens-media-distributor-gauge/",
+      "title": "Nielsen Media Distributor Gauge, July 2025 (YouTube 13.4% of TV viewing)",
+      "supports": "YouTube's record 13.4% share of US TV viewing and largest-ever lead over Disney",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.nielsen.com/data-center/the-gauge/",
+      "title": "Nielsen: The Gauge",
+      "supports": "Ongoing monthly platform/distributor share-of-TV data; streaming at record ~47.5% of US TV viewing Dec 2025",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.mediapost.com/publications/article/413021/youtube-tops-nielsen-distributor-viewing-again.html",
+      "title": "MediaPost: YouTube Tops Nielsen Distributor Viewing Again, 12.5% Share (Feb 2026)",
+      "supports": "January 2026 share of 12.5% vs 10.8% a year earlier, 11th consecutive month at #1",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.thewrap.com/media-platforms/streaming/nielsen-media-distributor-gauge-march-2026/",
+      "title": "TheWrap: YouTube Reclaims Top Spot in Nielsen Gauge as Streaming Falls 7% in March 2026",
+      "supports": "March 2026 13.5% share; total streaming time fell 7% MoM",
+      "reliability": "B"
+    },
+    {
+      "url": "https://variety.com/2025/tv/news/youtube-top-most-watched-streamer-nielsen-1236498774/",
+      "title": "Variety: YouTube Remains No. 1 Most-Watched Streamer for Sixth Month in a Row",
+      "supports": "Nielsen streak confirmation, 2025 viewership trend",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.thewrap.com/youtube-shorts-200-billion-daily-views/",
+      "title": "TheWrap: YouTube Shorts Now Averages 200 Billion Daily Views",
+      "supports": "Shorts 200B daily views (Neal Mohan, Cannes Lions 2025), up from 70B in March 2024; 1B daily hours on TVs",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.tubefilter.com/2025/06/18/youtube-shorts-200-billion-daily-views-google-veo-3-ai-neal-mohan/",
+      "title": "Tubefilter: YouTube Shorts averages 200 billion daily views (Mohan keynote)",
+      "supports": "Shorts growth figures and Veo 3/AI-tools context",
+      "reliability": "B"
+    },
+    {
+      "url": "https://blog.youtube/news-and-events/1-billion-monthly-podcast-users/",
+      "title": "YouTube Official Blog: Celebrating 1 billion monthly podcast users",
+      "supports": "1B monthly podcast viewers (announced Feb 26, 2025); YouTube #1 US podcast service",
+      "reliability": "A"
+    },
+    {
+      "url": "https://blog.youtube/news-and-events/podcasts-living-room-in-2025/",
+      "title": "YouTube Official Blog: How podcasts took over the living room in 2025",
+      "supports": "700M+ hours of podcasts on living-room devices in Oct 2025, up from ~400M a year earlier",
+      "reliability": "A"
+    },
+    {
+      "url": "https://variety.com/2026/digital/news/youtube-2025-total-revenue-ads-subscriptions-alphabet-earnings-1236652260/",
+      "title": "Variety: YouTube Revenue for Full-Year 2025 Topped $60 Billion",
+      "supports": "Total YouTube 2025 revenue >$60B, bigger than Netflix",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.tubefilter.com/2026/02/05/alphabet-q4-2025-youtube-earnings-revenue-60-billion/",
+      "title": "Tubefilter: Alphabet reveals YouTube generated $60 billion in 2025",
+      "supports": "FY2025 YouTube ads $40.37B (+11.7% YoY); Q4 2025 ads $11.38B (+8.7%)",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "title": "Alphabet Inc. Form 10-K FY2025 (SEC)",
+      "supports": "Primary source for YouTube ads revenue figures 2024-2025",
+      "reliability": "A"
+    },
+    {
+      "url": "https://fortune.com/2025/12/30/ai-slop-faceless-youtube-accounts-adavia-davis-user-generated-content/",
+      "title": "Fortune: 22-year-old college dropout makes $700,000 a year from 'AI slop' people sleep through",
+      "supports": "Adavia Davis case study: $40-60K/mo revenue (AdSense-verified), $6.5K/mo costs, Claude+ElevenLabs pipeline, $60 per 6-hour video",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/",
+      "title": "Kapwing: AI Slop Report — The Global Rise of Low-Quality AI Videos",
+      "supports": "278 pure-AI-slop channels among top channels; 63B views, 221M subs, est. $117M/yr; ~20% of videos shown to new accounts are AI slop; Bandar Apna Dost and Pouty Frenchie examples",
+      "reliability": "B"
+    },
+    {
+      "url": "https://sherwood.news/tech/ai-created-videos-are-quietly-taking-over-youtube/",
+      "title": "Sherwood News: AI-created videos are quietly taking over YouTube",
+      "supports": "Masters of Prophecy growth (few hundred subs Feb 2025 to 30M+ by June 2025); 4 of top-10 most-subscribed channels in May 2025 were all-AI; Chick of Honor and Monkey Prankster",
+      "reliability": "B"
+    },
+    {
+      "url": "https://www.techradar.com/computing/artificial-intelligence/the-rise-of-ai-on-youtube-is-changing-the-platform-i-grew-up-with-and-not-for-the-better",
+      "title": "TechRadar: The rise of AI on YouTube is changing the platform",
+      "supports": "Corroboration of AI channel growth and Masters of Prophecy trajectory",
+      "reliability": "B"
+    },
+    {
+      "url": "https://techcrunch.com/2025/07/09/youtube-prepares-crackdown-on-mass-produced-and-repetitive-videos-as-concern-over-ai-slop-grows/",
+      "title": "TechCrunch: YouTube prepares crackdown on 'mass-produced' and 'repetitive' videos",
+      "supports": "July 15, 2025 YPP 'inauthentic content' policy; Rene Ritchie clarification that AI-assisted original content stays monetizable",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.socialmediatoday.com/news/youtube-clarifies-monetization-update-inauthentic-repeated-content/752892/",
+      "title": "Social Media Today: YouTube Clarifies Monetization Rules Around Inauthentic Content",
+      "supports": "Details of the inauthentic-content rename and monetization eligibility clarifications",
+      "reliability": "B"
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/1311392?hl=en",
+      "title": "YouTube Help: Channel monetization policies",
+      "supports": "Official YPP monetization policy text including inauthentic content rules",
+      "reliability": "A"
+    },
+    {
+      "url": "https://blog.youtube/news-and-events/disclosing-ai-generated-content/",
+      "title": "YouTube Official Blog: How we're helping creators disclose altered or synthetic content",
+      "supports": "March 2024 disclosure tool: what must be labeled, exemptions (productivity AI, unrealistic content), label placement, enforcement",
+      "reliability": "A"
+    },
+    {
+      "url": "https://techcrunch.com/2024/03/18/youtube-requires-creatorsdisclose-realistic-content-made-ai/",
+      "title": "TechCrunch: YouTube now requires creators to disclose realistic AI content",
+      "supports": "Disclosure requirements effective March 18, 2024; penalties incl. removal/YPP suspension; YouTube may self-apply labels",
+      "reliability": "A"
+    },
+    {
+      "url": "https://www.nbcnews.com/tech/tech-news/youtube-says-will-require-creators-label-ai-content-rcna143937",
+      "title": "NBC News: YouTube says it will require creators to label 'realistic' AI content",
+      "supports": "Corroboration of disclosure policy scope and sensitive-topic prominent labels",
+      "reliability": "A"
+    },
+    {
+      "url": "https://outlierkit.com/blog/trending-niches-on-youtube",
+      "title": "OutlierKit: Top Trending Niches on YouTube 2026",
+      "supports": "Directional (unverified) niche-growth multipliers: English-learning podcasts, senior health, homestead vlogging, revenge narratives, etc.",
+      "reliability": "C"
+    },
+    {
+      "url": "https://vidiq.com/blog/post/best-youtube-niches/",
+      "title": "vidIQ Blog: 80 Top YouTube Niches for High Growth in 2026",
+      "supports": "Directional (unverified) niche-growth claims for candidate categories",
+      "reliability": "C"
+    },
+    {
+      "url": "https://www.irishexaminer.com/news/arid-41766416.html",
+      "title": "Irish Examiner: More than 20% of YouTube videos shown to new users is 'AI slop'",
+      "supports": "Independent press coverage of the Kapwing study methodology and findings",
+      "reliability": "B"
+    }
+  ]
+}
