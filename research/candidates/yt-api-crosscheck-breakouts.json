@@ -1,0 +1,54 @@
+{
+  "retrieved": "2026-07-12",
+  "purpose": "cross-verify vidIQ faceless-breakout discoveries against YouTube Data API",
+  "items": [
+    {
+      "channelId": "UCsAwNuNKiBi8x6QkdkAxkpA",
+      "title": "Eric Bennett MD",
+      "publishedAt": "2026-05-14T10:26:34.215143Z",
+      "subscriberCount": "42700",
+      "viewCount": "2577988",
+      "videoCount": "130"
+    },
+    {
+      "channelId": "UC5VCODiVO2pDRz9_4lxgxsg",
+      "title": "DIY Tractor Mini",
+      "publishedAt": "2026-03-17T08:56:31.819077Z",
+      "subscriberCount": "31600",
+      "viewCount": "6053367",
+      "videoCount": "70"
+    },
+    {
+      "channelId": "UC3Xtw3TKQ5YRjCWSyalkDaQ",
+      "title": "Digital Circus Explained",
+      "publishedAt": "2026-01-06T11:58:19.397273Z",
+      "subscriberCount": "24300",
+      "viewCount": "18642819",
+      "videoCount": "551"
+    },
+    {
+      "channelId": "UCL-7_ekt3ZQzdxTNthDMO_A",
+      "title": "QuantumZoom",
+      "publishedAt": "2026-02-10T08:08:40.67134Z",
+      "subscriberCount": "141000",
+      "viewCount": "5704081",
+      "videoCount": "245"
+    },
+    {
+      "channelId": "UCm0n9Db3nxSgCsUnWaosIRw",
+      "title": "Structverse",
+      "publishedAt": "2026-02-10T18:21:02.407174Z",
+      "subscriberCount": "50000",
+      "viewCount": "37409969",
+      "videoCount": "35"
+    },
+    {
+      "channelId": "UCXElmxc8H0iPCnGO1ZEXdDQ",
+      "title": "Ms Nightcipher",
+      "publishedAt": "2025-04-08T17:49:51.338004Z",
+      "subscriberCount": "74900",
+      "viewCount": "34754695",
+      "videoCount": "34"
+    }
+  ]
+}
