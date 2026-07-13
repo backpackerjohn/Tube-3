@@ -1,0 +1,60 @@
+{
+  "retrieved": "2026-07-13",
+  "tool": "vidiq_keyword_research",
+  "seed": "engineering disasters",
+  "country_enrichment": "US",
+  "seedKeyword": {
+    "volume": 71.2,
+    "competition": 42.5,
+    "overall": 65.7,
+    "estimatedMonthlySearch": 58623,
+    "usVolume": 3105
+  },
+  "notable_related": {
+    "engineering mistakes": {
+      "volume": 60.8,
+      "competition": 47.0,
+      "overall": 57.7,
+      "estimatedMonthlySearch": 11823
+    },
+    "engineering errors": {
+      "volume": 64.8,
+      "competition": 42.0,
+      "overall": 62.1,
+      "estimatedMonthlySearch": 21920
+    },
+    "engineering fails": {
+      "volume": 64.7,
+      "competition": 45.0,
+      "overall": 60.8,
+      "estimatedMonthlySearch": 21600
+    },
+    "mega engineering": {
+      "volume": 65.1,
+      "competition": 41.9,
+      "overall": 62.3,
+      "estimatedMonthlySearch": 22823
+    },
+    "mechanical engineering": {
+      "volume": 75.6,
+      "competition": 44.0,
+      "overall": 67.8,
+      "estimatedMonthlySearch": 115704,
+      "usVolume": 22576
+    },
+    "documentary": {
+      "volume": 96.1,
+      "competition": 66.0,
+      "overall": 71.3,
+      "estimatedMonthlySearch": 2751951
+    },
+    "modern marvels": {
+      "volume": 65.3,
+      "competition": 73.5,
+      "overall": 49.8,
+      "estimatedMonthlySearch": 23844,
+      "note": "incumbent TV brand, high competition"
+    }
+  },
+  "read": "The engineering-forensics frame outperforms the pure disaster-documentary frame on keyword economics: seed at 65.7 overall vs 63.2, with competition 42.5 vs 45.5 and 58.6k vs 41.5k monthly searches. The mistakes/errors/fails cluster adds ~55k combined monthly searches at competition 42-47. Confirms memo v2's differentiator choice. 5 credits remain in reserve."
+}
