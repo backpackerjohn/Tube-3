@@ -1,0 +1,208 @@
+{
+  "verdict": "CLOSING \u2014 brand-new entrants could still break out through Jan 2026 (Economic Historian, created 2026-01-01, reached 23k subs/1.6M views; ECONOMY HISTORIAN, created 2025-11, reached 18k subs/1.4M views), but every exact-format entrant I could find from Mar-Jun 2026 has near-zero traction, both recent successes show decaying recent-upload views, and YouTube's Jul-2025 'inauthentic content' policy plus the Jan/Feb-2026 enforcement wave against faceless AI channels is actively raising the bar on exactly this format.",
+  "cohort": [
+    {
+      "channel": "Dr. Jonathan Tam",
+      "channelId": "UCcc_LE8kzIzcloTVAttch5w",
+      "created": "2025-08-28",
+      "subs": 109000,
+      "views": 13328340,
+      "videos": 108,
+      "recent_video_performance": "Last 20 uploads (API videos.list, Jun 29-Jul 12 2026): longform 5k-72k views (peak '700 Million People Found a Shared Enemy' 72,239; 'Korea's LGBTQ War' 51,878), shorts ~700-2,200. Web sources report 3 videos >1M in first 3 months (top 4.2M) \u2014 early distribution was far hotter than current.",
+      "assessment": "thriving \u2014 109k subs and 13.3M views in 10.5 months; the strongest last-12-month entrant, but it rides a real, verifiable credential (Oxford PhD persona), not a purely anonymous faceless formula, and current per-video views have cooled to 5-70k."
+    },
+    {
+      "channel": "ECONOMY HISTORIAN",
+      "channelId": "UCY9S57pDCSPNvc8W_j4cQRQ",
+      "created": "2025-11-11",
+      "subs": 18100,
+      "views": 1385534,
+      "videos": 30,
+      "recent_video_performance": "All 30 uploads pulled via playlistItems+videos.list. Hits: 'Why France Is The Last Soviet Union In Europe' 379,919 (Feb 2026), 'Why The European Superpower is Over' 160,672, 'Why Canada Will Be Poorer Than Mexico by 2030' 113,852, 'Why North Korea Is a Paper Tiger' 107,788. But ~40% of uploads sit at 1-7k views, and the 3 most recent (Jun 23-Jul 5) did 16.8k / 1.8k / 7k \u2014 distribution is hit-driven and softening.",
+      "assessment": "modest-to-thriving \u2014 proof an anonymous faceless entrant created Nov 2025 in the exact 'why country X is collapsing' format still got algorithmic pushes into Feb-Apr 2026; high variance and weaker recent uploads temper it."
+    },
+    {
+      "channel": "Economic Historian",
+      "channelId": "UCvd7-m53NRwzISxuOrBhQ4g",
+      "created": "2026-01-01",
+      "subs": 23300,
+      "views": 1597485,
+      "videos": 66,
+      "recent_video_performance": "Recent 30 uploads via API: March 2026 daily-upload burst with hits '5 Assets You Must Sell Before The Dollar Resets' 105,752 and 'Why Having Cash Is More Powerful' 63,160, baseline 2-6k; the two most recent uploads (Jun 18, Jul 4) did ~710 views each \u2014 distribution has collapsed.",
+      "assessment": "modest, and a partial niche fit \u2014 launched Jan 2026 with collapse-history framing ('how economic systems quietly fail'), got real distribution in Q1, then drifted into doom-prep personal-finance listicles; now effectively stalled at ~700 views/upload. Evidence both that Jan-2026 cold starts worked and that the algorithm's interest was short-lived."
+    },
+    {
+      "channel": "When Nations Fall",
+      "channelId": "UC_c5u0W1wa8m_kZN0J-qUzQ",
+      "created": "2025-08-31",
+      "subs": 1,
+      "views": 41,
+      "videos": 1,
+      "recent_video_performance": "Single upload (Dec 2025): 'Hannibal's Oath: The Epic Fall of Carthage (Ancient History Sleep Story)' \u2014 41 total channel views.",
+      "assessment": "failed \u2014 collapse-history (sleep-story variant) entrant created the same week as Dr. Jonathan Tam; zero distribution, abandoned after one video. Denominator case."
+    },
+    {
+      "channel": "Dead Nations",
+      "channelId": "UCs0WGmn-Ci8j5XVbzkzHGYA",
+      "created": "2026-03-27",
+      "subs": 2,
+      "views": 768,
+      "videos": 15,
+      "recent_video_performance": "Uploads via playlistItems: launched with one dark-history explainer ('1975 Emergency: Dark Indian History', 2026-03-27), then pivoted within 48 hours to MrBeast-reaction shorts slop; 768 views across 15 videos.",
+      "assessment": "failed \u2014 H1-2026 entrant whose collapse-history launch got no traction, abandoned the format almost immediately. Denominator case."
+    },
+    {
+      "channel": "Breaking Borders",
+      "channelId": "UCScikBSc-SA6XQskrq4KfuA",
+      "created": "2026-04-26",
+      "subs": 19,
+      "views": 1760,
+      "videos": 10,
+      "recent_video_performance": "All 10 uploads verified: exact target format ('Why South Korea Will Be The First Country To Disappear' 1,081 views; 'Why the USA Can't Compete With China Anymore', 'How the Next Crisis Will Change Everything'). Best video ~1.1k, most under 200.",
+      "assessment": "failing \u2014 the cleanest natural experiment in the cohort: a faceless geopolitics/economic-decline explainer launched Apr 2026 executing the exemplar playbook title-for-title, and the algorithm gave it essentially nothing (19 subs, 1,760 views in 2.5 months)."
+    },
+    {
+      "channel": "NATIONSONEDGE",
+      "channelId": "UCBXr4avf0eCDEr701t1El7w",
+      "created": "2026-06-16",
+      "subs": 0,
+      "views": 0,
+      "videos": 0,
+      "recent_video_performance": "No uploads yet.",
+      "assessment": "failing/pre-launch \u2014 niche-named channel registered mid-June 2026 with zero content; included as evidence people are still entering, not of distribution either way."
+    },
+    {
+      "channel": "Mystery Footage Hub (ex-'The Economics of Fallen Empires')",
+      "channelId": "UChFh_XLrYPICI8ttqP03Pxg",
+      "created": "2025-11-08",
+      "subs": 3380,
+      "views": 4371107,
+      "videos": 432,
+      "recent_video_performance": "Current uploads are lion/animal shorts slop; 4.37M views across 432 videos with only 3,380 subs (classic shorts-farm ratio). Google still indexes this channel ID under the title 'The Economic of Fallen Empires \u2014 explores how great civilizations rise, rule, and ultimately collapse.'",
+      "assessment": "failed-in-niche/pivoted (lower confidence on original niche \u2014 evidence is the stale search-index title only) \u2014 a Nov-2025 channel that apparently tried the collapse-empires format, abandoned it, and rebranded to mystery/animal shorts."
+    },
+    {
+      "channel": "Hype Decay",
+      "channelId": "UCbyEkazyupmp3_grfvn5MAg",
+      "created": "2025-04-21",
+      "subs": 6320,
+      "views": 657674,
+      "videos": 18,
+      "recent_video_performance": "'Total Population Collapse Is Inevitable' (Apr 2026) 114,335 views; recent uploads (Jun-Jul 2026) on adjacent declinist topics. One breakout carries most channel views.",
+      "assessment": "modest \u2014 adjacent niche (techno-declinism/'the future is a lie' debunking, incl. demographic collapse), 14.5 months old; 6.3k subs on 657k views shows views without subscriber conversion. Included as adjacent-format comparator."
+    },
+    {
+      "channel": "Economic Ruins",
+      "channelId": "UCXl4dnP07tspgWzZBUJp7Qw",
+      "created": "2024-08-13",
+      "subs": 399,
+      "views": 567,
+      "videos": 12,
+      "recent_video_performance": "Uploads incl. 'Why the Dollar's Collapse Is Already Mathematically Certain' (May 2026) \u2014 567 lifetime channel views total.",
+      "assessment": "failing \u2014 23 months old (context denominator, just outside 12-month window): buried-financial-history/collapse channel still uploading in 2026 with effectively zero distribution ever."
+    },
+    {
+      "channel": "Fall of Nations (exemplar, context)",
+      "channelId": "UC6nMgl1_XBgbr2ufa4UOZDw",
+      "created": "2024-10-31",
+      "subs": 204000,
+      "views": 43471433,
+      "videos": 285,
+      "recent_video_performance": "Last 25 uploads (Jun 16-Jul 11 2026) verified via API: the channel has pivoted almost entirely to daily anti-Islam ragebait ('Denmark Just Did Something to ISLAM...' 1,719,735 views; 'France Is About to Do Something UNBELIEVABLE to ISLAM' 490,975), while its remaining economic-collapse-style videos do 16-48k ('The Silent Collapse of the Muslim World' 28,024).",
+      "assessment": "thriving but NO LONGER IN THE NICHE \u2014 the marquee 'proof' channel for this opportunity abandoned neutral economic-collapse history for culture-war ragebait, strongly suggesting the pure format underperformed even for the category leader; also a major ad-suitability red flag."
+    }
+  ],
+  "evidence_summary": "METHOD AND ITS LIMITS: search.list was quota-blocked, so discovery came from (a) web searches on format-typical video titles, then videos.list\u2192channels.list to resolve channel IDs and creation dates, and (b) probing ~36 plausible niche handles via channels.list forHandle (which surfaced failures the algorithm and search engines never show: When Nations Fall, Dead Nations, Breaking Borders-class channels, Economic Ruins, NATIONSONEDGE). All numbers in the cohort table are API-verified (channels.list / playlistItems.list / videos.list, 2026-07-12). HONEST CAVEAT: this discovery method is itself survivorship-biased \u2014 web search only surfaces channels that got distribution, and handle-guessing only finds failures with guessable names. The true failure denominator is certainly much larger than the 5-6 dead channels I found; treat my ~50% visible failure rate as a floor, not an estimate. KEY FINDINGS: (1) Cold starts still worked at least through Jan 2026 \u2014 two anonymous faceless channels created Nov 2025 and Jan 2026 each cleared 1.4-1.6M lifetime views with individual videos at 100-380k. (2) Every exact-format entrant found from Mar-Jun 2026 is at or near zero (19 subs, 2 subs, 0 subs), and both recent successes show sharply weaker June-July uploads \u2014 consistent with either a tightening algorithm or normal hit-variance, but the direction is down. (3) The niche's flagship, Fall of Nations, quietly exited neutral collapse-history into anti-Islam ragebait in 2026 \u2014 its collapse-format videos now do 16-48k while ragebait does 200k-1.7M; the category leader's own revealed preference is evidence the pure format's ceiling fell. (4) Platform risk is real and format-specific: YouTube's Jul-15-2025 'inauthentic content' policy and a Jan-2026 enforcement wave (16 channels, ~4.7B views, ~$10M/yr ad revenue removed, per industry press) target mass-produced faceless AI explainers, and 2026 quality updates reportedly penalize AI narration over generic images. An Aug-2026 entrant is launching into the crackdown, not before it.",
+  "answers": [
+    {
+      "question": "(1) Census of collapse-history channels created in the last 6-9 months \u2014 is the algorithm still distributing to brand-new entrants?",
+      "answer": "Partially, and decreasingly. In the 6-9-month window (Oct 2025-Jul 2026) I verified two genuine breakouts: ECONOMY HISTORIAN (created 2025-11-11; 18.1k subs, 1.39M views, 30 videos; hits to 380k views in Feb-Apr 2026) and Economic Historian (created 2026-01-01; 23.3k subs, 1.6M views; hits to 106k in Mar 2026, though it drifted into finance listicles and its July uploads do ~700 views). Against them: Dead Nations (Mar 2026, 2 subs), Breaking Borders (Apr 2026, 19 subs, 1,760 views on 10 exactly-on-format videos), NATIONSONEDGE (Jun 2026, 0 uploads), When Nations Fall (Aug 2025, 41 views), Economic Ruins (567 lifetime views despite uploading into 2026). So the algorithm demonstrably still cold-started this format as late as January 2026, but I found NO post-February-2026 entrant with any traction, and the two successes' own recent uploads are decaying. The visible success rate in my census is roughly 2-3 of 9 entrants, and the invisible failure pool is larger \u2014 the exemplars' 100-200k-sub outcomes are the far right tail, not the expected case."
+    },
+    {
+      "question": "(2) Is 'Dr. Jonathan Tam' actually faceless or a credentialed on-camera persona?",
+      "answer": "Neither pure archetype \u2014 and that matters for copyability. Production is faceless-style: the channel About (API-verified) explicitly says videos are hybrid AI-assisted productions where 'AI visuals bring history, society, and culture to life where no footage exists,' i.e., voiceover + AI imagery, not on-camera hosting; web coverage likewise describes AI-assisted production rather than an on-camera host (I did not find evidence he appears on camera; confidence medium \u2014 based on channel metadata and web coverage, not frame-by-frame video review). But the BRAND is a named, verifiable, credentialed human: real person, Oxford sociology PhD, Warner Bros. Games research background, LinkedIn profile (Dr. Jon Tam Media Inc.), and the About leads with 'I'm Jon.' So his cold-start success is NOT evidence that an anonymous faceless channel gets the same treatment \u2014 his authority positioning (credential in the channel name), topical focus (East Asia socioculture, where he has lived experience), and disclosed-AI transparency are moats a generic Aug-2026 faceless entrant cannot copy."
+    },
+    {
+      "question": "(3) Does demand extend past marquee cases (Japan demographics, hyperinflation) to long-tail country/crisis cases?",
+      "answer": "Yes, but with brutal variance and a marquee premium. API-verified long-tail datapoints on ECONOMY HISTORIAN (18k subs): 'Why Cuba Is The Last Soviet Parasite' 77,715 views; 'Why Australia Is The New Argentina' 72,342; 'Why Canada Will Be Poorer Than Mexico by 2030' 113,852; 'Why New Zealand Will Soon Belong to Australia' 26,858 \u2014 all far above the channel's sub count, proving the algorithm will push non-marquee country cases. Dr. Tam's long-tail cultural-economic cases also perform ('80,000 Geisha Became 250' 12.8k; 'Kyoto Lost 7 Million Japanese Visitors' 17.3k). BUT the same channels' long-tail misses cluster at 1-7k views ('Venezuela: The First Capitalist Soviet Union' 2,634; 'The Mistake That Broke Germany' 6,954; 'Why Fixing France Is So Hard' 2,359) \u2014 roughly a 1-in-3 hit rate \u2014 and the biggest numbers still come from marquee-adjacent framings (France/EU 380k and 161k; Kurzgesagt's marquee 'SOUTH KOREA IS OVER' and Economics Help's population-collapse videos at 240-320k). Long-tail demand exists; a channel built ONLY on long-tail cases should expect most videos to do low-thousands with occasional 30-100k breakouts."
+    },
+    {
+      "question": "(4) Ad-suitability: any creator reports of limited ads on politically-charged collapse content?",
+      "answer": "I found NO first-person creator report specific to this exact niche (honest gap \u2014 Reddit searches returned nothing usable), but three converging lines of indirect evidence say ad-suitability risk is material: (a) industry monetization guides (MilX, Mediacube, Lenostube 2026 adpocalypse timeline) state that controversial news, tragedy, and extreme political conflict content triggers limited ads because brands avoid conflict adjacency \u2014 collapse content about named countries/religions/wars sits squarely in that category; (b) the platform-level crackdown is documented: YouTube's Jul-15-2025 'inauthentic content' policy and a Jan-2026 enforcement wave that removed 16 faceless AI channels (~4.7B views, ~$10M/yr ad revenue, per ScaleLab/Hollywood Reporter coverage), plus reported 2026 quality updates penalizing AI narration over stock imagery; (c) revealed-preference evidence from the niche leader: Fall of Nations' 2026 pivot from neutral economic-collapse history into anti-Islam ragebait (verified via its last 25 uploads) chases exactly the content class most exposed to limited ads and channel strikes \u2014 a fragile revenue base an advertiser-safe entrant would be competing against on CPM-hostile terrain. Treat ad-suitability as unverified-but-likely risk: plan for limited ads on any video naming a living country's political failure."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UC6nMgl1_XBgbr2ufa4UOZDw,UCcc_LE8kzIzcloTVAttch5w (and ids UCY9S57pDCSPNvc8W_j4cQRQ, UCvd7-m53NRwzISxuOrBhQ4g, UCScikBSc-SA6XQskrq4KfuA, UCs0WGmn-Ci8j5XVbzkzHGYA, UC_c5u0W1wa8m_kZN0J-qUzQ, UCBXr4avf0eCDEr701t1El7w, UChFh_XLrYPICI8ttqP03Pxg, UCbyEkazyupmp3_grfvn5MAg, UCXl4dnP07tspgWzZBUJp7Qw)",
+      "title": "YouTube Data API v3 channels.list \u2014 all cohort creation dates, subs, views, video counts",
+      "supports": "Every number in the cohort table",
+      "reliability": "high (primary source, queried 2026-07-12)"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=UU6nMgl1_XBgbr2ufa4UOZDw (+ UUcc_LE8kzIzcloTVAttch5w, UUY9S57pDCSPNvc8W_j4cQRQ, UUvd7-m53NRwzISxuOrBhQ4g, UUScikBSc-SA6XQskrq4KfuA, UUs0WGmn-Ci8j5XVbzkzHGYA, UU_c5u0W1wa8m_kZN0J-qUzQ) then videos.list on returned IDs",
+      "title": "YouTube Data API v3 playlistItems.list + videos.list \u2014 per-video dates, titles, view counts",
+      "supports": "Recent-upload performance, long-tail view counts (Q3), Fall of Nations ragebait pivot, Dead Nations/When Nations Fall niche-fit verification",
+      "reliability": "high (primary source, queried 2026-07-12)"
+    },
+    {
+      "url": "https://www.youtube.com/@DrJonathanTam",
+      "title": "Dr. Jonathan Tam channel (About text via API snippet)",
+      "supports": "Q2 \u2014 explicit statement of AI-visuals hybrid production and named-credential persona ('I'm Jon... PhD in sociology at Oxford')",
+      "reliability": "high (channel's own self-description)"
+    },
+    {
+      "url": "https://ca.linkedin.com/in/drjonathantam",
+      "title": "Dr. Jonathan Tam \u2014 Dr. Jon Tam Media Inc. | LinkedIn",
+      "supports": "Q2 \u2014 the persona is a real, verifiable credentialed individual, not anonymous",
+      "reliability": "medium (profile located via search; not deeply verified)"
+    },
+    {
+      "url": "https://videos.feedspot.com/economics_youtube_channels/",
+      "title": "70 Economics YouTubers You Must Follow in 2026 (Feedspot)",
+      "supports": "Discovery route to ECONOMY HISTORIAN (verified via API afterwards)",
+      "reliability": "medium (directory; used for discovery only)"
+    },
+    {
+      "url": "https://scalelab.com/en/why-youtube-is-cracking-down-on-ai-generated-content-in-2026",
+      "title": "YouTube's AI content crackdown in 2026 (ScaleLab)",
+      "supports": "Q1/Q4 \u2014 Jan 2026 enforcement wave: 16 channels, ~4.7B views, ~$10M/yr ad revenue removed under inauthentic-content policy",
+      "reliability": "medium (industry blog; figure not independently re-verified)"
+    },
+    {
+      "url": "https://milx.app/en/trends/what-channels-have-a-high-risk-of-demonetization-in-2026",
+      "title": "What YouTube channels have a high risk of demonetization in 2026 (MilX)",
+      "supports": "Q4 \u2014 controversial news/tragedy/political-conflict content triggers limited ads",
+      "reliability": "medium (industry blog)"
+    },
+    {
+      "url": "https://www.lenostube.com/en/youtube-adpocalypse-explained-history-timeline-and-2026-updates/",
+      "title": "YouTube Adpocalypse Explained: History, Timeline, and 2026 Updates (Lenos)",
+      "supports": "Q4 \u2014 advertiser-friendliness review scope and limited-ads mechanics; Jul-15-2025 inauthentic-content policy rename",
+      "reliability": "medium (industry blog)"
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/",
+      "title": "Faceless Creators Take a Hit As YouTube Cracks Down on AI Slop (Hollywood Reporter)",
+      "supports": "Q1/Q4 \u2014 mainstream confirmation of the 2026 faceless-AI crackdown (403 on fetch; used from search result title/snippet only)",
+      "reliability": "high outlet, low fetch-depth (headline-level only)"
+    },
+    {
+      "url": "https://tubelab.net/blog/faceless-youtube-channel-niches",
+      "title": "Faceless YouTube Channel Niches: 30 Scored & Ranked (2026) (TubeLab)",
+      "supports": "Q1/Q4 \u2014 claim that AI narration over generic images was penalized in YouTube's 2026 quality updates; 'Why [Country]'s [Industry] Is Collapsing' cited as a popular new-creator format",
+      "reliability": "low-medium (SEO content-farm blog; directional only)"
+    },
+    {
+      "url": "https://factually.co/fact-checks/media/is-the-fall-of-nations-youtube-channel-human-or-ai-generated-26ace6",
+      "title": "Is TheFallOfNations Channel Human or AI-Generated (Factually)",
+      "supports": "Context \u2014 third parties cannot determine whether Fall of Nations is AI-produced; documents its growth trajectory (403 on fetch; search-snippet only)",
+      "reliability": "low-medium (could not fetch full page)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ufmu1WD2TSk",
+      "title": "Kurzgesagt \u2014 SOUTH KOREA IS OVER",
+      "supports": "Q3 \u2014 marquee demographic-collapse cases command mainstream mega-channel attention, defining the competitive ceiling",
+      "reliability": "high (video exists; located via search)"
+    }
+  ]
+}

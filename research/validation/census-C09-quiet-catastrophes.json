@@ -1,0 +1,214 @@
+{
+  "verdict": "OPEN (new entrants still getting distribution) \u2014 verified post-mid-2024 launches (DisastersUncovered, Forgotten Disasters, Disasters At Sea) are receiving real algorithmic distribution into July 2026, but the niche is narrowing: median outcomes below the breakouts are low-four-figure views, the 2025-26 AI-content crackdown adds monetization risk, and my discovery method structurally under-counts dead channels, so the true failure base rate is higher than the visible cohort suggests.",
+  "cohort": [
+    {
+      "channel": "DisastersUncovered (COHORT, indie faceless)",
+      "channelId": "UC3lv_rnB5LgXW8t9sUH3hXw",
+      "created": "2024-12-22",
+      "subs": 26600,
+      "views": 3757468,
+      "videos": 63,
+      "recent_video_performance": "Last 20 uploads (May-Jul 2026): range 2,293-291,912 views, median ~35k; 6 of 20 cleared 100k (RAF Fauld 145k, Cavalese-1976 292k, Vauxhall 112k, Nimrod 112k); Aberfan video (Apr 2026) at 478,782. Uploads ~2x/week, 12-47 min, titles branded 'No AI / Human Narrated'.",
+      "assessment": "thriving \u2014 the strongest proof the door is open: an 18-month-old channel whose brand-new uploads repeatedly out-view its 26.6k sub count by 4-10x, i.e. active browse/suggested distribution as of July 2026"
+    },
+    {
+      "channel": "Disasters At Sea (COHORT date, but LICENSED TV content, not indie)",
+      "channelId": "UC2FAHHJz1rLyBk7bky8nWBQ",
+      "created": "2025-05-09",
+      "subs": 72600,
+      "views": 10496303,
+      "videos": 49,
+      "recent_video_performance": "Long-form 2-4.5hr TV 'marathons' (Mar-Jul 2026): 10,939-153,119 views; earlier Shorts got 1.1k-4.7k. 137,913 views on Jul 4 2026 upload.",
+      "assessment": "thriving \u2014 10.5M views in 14 months proves heavy algorithmic appetite for disaster content on brand-new channels, BUT it re-packages the Blue Ant/Smithsonian 'Disasters at Sea' TV series, so it validates demand, not the indie-creator playbook"
+    },
+    {
+      "channel": "Forgotten Disasters (COHORT, indie faceless)",
+      "channelId": "UCi044zIDe8DgARYXzEyx_zA",
+      "created": "2025-09-01",
+      "subs": 7070,
+      "views": 837109,
+      "videos": 59,
+      "recent_video_performance": "Last 20 uploads (May-Jun 2026): 752-55,330 views, median ~4.2k; breakouts: 1911 Eastern Heat Wave 55,330, Labor Day Hurricane 21,318, Knickerbocker 20,340. ~25-min videos every 2 days; already carries Aura and Factor sponsor reads at 7k subs.",
+      "assessment": "modest \u2014 the realistic median case: gets distribution and occasional 20-55k breakouts, sponsors at 7k subs, but most uploads sit at 1-5k views after 10 months of near-daily production"
+    },
+    {
+      "channel": "DisasterTV (COHORT date, but LICENSED TV catalog channel)",
+      "channelId": "UCiI90iGCRVZy_a2qz_MiZkw",
+      "created": "2025-09-23",
+      "subs": 13800,
+      "views": 2415639,
+      "videos": 239,
+      "recent_video_performance": "Last 20 uploads (Jun-Jul 2026): 25-1,343 views, most under 700, despite daily uploads of full TV episodes and Shorts.",
+      "assessment": "failing (currently) \u2014 239 uploads of licensed TV disaster programming produced early traction (2.4M lifetime) but recent uploads get 25-1,300 views; volume without format fit no longer buys distribution"
+    },
+    {
+      "channel": "The Disaster Diaries (borderline cohort, created Apr 2024)",
+      "channelId": "UCXxxi-8LMtpq1ho5X9FiB2Q",
+      "created": "2024-04-03",
+      "subs": 2,
+      "views": 172,
+      "videos": 1,
+      "recent_video_performance": "One video ever; 172 views total since April 2024; channel abandoned.",
+      "assessment": "failing \u2014 a verified zero: launched with the exact 'chilling tales of history's disasters' positioning and died after one upload; the kind of channel search engines almost never surface (I found it only by accident of naming)"
+    },
+    {
+      "channel": "Disaster Digest (near-cohort, created Nov 2023)",
+      "channelId": "UC29btku30qfmO5FQrm9qXJw",
+      "created": "2023-11-22",
+      "subs": 6870,
+      "views": 1040658,
+      "videos": 59,
+      "recent_video_performance": "Last 15 uploads (Aug 2025-Apr 2026): 62-820 views, median ~280 \u2014 despite 6.87k subs and 1.04M lifetime views. Copied Fascinating Horror's about-page wording verbatim; pivoted to caving/aviation content.",
+      "assessment": "failing \u2014 the cautionary tale: got early algorithmic traction (~1M views), then distribution collapsed to sub-500 views per video; proof that early traction is not durable in this niche"
+    },
+    {
+      "channel": "Disaster Documentaries (context: pre-cohort stall)",
+      "channelId": "UCyqiBariUzEgtldD6pe2ehA",
+      "created": "2019-12-04",
+      "subs": 835,
+      "views": 202973,
+      "videos": 22,
+      "recent_video_performance": "22 videos lifetime; 835 subs after 6+ years.",
+      "assessment": "failing \u2014 long-running name-brand SEO position ('disaster documentaries') yet never converted; niche naming alone earns nothing"
+    },
+    {
+      "channel": "Disaster Documentaries (context: second channel, same name)",
+      "channelId": "UCSuNDhZCFWHoCuhLxAZb4Qg",
+      "created": "2016-07-31",
+      "subs": 234,
+      "views": 55489,
+      "videos": 10,
+      "recent_video_performance": "10 videos, 234 subs, ~55k lifetime views.",
+      "assessment": "failing \u2014 another verified denominator entry occupying the exact keyword space"
+    },
+    {
+      "channel": "Mode of Horror (context: 2021 vintage indie, same format)",
+      "channelId": "UCth5ytijzUfL0EMIczVQE-w",
+      "created": "2021-12-28",
+      "subs": 22600,
+      "views": 6118416,
+      "videos": 53,
+      "recent_video_performance": "Industrial-disaster docs (Pemberton Mill 17.6k, Monongah 58.5k views).",
+      "assessment": "modest \u2014 4 years in, 53 videos, plateaued near DisastersUncovered's current size; shows the mid-tier ceiling absent breakout packaging"
+    },
+    {
+      "channel": "Tragedy Tales (context: 2022 vintage success)",
+      "channelId": "UCHtMtkH3yxRP_S1zS8u2C2A",
+      "created": "2022-03-28",
+      "subs": 482000,
+      "views": 56707660,
+      "videos": 93,
+      "recent_video_performance": "Fortnightly uploads; 93 videos to 482k subs.",
+      "assessment": "thriving \u2014 proves the 2022 cohort could still reach half a million subs with the calm-narration tragedy format"
+    },
+    {
+      "channel": "Outdoor Disasters (context: 2023 vintage success, adjacent sub-niche)",
+      "channelId": "UCsrtvSjgVg8QgRJzysB55xA",
+      "created": "2023-02-16",
+      "subs": 136000,
+      "views": 21864316,
+      "videos": 196,
+      "recent_video_performance": "196 videos, 21.9M lifetime views.",
+      "assessment": "thriving \u2014 2023 entrant in wilderness-disaster storytelling; the format family kept minting winners through 2023"
+    },
+    {
+      "channel": "Fascinating Horror (REFERENCE: marquee exemplar)",
+      "channelId": "UCFXad0mx4WxY1fXdbvtg0CQ",
+      "created": "2019 (channel active since Jan 2019)",
+      "subs": 1440000,
+      "views": 0,
+      "videos": 0,
+      "recent_video_performance": "Last 100 uploads sampled: main videos 169k-1.23M views, no main upload below ~170k; weekly cadence; Patreon linked on all 100 descriptions (460 posts visible); Factor sponsor reads in ~3 of 100 videos.",
+      "assessment": "thriving \u2014 the marquee; subs/views fields for this reference row not re-listed (see API note in evidence summary; 1.44M subs verified via channels.list)"
+    }
+  ],
+  "evidence_summary": "METHOD: Discovery via WebSearch (youtube.com HTML and most stats directories \u2014 similarchannels, favoree, playboard, graphtreon, patreon, feedspot, findachannel \u2014 were 403-blocked at the egress proxy; search.list quota exhausted per instructions), then every number verified via YouTube Data API v3 channels.list / playlistItems.list / videos.list on 2026-07-12. Census also mined curated public playlists via playlistItems.list to enumerate small channels.\n\nCOHORT FINDINGS (created since mid-2024, exact format = faceless calm-narration disaster docs): only TWO genuinely indie entrants with traction were findable \u2014 DisastersUncovered (2024-12, 26.6k subs, 3.76M views; last-30-day uploads repeatedly >100k views on a 26.6k-sub channel = live algorithmic distribution) and Forgotten Disasters (2025-09, 7.1k subs, 837k views in 10 months, median upload ~4.2k). Two licensed-TV channels of the same vintage (Disasters At Sea 72.6k/10.5M; DisasterTV 13.8k but recent uploads 25-1,300 views) prove demand but not the indie playbook. Verified failures: The Disaster Diaries (Apr 2024, 1 video, 172 views), Disaster Digest (Nov 2023, 1.04M lifetime views collapsed to 62-820 views/upload), two 'Disaster Documentaries' channels squatting the keyword for years at 234/835 subs, plus a renamed-and-emptied 'Disaster Files'. CRITICAL CAVEAT: absence of visible H1-2026 zero-traction launches is a defect of my discovery method, not evidence they don't exist \u2014 search engines only index channels that already got views, so the failure denominator is systematically undercounted and the visible cohort overstates success odds.\n\nLONG-TAIL DEMAND (Q2): at marquee tier demand is geography-independent \u2014 Fascinating Horror non-Anglosphere videos sampled: Gansu Ultramarathon (China) 1,095,650; Ponte Morandi (Italy) 664,056; Salang Pass (Afghanistan) 656,525; Ycu\u00e1 Bola\u00f1os fire (Paraguay) 531,803; Formosa Fun Coast (Taiwan) 440,348; Loveparade (Germany) 410,491; Iraq poison-grain 392,443; Katerina Didenko (Russia) 370,986; Ajka toxic sludge (Hungary) 313,846; Sewol (Korea) 313,254; Filair Let-410 (DR Congo) 238,540. Below marquee tier the same long-tail topics pull 1-3 orders of magnitude less: DisastersUncovered \u2014 Tuvalu dormitory fire 7,114; Angers Bridge (France) 14,399; Iolaire 8,216; Cavalese-1998 49,120 (but Cavalese-1976 broke out at 291,912); Forgotten Disasters \u2014 Mount Pel\u00e9e (Martinique) 2,213; Glen Cinema 4,029; Moorgate 1,657. Demand below the marquee tier is real but authority-gated: topic selection alone does not transfer FH-scale views.\n\nMONETIZATION (Q3): Fascinating Horror links Patreon in 100/100 sampled descriptions (patron count unretrievable \u2014 Patreon/Graphtreon blocked; page shows 460 patron-only posts); sponsor reads are sparse at marquee tier (Factor in ~3 of 100 FH videos; no VPN/audiobook reads observed). Sponsors DO buy reads far down-market: Forgotten Disasters (7k subs) carries Aura and Factor. Policy risk is elevated: YouTube's Jul-2025 'inauthentic content' YPP overhaul and the early-2026 AI-slop demonetization wave (channel-level enforcement; faceless human creators reported as collateral damage \u2014 TheNextWeb, Hollywood Reporter) is reshaping the niche; DisastersUncovered now titles every video 'No AI / Human Narrated' \u2014 direct market evidence of both AI-channel flooding and demonetization fear. YouTube's advertiser-friendly guidelines classify 'sensitive events'/tragedy as limited-ads territory; tragedy channels mitigate via no-graphic-imagery house style (FH's stated approach) plus Patreon.",
+  "answers": [
+    {
+      "question": "(1) Enumerate all disaster-documentary channels created since mid-2024 and their trajectories \u2014 is DisastersUncovered repeatable or a lottery ticket?",
+      "answer": "Verified census of post-mid-2024 launches in/near the exact format: DisastersUncovered (2024-12; 26.6k subs, 3.76M views, 63 videos \u2014 thriving, recent uploads 2.3k-292k views with 6 of last 20 over 100k); Forgotten Disasters (2025-09; 7.1k subs, 837k views, 59 videos \u2014 modest, median ~4.2k/upload); Disasters At Sea (2025-05; 72.6k subs, 10.5M views \u2014 thriving but licensed Blue Ant TV content); DisasterTV (2025-09; 13.8k subs but recent uploads 25-1,300 views \u2014 licensed TV, currently failing); The Disaster Diaries (2024-04; 2 subs, 1 video \u2014 dead). Near-cohort: Disaster Digest (2023-11) got ~1M views then collapsed to 62-820 views/upload \u2014 traction in this niche can be revoked. Verdict on repeatability: DisastersUncovered is PARTIALLY repeatable \u2014 Forgotten Disasters proves a Sept-2025 entrant still gets distribution and sponsors, and DisastersUncovered's own July-2026 uploads still outperform its sub count \u2014 but it is the ONLY indie breakout of its vintage I could find, my method cannot see zero-view launches (survivorship bias in discovery, stated explicitly), and Disaster Digest shows the downside path. Treat it as: distribution door open, median outcome ~1-5k views/video after a year of grinding, breakout probability real but low."
+    },
+    {
+      "question": "(2) Does demand hold below the marquee tier \u2014 view counts on genuinely long-tail/non-Anglosphere disaster videos (10-15 sampled)?",
+      "answer": "Sampled 15+ long-tail/non-Anglosphere videos (all API-verified 2026-07-12). Marquee tier (Fascinating Horror, 1.44M subs): geography is no penalty \u2014 Gansu Ultramarathon (China) 1,095,650; Ponte Morandi (Italy) 664,056; Salang Pass (Afghanistan) 656,525; Ycu\u00e1 Bola\u00f1os (Paraguay) 531,803; Formosa Fun Coast (Taiwan) 440,348; Loveparade (Germany) 410,491; Iraq poison grain 392,443; Didenko (Russia) 370,986; Ajka sludge (Hungary) 313,846; Sewol (S. Korea) 313,254; Filair crash (DR Congo) 238,540; BOAC 911 (Japan) 275,995 \u2014 every FH main upload clears ~170k regardless of obscurity. Sub-marquee tier: same class of topics pulls 1-2 orders of magnitude less \u2014 DisastersUncovered (26.6k subs): Tuvalu dormitory fire 7,114; Angers Bridge (France, 1850) 14,399; Iolaire 8,216; Cavalese-1998 49,120 vs Cavalese-1976 breakout 291,912; Forgotten Disasters (7k subs): Mount Pel\u00e9e (Martinique, 30,000 dead) 2,213; Glen Cinema 4,029; Moorgate 1,657; Matawan 752. Conclusion: demand below the marquee is real but channel-authority-gated \u2014 obscure non-Anglosphere topics reliably monetize attention only once the channel itself has distribution; the topic catalog is not a moat, and saturated 'famous' topics (Boston Molasses: 2,293 views on DisastersUncovered) can underperform obscure ones."
+    },
+    {
+      "question": "(3) Monetization on tragedy content \u2014 limited ads, Fascinating Horror's Patreon scale, sponsor presence?",
+      "answer": "Three verified signals plus one gap. (a) Patreon: Fascinating Horror links Patreon in 100/100 of its last 100 video descriptions and the page shows 460 patron-gated posts \u2014 it is a load-bearing revenue leg \u2014 but exact patron/income figures were unretrievable (Patreon and Graphtreon both 403-blocked at my egress proxy); treat scale as unverified. (b) Sponsors: sparse at marquee tier \u2014 Factor reads in only ~3 of FH's last 100 videos, and no VPN/audiobook reads observed in that sample; but sponsors do buy tragedy-adjacent inventory far down-market: Forgotten Disasters carries Aura and Factor reads at just 7k subs, and DisastersUncovered ran Factor at ~26k subs. (c) Ad policy risk: YouTube's advertiser-friendly guidelines put 'sensitive events'/tragedy in limited-ads territory, which is precisely why the FH house style (no graphic imagery, respectful tone) exists; more materially, the July-2025 YPP 'inauthentic content' overhaul and the early-2026 mass demonetization of AI/faceless channels (channel-level enforcement, human faceless creators hit as collateral damage per Hollywood Reporter/TheNextWeb) is the dominant 2026 monetization risk \u2014 DisastersUncovered now stamps 'No AI. Human Narrated.' into every title as a survival signal. Gap: no first-person RPM/limited-ads report from FH or peers surfaced in indexed sources; that number remains unverified."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UC3lv_rnB5LgXW8t9sUH3hXw,UCFXad0mx4WxY1fXdbvtg0CQ,UCi044zIDe8DgARYXzEyx_zA,UC2FAHHJz1rLyBk7bky8nWBQ,UCiI90iGCRVZy_a2qz_MiZkw,UCXxxi-8LMtpq1ho5X9FiB2Q,UC29btku30qfmO5FQrm9qXJw,UCyqiBariUzEgtldD6pe2ehA,UCSuNDhZCFWHoCuhLxAZb4Qg,UCth5ytijzUfL0EMIczVQE-w,UCHtMtkH3yxRP_S1zS8u2C2A,UCsrtvSjgVg8QgRJzysB55xA",
+      "title": "YouTube Data API channels.list \u2014 all cohort subscriber/view/video counts and creation dates (queried 2026-07-12)",
+      "supports": "Every number in the cohort table",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=UU3lv_rnB5LgXW8t9sUH3hXw (+UUi044zIDe8DgARYXzEyx_zA, UU2FAHHJz1rLyBk7bky8nWBQ, UUiI90iGCRVZy_a2qz_MiZkw, UU29btku30qfmO5FQrm9qXJw, UUFXad0mx4WxY1fXdbvtg0CQ) + videos.list on returned IDs",
+      "title": "YouTube Data API playlistItems.list + videos.list \u2014 recent-upload view counts, durations, sponsor/Patreon markers in descriptions",
+      "supports": "Recent-video performance, long-tail view samples (Q2), sponsor/Patreon presence (Q3)",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCi044zIDe8DgARYXzEyx_zA",
+      "title": "Forgotten Disasters \u2014 YouTube channel (found via WebSearch)",
+      "supports": "Existence/discovery of Sept-2025 indie cohort entrant",
+      "reliability": "high"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC2FAHHJz1rLyBk7bky8nWBQ",
+      "title": "Disasters At Sea \u2014 YouTube channel (found via WebSearch)",
+      "supports": "May-2025 entrant; upload titles reveal licensed TV-series marathon format",
+      "reliability": "high"
+    },
+    {
+      "url": "https://thenextweb.com/news/youtube-ai-slop-crackdown-faceless-creators-collateral-damage",
+      "title": "TheNextWeb: YouTube's AI slop purge is punishing the human creators who never showed their faces",
+      "supports": "Q3 \u2014 2026 demonetization wave hitting faceless human creators; channel-level enforcement",
+      "reliability": "medium-high \u2014 reputable tech press, found via WebSearch snippet"
+    },
+    {
+      "url": "https://www.hollywoodreporter.com/business/digital/faceless-creators-youtube-ai-damage-1236617586/",
+      "title": "Hollywood Reporter: Faceless Creators Take a Hit As YouTube Cracks Down on AI Slop",
+      "supports": "Q3 \u2014 scale of 2026 AI-channel demonetization (35M subs affected, ~$10M creator revenue)",
+      "reliability": "medium-high \u2014 trade press, figures via search snippet not independently verified"
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/6162278",
+      "title": "YouTube advertiser-friendly content guidelines",
+      "supports": "Q3 \u2014 tragedy/'sensitive events' as limited-ads category",
+      "reliability": "high \u2014 official policy"
+    },
+    {
+      "url": "https://www.patreon.com/fascinatinghorror",
+      "title": "Fascinating Horror Patreon (page 403-blocked; '460 posts' visible via search snippet only)",
+      "supports": "Q3 \u2014 Patreon exists and is heavily gated; patron count UNVERIFIED",
+      "reliability": "low-medium \u2014 snippet only, direct fetch blocked"
+    },
+    {
+      "url": "https://morbidlybeautiful.com/youtube-war-horror/",
+      "title": "Morbidly Beautiful: YouTube's War on Horror and the Killing of Creativity",
+      "supports": "Q3 \u2014 creator-community reports of demonetization pressure on dark/tragedy content",
+      "reliability": "medium \u2014 niche editorial site"
+    },
+    {
+      "url": "https://fliki.ai/blog/youtube-ai-demonetization + https://invideo.io/blog/youtube-kills-ai-faceless-channels/",
+      "title": "Fliki / InVideo blog posts on July-2025 YPP inauthentic-content policy",
+      "supports": "Q3 \u2014 timing and terms of the 2025 policy overhaul",
+      "reliability": "low-medium \u2014 vendor blogs with SEO incentive; policy existence corroborated by official guidelines"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DoIj-lyi_QM (and all 'No AI. Human Narrated' titles via playlistItems)",
+      "title": "DisastersUncovered upload titles branding 'No AI / Human Narrated'",
+      "supports": "Market evidence of AI-channel flooding + demonetization fear inside the exact niche",
+      "reliability": "high \u2014 primary observed data"
+    },
+    {
+      "url": "DISCOVERY LIMITATION (not a URL): youtube.com HTML, Reddit JSON, similarchannels.com, favoree.io, playboard.co, graphtreon.com, patreon.com, feedspot, findachannel.net all returned 403 at the egress proxy; search.list quota exhausted",
+      "title": "Method limitation disclosure",
+      "supports": "The stated survivorship-bias caveat: zero-traction 2025-26 launches are invisible to this census, so the failure denominator is undercounted",
+      "reliability": "n/a \u2014 methodological note"
+    }
+  ]
+}

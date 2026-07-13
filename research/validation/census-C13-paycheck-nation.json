@@ -1,0 +1,250 @@
+{
+  "verdict": "CLOSING \u2014 brand-new channels still receive an initial algorithmic browse test (first-month spikes of 20k-57k views observed on Oct-Dec 2025 launches), but 0 of 6 true cold-starts in the cohort converted that test into sustained distribution, per-video views are decaying monotonically for every new entrant AND for the exemplar itself (~4x decline), and the niche's shelf space is being absorbed by 240k-690k-sub established channels pivoting into identical titles.",
+  "cohort": [
+    {
+      "channel": "The Unfolded States",
+      "channelId": "UCgDSpXfGJjC4PYpvgwX6V2A",
+      "created": "2025-08-22",
+      "subs": 9900,
+      "views": 2618435,
+      "videos": 197,
+      "recent_video_performance": "Uploads daily 20-22min videos; last 15 uploads median 1,945 views (max 3,713). Monthly upload-cohort median views decayed monotonically: Nov 2025 = 37,334 \u2192 Jan 2026 = 6,443 \u2192 Jul 2026 = 1,824, despite one Mar 2026 outlier at 249,598.",
+      "assessment": "modest, trajectory failing \u2014 the single best cold-start test case: exact Edwards template, ~11 months old, still sub-10k subs after 197 videos; got genuine browse distribution at launch (27-41k medians) which has decayed ~20x even as the channel matured"
+    },
+    {
+      "channel": "Economic Cycles",
+      "channelId": "UCYJE7eDm3ucjSHs8ZwJBtgg",
+      "created": "2025-10-25",
+      "subs": 3240,
+      "views": 283092,
+      "videos": 201,
+      "recent_video_performance": "Last uploads (Jul 2026): 6-1,304 views. Monthly median: Oct 2025 = 2,465 (max 30,409 launch spike) \u2192 Apr 2026 = 314 \u2192 Jul 2026 = 130. Drifted from cost-of-living toward gold/Fed doom topics.",
+      "assessment": "failing \u2014 201 videos in 8.5 months, initial browse spike never converted; current uploads get ~100-200 views"
+    },
+    {
+      "channel": "Pricing Market",
+      "channelId": "UCfnPFFtXEawQKAOUvQFMNOA",
+      "created": "2025-12-03",
+      "subs": 4270,
+      "views": 148162,
+      "videos": 114,
+      "recent_video_performance": "First upload month (Feb 2026): n=52, median 923, max 57,469 ('Why Americans Can't Afford To Simply Survive In 2026', 0oqxRJQDt20) \u2014 proof the algorithm still tests brand-new channels in H1 2026. Then Mar median = 60, Apr = 30. Last upload 2026-05-06; channel abandoned.",
+      "assessment": "failing/abandoned \u2014 exact template (20-26min affordability doom videos), one launch-window breakout, then distribution collapsed to double digits and the operator quit after ~5 months and 114 videos"
+    },
+    {
+      "channel": "The New Exodus",
+      "channelId": "UCohDTmxxKD_9BKlGHIpNhTw",
+      "created": "2025-12-17",
+      "subs": 7550,
+      "views": 172894,
+      "videos": 54,
+      "recent_video_performance": "Started on priced-out-of-America/housing template (e.g. GJbb6_ZS4fk 'The Middle Class Is Being Priced Out of America', 10,894 views, Jan 2026); monthly medians 576-1,368; pivoted to prepper/leave-the-system content; last upload 2026-04-25.",
+      "assessment": "failing/pivoted \u2014 could not sustain the economics template, pivoted, then stalled entirely"
+    },
+    {
+      "channel": "Stack Loaded",
+      "channelId": "UCB8uiYhu47L7UIKrrVCYC5g",
+      "created": "2025-12-31",
+      "subs": 1370,
+      "views": 396290,
+      "videos": 109,
+      "recent_video_performance": "Jan 2026 cost-of-living video (3MnACc-1XLk) got 3,614 views; by March had pivoted entirely to relationship-drama Shorts (median ~1,400); last upload 2026-03-31 \u2014 abandoned after 3 months.",
+      "assessment": "failing/abandoned \u2014 tried the affordability-doom template at launch, got no traction, pivoted to Shorts drama, then quit"
+    },
+    {
+      "channel": "A Homestead Journey Clips",
+      "channelId": "UCcdzoDg9ciDLklZaTkp5tVA",
+      "created": "2025-11-09",
+      "subs": 19900,
+      "views": 4339166,
+      "videos": 160,
+      "recent_video_performance": "Last 15 uploads median 6,920 views, max 37,626; 'Middle Class Americans Can't Afford Life in 2026' (lUdQ56D1tQI, Jul 4) at 26,943.",
+      "assessment": "thriving \u2014 BUT NOT A COLD START: it is the spinoff/clips channel of A Homestead Journey (241k subs), launched with cross-promotion; the only 'new' channel in the cohort that is working, and it had a warm start"
+    },
+    {
+      "channel": "Edwards Economics (EXEMPLAR)",
+      "channelId": "UCMhfTJxvzp70aOMUMORgsBw",
+      "created": "2016-10-15 (account); first upload 2025-03-26 \u2014 0\u2192358k subs in ~15.5 months confirmed",
+      "subs": 358000,
+      "views": 12265230,
+      "videos": 90,
+      "recent_video_performance": "Cumulative views by upload quarter: 2025Q2 median 214,699 \u2192 2025Q4 98,847 \u2192 2026Q1 58,428 \u2192 2026Q2 56,315 \u2192 2026Q3 (5 vids) 20,256. Last 10 uploads: 11.3k-53.9k typical, one 194k outlier ('Mass Layoffs Are Coming for White Collar Jobs in 2026', CnQsFAOw6wk). Housing lock-in (s2Cuu9SpbgA, 40.9k) and retiring-broke (H8r4cPbPTJ0, 53.9k) beat his recent median; pure vibe-doom titles (Gen Z broke 12.9k, grocery 11.3k) underperform.",
+      "assessment": "thriving but decelerating \u2014 per-video performance down ~4x from his 2025Q2 peak even before adjusting for view-accumulation time; the window he exploited (Mar 2025) was visibly wider than today's"
+    },
+    {
+      "channel": "Life Priced",
+      "channelId": "UCmXyOLGT5U3XGc3txarblKA",
+      "created": "2022-01-06",
+      "subs": 10000,
+      "views": 3751828,
+      "videos": 609,
+      "recent_video_performance": "Uploads 1-2x daily on the exact template ('Rent Is Too D*MN High', grocery stores, extreme budgeting); last 15 uploads median 1,057 views.",
+      "assessment": "modest (comparator) \u2014 the long-run base rate: 4.5 years and 609 videos of this exact content = 10k subs and ~1k views per video"
+    },
+    {
+      "channel": "Mikel Sant",
+      "channelId": "UCN4-LjtgAoKNfKRxvRfesuw",
+      "created": "2019-08-18",
+      "subs": 18000,
+      "views": 2096772,
+      "videos": 766,
+      "recent_video_performance": "'Americans Are Broke and Exhausted in 2026' (xL0wBDPL8Hk, May 2026) = 20,578 views \u2014 an above-typical result for the channel.",
+      "assessment": "modest (comparator) \u2014 766 videos over 7 years for 18k subs; occasional COL videos break 20k"
+    },
+    {
+      "channel": "Belinda Unfiltered",
+      "channelId": "UCvIQRMWeIx1aWWTEt6XXg9A",
+      "created": "2019-08-13",
+      "subs": 6840,
+      "views": 2473973,
+      "videos": 615,
+      "recent_video_performance": "'The Cost of Living Crisis in 2026 Is WAY Worse Than You Think' (Y_yM6KdPDr8, Feb 2026) = 2,115 views in 5 months.",
+      "assessment": "failing (comparator) \u2014 template titles are not rescuing a small channel; 615 videos, sub-7k subs"
+    },
+    {
+      "channel": "Irritating Facts",
+      "channelId": "UCoiHozDwFhxRgf6tJz3AXyg",
+      "created": "2019-09-25",
+      "subs": 4480,
+      "views": 931098,
+      "videos": 1921,
+      "recent_video_performance": "'Why Everything is Getting Expensive in 2026 (Explained Simply)' (T1I5YtgX9zY, Apr 2026) = 97 views in 3 months.",
+      "assessment": "failing (comparator) \u2014 1,921 uploads, 4.5k subs; a COL explainer uploaded in April 2026 got 97 views: the denominator the finalist never sees"
+    },
+    {
+      "channel": "Yak Motley",
+      "channelId": "UCF8lQByNCOdwpPnk1y61Aow",
+      "created": "2015-03-17",
+      "subs": 382000,
+      "views": 112078499,
+      "videos": 1447,
+      "recent_video_performance": "COL/affordability videos Jan-Jul 2026: 34k-117k views each (CcokwttZjpI 37.8k, UdGnNsXfW0g 117k, T03Fd2sIjYc 37.7k in 5 days).",
+      "assessment": "thriving (established pivot) \u2014 high-volume commentary channel now flooding the exact title formulas; direct shelf-space competitor for any new entrant"
+    },
+    {
+      "channel": "A Homestead Journey",
+      "channelId": "UCUdlMZ02XYLVeknNEY8F4vw",
+      "created": "2022-04-21",
+      "subs": 241000,
+      "views": 48564952,
+      "videos": 470,
+      "recent_video_performance": "Former homestead vlog now producing pure Edwards-template videos: retirement plans falling apart (fuBYr3MlL5c, 52.6k in 9 days), grocery prices (y07rRNk7wHc, 60.5k), COL out of control (QJM7NJAsDR0, 82k).",
+      "assessment": "thriving (established pivot) \u2014 plus it spun up a second channel (Clips) to double-dip the niche; emblematic of incumbents crowding out cold-starts"
+    },
+    {
+      "channel": "Zac Rios",
+      "channelId": "UCsfasHJphdMDFkcse5sQ9Uw",
+      "created": "2012-09-13",
+      "subs": 429000,
+      "views": 165652545,
+      "videos": 321,
+      "recent_video_performance": "'Cost of Living Crisis is WORSE Than You Think in 2026' (YbaRENHJnbo, Jun 2026) = 280,218 views; 'This Is Why Nobody Can Afford A Home in 2026' (Vs5UfHo534w, Feb 2026) = 482,060 views.",
+      "assessment": "thriving (established pivot) \u2014 the biggest recent COL view counts in the sample belong to a 429k-sub incumbent, not to any new channel"
+    },
+    {
+      "channel": "Frugal Fit Mom",
+      "channelId": "UCdzq21gdrw1k5jw6xzaCADg",
+      "created": "2015-08-05",
+      "subs": 687000,
+      "views": 126182246,
+      "videos": 1072,
+      "recent_video_performance": "'Americans can't afford to buy groceries in 2026' (IGKEx5XoyZU, Jun 2026) = 75,483 views \u2014 a frugality channel adopting the doom-affordability title format.",
+      "assessment": "thriving (established pivot) \u2014 even adjacent-niche incumbents (frugal living, plus JJ Buckner 245k, DAT BOY WILL 276k, Jackie Baker 124k, Moconomy 1.27M, Epic Economist 618k, and Brookings Institution) are competing for the same browse impressions"
+    }
+  ],
+  "evidence_summary": "METHOD: Discovery via WebSearch on template title formulas (YouTube.com itself was proxy-blocked; search.list quota exhausted as instructed); every number verified via YouTube Data API v3 channels.list / playlistItems.list / videos.list. ~35 videos and 20+ channels checked; cohort of 6 channels created within the last 12 months on the exact format, plus the exemplar and 8 comparators/pivots. KEY FINDINGS: (1) The exemplar claim checks out \u2014 Edwards Economics' first upload was 2025-03-26 and the channel now has 358k subs / 12.3M views on 90 videos \u2014 but his per-video performance has fallen ~4x (upload-quarter median 215k for 2025Q2 vs 56k for 2026Q2 and ~20-29k for early Q3 uploads). (2) The algorithm still cold-tests new channels: Pricing Market (created Dec 2025) put up a 57k-view video in its first active month; The Unfolded States opened at 27-41k median views/month; Economic Cycles hit 30k in month one. So distribution is not CLOSED. (3) But conversion is zero in the observed cohort: all five true cold-starts are failing, stalled, pivoted, or abandoned; the only thriving sub-12-month channel is a cross-promoted spinoff of a 241k-sub incumbent. The Unfolded States is the cleanest natural experiment \u2014 197 daily uploads, exact template, and its monthly upload-cohort median views declined every single month from 37.3k (Nov 2025) to 1.8k (Jul 2026). (4) The niche's browse shelf is being captured by established pivots (Zac Rios 482k views/video, Yak Motley, A Homestead Journey, Frugal Fit Mom, even Brookings), which raises the bar for cold-starts far above what Edwards faced in March 2025. (5) Macro did NOT improve \u2014 headline inflation reaccelerated to ~4.2% by mid-2026 (Hormuz oil shock) and Michigan sentiment is ~20% below a year ago \u2014 so the observed view decay is supply-saturation-driven, not demand-driven; a future macro improvement is an additional untested downside. (6) Monetization: no direct creator reports of yellow-icon limited ads on layoff/affordability topics were found (honest null); the documented and larger risk is YouTube's July 15, 2025 'inauthentic content' YPP policy explicitly targeting mass-produced, template-based content \u2014 a channel-level demonetization risk aimed at precisely this production style. SURVIVORSHIP-BIAS CAVEAT ON MY OWN METHOD: web search surfaces videos that rank, so my cohort over-represents channels that got at least one distribution spike; channels created in H1 2026 that never escaped double-digit views are essentially invisible to this method (I found zero H1 2026-created channels at all \u2014 that absence is a discovery artifact, not evidence none exist), and the failures I did find (97-view, 30-view uploads) surfaced only incidentally. The true failure rate of the entering cohort is therefore strictly HIGHER than what this table shows.",
+  "answers": [
+    {
+      "question": "(1) Enumerate channels launched on this template in the last 6-9 months and measure whether sub-10k-sub entrants uploading NOW still get browse distribution",
+      "answer": "Five true cold-starts found in the Oct-Dec 2025 launch window (The Unfolded States 2025-08, Economic Cycles 2025-10, Pricing Market 2025-12, The New Exodus 2025-12, Stack Loaded 2025-12) plus one warm-start spinoff (A Homestead Journey Clips 2025-11). Sub-10k entrants uploading NOW: The Unfolded States (9.9k subs) gets 1.8-3.7k views on July 2026 uploads \u2014 real but small and declining browse distribution; Economic Cycles (3.2k subs) gets 100-1,300; Pricing Market fell to 30-50 views and quit in May; New Exodus and Stack Loaded pivoted away then stopped. The algorithm demonstrably still gives NEW channels an initial test (57k, 30k, 41k first-month maxima as late as Feb 2026), so a well-executed August 2026 launch would likely get impressions \u2014 but no cold-start in the cohort converted the test into compounding distribution, and per-video medians decayed monotonically for every one of them. 0/5 cold-starts thriving; 1/1 warm-start thriving. Verified via channels.list + playlistItems.list + videos.list on each channelId listed in the cohort table."
+    },
+    {
+      "question": "(2) Do layoff/affordability topics trigger limited-ads (yellow icons / RPM reports)?",
+      "answer": "No direct creator reports of yellow icons specifically on layoff/affordability/cost-of-living videos were found after multiple targeted searches (Reddit fetch was also blocked in this environment) \u2014 treat as an honest null, not an all-clear. Indirect evidence cuts both ways: finance/economics is consistently reported as the highest-RPM niche ($10-25+ per outlierkit.com and fluxnote.io, low-medium reliability), and Edwards-style channels keep producing layoff titles at high volume (his single best recent video, 194k views, is 'Mass Layoffs Are Coming for White Collar Jobs in 2026'), which sustained-volume behavior is inconsistent with severe limited-ads pain. The BIGGER documented monetization risk is format-level, not topic-level: YouTube's July 15, 2025 YPP 'inauthentic content' policy (support.google.com/youtube/answer/1311392) explicitly targets template-based, mass-produced content 'with little to no variation across videos' and applies channel-wide \u2014 this cohort's exact production style. 2026 trade-blog reports of enforcement waves removing $7k-30k/month template channels exist but are low-reliability SEO content (sweettntmagazine.com, sueio.com); the policy itself is official and high-reliability."
+    },
+    {
+      "question": "(3) Does demand survive macro improvement \u2014 view decay on 2025-vintage doom videos vs evergreen framings?",
+      "answer": "The premise is partly moot: macro has NOT improved \u2014 headline inflation reaccelerated to ~4.2% by mid-2026 after the Strait of Hormuz shock, and Michigan consumer sentiment is ~20% below a year ago (sca.isr.umich.edu, CNN, Deloitte). Yet per-video views are decaying anyway: Edwards' upload-quarter median fell 215k\u219256k (2025Q2\u21922026Q2) and every new-cohort channel shows monotonic monthly decline. Conclusion: the decay is SUPPLY saturation (incumbent pivots + copycat flood), not demand loss \u2014 meaning a macro improvement is an additional, still-untested downside on top of an already-decaying opportunity. Note the API only exposes cumulative views, so true time-decay on 2025-vintage videos is not directly measurable; upload-cohort medians are the proxy used. On framings: within Edwards' last 10 uploads, evergreen-structural topics beat vibe-doom \u2014 housing lock-in (s2Cuu9SpbgA) 40.9k and retiring-broke math (H8r4cPbPTJ0) 53.9k vs Gen Z-too-broke 12.9k and grocery-doom 11.3k \u2014 and his layoffs video (194k) shows event-driven labor topics still spike hardest. Weak but consistent evidence that structural/evergreen framings (housing lock-in, retirement math) hold distribution better than generic 'everything is terrible' titles."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&forHandle=edwardseconomics",
+      "title": "YouTube Data API channels.list \u2014 Edwards Economics (UCMhfTJxvzp70aOMUMORgsBw)",
+      "supports": "Exemplar stats: 358k subs, 12.27M views, 90 videos; account created 2016-10-15",
+      "reliability": "high (primary API data)"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUMhfTJxvzp70aOMUMORgsBw",
+      "title": "YouTube Data API playlistItems.list + videos.list \u2014 Edwards Economics full upload history",
+      "supports": "First upload 2025-03-26 (0\u2192358k in ~15.5 months confirmed); quarterly per-video median decline 215k\u219256k\u219220k; recent video performance by title",
+      "reliability": "high (primary API data)"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet&id=UCgDSpXfGJjC4PYpvgwX6V2A,UCYJE7eDm3ucjSHs8ZwJBtgg,UCfnPFFtXEawQKAOUvQFMNOA,UCohDTmxxKD_9BKlGHIpNhTw,UCB8uiYhu47L7UIKrrVCYC5g,UCcdzoDg9ciDLklZaTkp5tVA",
+      "title": "YouTube Data API channels.list \u2014 new-entrant cohort (creation dates, subs, views, video counts)",
+      "supports": "All cohort-table channel statistics and creation dates for the 6 sub-12-month channels",
+      "reliability": "high (primary API data)"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/playlistItems?part=contentDetails&playlistId=UUgDSpXfGJjC4PYpvgwX6V2A",
+      "title": "playlistItems.list + videos.list \u2014 The Unfolded States monthly upload-cohort views",
+      "supports": "Monotonic decay 37.3k median (Nov 2025) \u2192 1.8k (Jul 2026) on a 9.9k-sub channel uploading daily; core answer to Q1",
+      "reliability": "high (primary API data)"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?part=statistics,snippet&id=0oqxRJQDt20,YbaRENHJnbo,Vs5UfHo534w,IGKEx5XoyZU,lUdQ56D1tQI",
+      "title": "videos.list \u2014 template-video spot checks across cohort and pivots",
+      "supports": "Pricing Market 57k launch spike; Zac Rios 280k/482k; Frugal Fit Mom 75k; Homestead Journey Clips 27k \u2014 incumbent-pivot dominance and new-channel test distribution",
+      "reliability": "high (primary API data)"
+    },
+    {
+      "url": "https://support.google.com/youtube/answer/1311392?hl=en",
+      "title": "YouTube channel monetization policies (inauthentic content)",
+      "supports": "July 15, 2025 YPP policy targeting mass-produced/template content \u2014 the main monetization risk for this format",
+      "reliability": "high (official)"
+    },
+    {
+      "url": "https://www.socialmediatoday.com/news/youtube-clarifies-monetization-update-inauthentic-repeated-content/752892/",
+      "title": "YouTube Clarifies Changes to Monetization Rules Around Inauthentic Content \u2014 Social Media Today",
+      "supports": "Confirmation and details of the July 2025 policy rename/enforcement scope",
+      "reliability": "medium-high (trade press)"
+    },
+    {
+      "url": "https://www.sca.isr.umich.edu/",
+      "title": "University of Michigan Surveys of Consumers (via search summary, June-July 2026)",
+      "supports": "Sentiment ~13% below Feb 2026, ~20% below year-ago; >50% of consumers cite high prices \u2014 macro NOT improving",
+      "reliability": "high (primary survey)"
+    },
+    {
+      "url": "https://www.cnn.com/2026/06/12/economy/us-consumer-sentiment-inflation-june",
+      "title": "CNN Business \u2014 Consumer sentiment rises for first time in three months (June 2026)",
+      "supports": "Headline inflation ~4.2%, Hormuz oil shock, sentiment still depressed \u2014 Q3 macro context",
+      "reliability": "high (major outlet)"
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/insights/topics/economy/consumer-pulse/state-of-the-us-consumer.html",
+      "title": "Deloitte \u2014 State of the US Consumer: June-July 2026",
+      "supports": "Affordability still dominant consumer concern mid-2026; nondiscretionary spending elevated",
+      "reliability": "high"
+    },
+    {
+      "url": "https://outlierkit.com/blog/youtube-rpm-finance-niche",
+      "title": "YouTube RPM Finance Niche 2026 \u2014 OutlierKit",
+      "supports": "Finance/economics RPM $10-25, highest niche tier (Q2 monetization upside)",
+      "reliability": "low-medium (SEO blog aggregating creator disclosures)"
+    },
+    {
+      "url": "https://sweettntmagazine.com/youtube-demonetisation-why-thousands-of-channels-are-losing-revenue-in-2026-and-how-to-protect-yours/",
+      "title": "YouTube demonetisation: AI crackdown reshaping creator income (2026)",
+      "supports": "Reports of 2026 enforcement waves demonetizing template/faceless channels earning $7k-30k/month \u2014 corroborates policy risk directionally",
+      "reliability": "low (SEO blog; treat as directional only)"
+    },
+    {
+      "url": "https://videos.feedspot.com/economics_youtube_channels/",
+      "title": "70 Economics YouTubers You Must Follow in 2026 \u2014 Feedspot",
+      "supports": "Niche directory used in discovery; shows incumbent density in economics explainers",
+      "reliability": "medium (directory)"
+    }
+  ]
+}
