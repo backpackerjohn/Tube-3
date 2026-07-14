@@ -1,0 +1,210 @@
+{
+  "topics": [
+    {
+      "title_working": "22 Minutes to Lose an Oil Platform: The Piper Alpha Failure Chain",
+      "event": "Piper Alpha offshore platform explosion and fire, North Sea (167 dead)",
+      "year": "1988",
+      "why_it_wins": "The single richest permit-to-work / design-failure story in the offshore canon: a removed pressure safety valve, a night-shift handover failure, firewalls built for fire but not blast, and two sister platforms (Tartan, Claymore) that kept pumping fuel into the inferno. Every step is diagram-perfect (module layout, gas risers, blast propagation) and the Cullen Inquiry gives a complete decision chain \u2014 exactly the why-it-happened layer the incumbents skip.",
+      "demand_evidence": "API-verified: Fascinating Horror's Piper Alpha (Dec 2022) 789,709 views; Plainly Difficult's (Oct 2020) 394,381; even a 6-min Australian regulator training film has 109,001. Buried TV docs confirm topic pull without satisfying it: 'Fire in the Night' re-upload 35,979, Autentic's 52-min doc 27,457.",
+      "coverage_gap": "The two indie treatments are 3.5-6 years old and deliberately mechanism-light (FH narrative register; PD early collage style). Proper forensic coverage exists only as 52-89-minute TV documentaries pulling 27k-36k \u2014 the classic 'buried in long TV docs' shape. No 12-20 min report-mined forensic with custom failure diagrams exists.",
+      "report_sources": "The Public Inquiry into the Piper Alpha Disaster (Lord Cullen, 2 vols, Cm 1310) \u2014 official HSE page https://www.hse.gov.uk/offshore/piper-alpha-disaster-public-inquiry.htm ; full PDFs: https://humanfactors101.com/wp-content/uploads/2022/07/the-public-inquiry-into-the-piper-alpha-disaster-volume-1.pdf",
+      "ad_suitability_note": "Industrial/engineering accident, historical (38 yrs), no graphic imagery needed \u2014 squarely in the historically-monetizable class FH has run for 7 years."
+    },
+    {
+      "title_working": "The Refinery That Ran Blind: BP Texas City, 2005",
+      "event": "BP Texas City refinery isomerization unit explosion (15 dead, 180 injured)",
+      "year": "2005",
+      "why_it_wins": "The defining process-safety disaster of the 2000s: a raffinate splitter overfilled for 3 hours past a failed level indicator, vented through an obsolete blowdown drum with no flare, into a trailer park sited beside the unit. The CSB report plus the Baker Panel give a two-level story (physical mechanism + organizational decay under cost-cutting) tailor-made for the forensic format.",
+      "demand_evidence": "API-verified: the CSB's own animations prove enormous demand \u2014 'Anatomy of a Disaster' 1,924,241 views (2008) and the 15th-anniversary update 2,184,145 (2020) = 4.1M combined on the agency channel (USCSB: 420k subs, 73.6M total views across 103 videos, ~715k avg/video).",
+      "coverage_gap": "Verified near-total indie vacuum: the best independent YouTube treatments found are 3,272 views (2015), 1,832, 313, 171, and 52 views. Fascinating Horror's 'Texas City' (835k) covers the 1947 disaster, not BP 2005. All 4M+ of demand sits on the agency's own dated animation \u2014 a modern human-narrated forensic doc has the lane to itself.",
+      "report_sources": "CSB Investigation Report No. 2005-04-I-TX (Mar 2007), https://www.csb.gov/bp-america-refinery-explosion/ ; plus the Baker Panel Report (2007); CSB videos XuJtdQOU_Z4 and goSEyGNfiPM as visual references.",
+      "ad_suitability_note": "Chemical-plant engineering failure; CSB itself monetizes attention on this content class. No violence adjacency."
+    },
+    {
+      "title_working": "The Negative Pressure Test That Lied: Deepwater Horizon, Minute by Minute",
+      "event": "Macondo well blowout / Deepwater Horizon rig explosion, Gulf of Mexico (11 dead)",
+      "year": "2010",
+      "why_it_wins": "Marquee-adjacent, not incumbent-owned: neither Fascinating Horror, Plainly Difficult, Brick Immortar nor DisastersUncovered has ever covered it (API-verified catalog greps). The CSB's 4-volume report and the joint USCG/BOEMRE investigation supply a chain no movie shows: the misread negative-pressure test, the cement slurry design, diverting to the mud-gas separator, and the BOP's miswired AMF/deadman pod. Movie fame guarantees search volume forever.",
+      "demand_evidence": "API-verified: FRONTLINE's 53-min TV doc 2,328,400 views (2022); CSB's Blowout Animation 1,938,218; a 2025 64-min 'Extreme Earth' compilation doc pulled 866,923 in ~13 months \u2014 demand is live even for mediocre supply.",
+      "coverage_gap": "Existing coverage is either 50-90-min TV-length (FRONTLINE, 'Untold Story' 6.8k views), agency animation from 2014, or low-effort 2025-26 AI-ish docs (867k despite quality). No 12-20 min human-narrated forensic built from the investigation reports exists; the movie audience searching 'what really happened' lands on nothing built for them.",
+      "report_sources": "CSB Macondo Investigation Report (4 volumes, 2014-2016), https://www.csb.gov/macondo-blowout-and-explosion/ ; Joint USCG/BOEMRE Marine Board of Investigation report (2011); CSB animation FCVCOWejlag.",
+      "ad_suitability_note": "Engineering/systems failure with environmental angle; historically monetized heavily (FRONTLINE, CSB). No graphic content required."
+    },
+    {
+      "title_working": "A Temporary Pipe Destroyed a Village: Flixborough, 1974",
+      "event": "Flixborough (Nypro UK) chemical works cyclohexane vapour cloud explosion (28 dead)",
+      "year": "1974",
+      "why_it_wins": "The founding disaster of modern UK process safety: reactor 5 removed after a crack, replaced by a 20-inch dog-legged bypass pipe designed with 'a full-size sketch in chalk on the workshop floor' and no engineer on site. The bellows-failure mechanism is the perfect custom-diagram set piece, and the Court of Inquiry report is short, vivid and quotable.",
+      "demand_evidence": "API-verified: Plainly Difficult's Flixborough (Jul 2022) has 998,882 views \u2014 a near-1M result on a single dated treatment. UK industrial topics travel: PD's Ronan Point 1,753,974 and FH's Ronan Point 2,730,841 prove the era/geography pulls hard.",
+      "coverage_gap": "One treatment of substance in the whole indie field, 4 years old, in PD's fast-collage style with minimal mechanism depth. No one has drawn the bypass-assembly failure properly or told the 'chalk sketch' decision chain from the inquiry transcript. A ~1M-view topic with a single aging incumbent video is the softest target on this list.",
+      "report_sources": "The Flixborough Disaster: Report of the Court of Inquiry (HMSO, 1975); official HSE case study https://www.hse.gov.uk/comah/sragtech/caseflixboroug74.htm",
+      "ad_suitability_note": "Industrial explosion, 52 years old, victims were workers \u2014 standard monetizable historical-disaster class."
+    },
+    {
+      "title_working": "One Man, 72 Hand Brakes, and a Town on Fire: Lac-M\u00e9gantic",
+      "event": "Lac-M\u00e9gantic runaway oil train derailment and fire, Quebec (47 dead)",
+      "year": "2013",
+      "why_it_wins": "TSB Canada's report R13D0054 famously lists 18 interlocking causes \u2014 single-person crew, a hand-brake test performed with air brakes still set, a locomotive fire that shut down the air compressor, misclassified Bakken crude in DOT-111 cars, and a regulator that approved it all. It is the single best 'systems failure' teaching case in modern rail, and no YouTube video has ever told it that way.",
+      "demand_evidence": "API-verified: Fascinating Horror's 11.6-min narrative (2022) 1,367,134 views; a sensationalist channel ('Dark Records', 'Train Wiped Out a Town') pulled 2,584,057 (2023). Netflix's 2023 series keeps search interest warm.",
+      "coverage_gap": "The 2.58M-view leader is exactly the beatable shape: sensationalist, non-forensic. FH's is 4.5 years old and mechanism-light by design. Nat Geo's 'Disaster Autopsy' clip (26,736) and MagellanTV (7,572) show TV supply failing to meet demand. Nobody has built the 18-cause TSB causal web as a diagram-driven documentary.",
+      "report_sources": "Transportation Safety Board of Canada Railway Investigation Report R13D0054 (2014), https://www.tsb.gc.ca/eng/rapports-reports/rail/2013/r13d0054/r13d0054.html",
+      "ad_suitability_note": "Rail/systems failure; fire deaths handled at documentary distance. FH monetized this exact topic for 4 years."
+    },
+    {
+      "title_working": "The Pipeline Under the Cul-de-Sac: San Bruno, 2010",
+      "event": "PG&E natural gas transmission Line 132 rupture and fire, San Bruno, California (8 dead, 38 homes destroyed)",
+      "year": "2010",
+      "why_it_wins": "NTSB's pipeline report is a forensic gift: a 1956 pipe 'pup' with a fabrication weld defect that should never have been installed, records that said seamless pipe when it wasn't, a SCADA pressure spike from an electrical fault at Milpitas, and 95 minutes to isolate the line because valves were manual. High US relatability (a suburb exploded), and PG&E's ongoing infamy (Camp Fire) keeps the search lane warm.",
+      "demand_evidence": "API-verified: Plainly Difficult's San Bruno video (Sep 2023) 368,698 views \u2014 solid pull on the only real treatment. Adjacent proof: CSB-lane pipeline/refinery forensics routinely clear 1M+ (e.g., CSB 'Blowout in Oklahoma' 4,224,610).",
+      "coverage_gap": "One indie treatment total, in PD's sub-15-min collage style; the rest is local news archive. The NTSB PAR-11/01 mechanism chain (weld defect \u2192 records failure \u2192 pressure excursion \u2192 manual valves) has never been drawn out as diagrams for a lay audience.",
+      "report_sources": "NTSB Pipeline Accident Report PAR-11/01 (2011), https://www.ntsb.gov/investigations/AccidentReports/Reports/PAR1101.pdf",
+      "ad_suitability_note": "Infrastructure/utility failure narrative; deaths incidental to the engineering story. Low sensitivity."
+    },
+    {
+      "title_working": "The Bridge Held by One Eyebar: Silver Bridge and the Birth of Bridge Inspection",
+      "event": "Silver Bridge (Point Pleasant, WV) eyebar-chain suspension bridge collapse into the Ohio River (46 dead)",
+      "year": "1967",
+      "why_it_wins": "A 0.1-inch stress-corrosion crack in eyebar 330 \u2014 undetectable with 1967 technology \u2014 dropped an entire bridge at rush hour because the chain design had zero redundancy. It created the US National Bridge Inspection Standards, and it carries a permanent cultural search engine: the Mothman legend. The forensic angle (fracture mechanics + fracture-critical design, diagrammed) cleanly differentiates from paranormal content while harvesting its search traffic.",
+      "demand_evidence": "API-verified: bridge-collapse forensics is the proven hottest lane in the genre \u2014 FH's Sunshine Skyway 4,593,665, Brick Immortar's Skyway 2,960,758, PD's Skyway 1,450,778, BI's Quebec Bridge 671,417, FH's I-35W 995,952. Silver Bridge itself has only PD's 2022 low-effort-era video at 215,137.",
+      "coverage_gap": "The most under-served entry in the most proven lane: 215k views on a 'Brief History' collage video is the entire quality supply. Brick Immortar never covered it; FH never covered it. NTSB HAR-71-1 plus decades of metallurgical literature give diagram material nobody has used.",
+      "report_sources": "NTSB Highway Accident Report HAR-71-1, 'Collapse of U.S. 35 Highway Bridge, Point Pleasant, West Virginia' (1970), https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf",
+      "ad_suitability_note": "Pure structural-engineering failure; 59 years old. Mothman adjacency is a search asset, not a policy risk, if kept forensic."
+    },
+    {
+      "title_working": "It Was Failing for Three Weeks: What NIST Found Inside Champlain Towers South",
+      "event": "Champlain Towers South condominium partial progressive collapse, Surfside, Florida (98 dead)",
+      "year": "2021",
+      "why_it_wins": "The strongest timeliness hook on the slate: NIST released its technical findings on 23 June 2026 \u2014 three weeks ago \u2014 concluding punching-shear failure at two garage columns under the pool deck began weeks before the collapse, driven by design deficiencies, construction deviations, added loads and corrosion. Every existing YouTube treatment predates these findings, so a findings-built forensic doc is first to market on the biggest US structural-collapse story since 9/11.",
+      "demand_evidence": "API-verified: Practical Engineering's 2021 'What We Know So Far' 1,523,172 views; Plainly Difficult's 2023 video 909,023. Fetched: NIST findings announcement (June 2026) https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse",
+      "coverage_gap": "All large existing videos are 'what we know so far' era (2021) or pre-findings speculation (2023). API-verified catalog greps show no post-June-2026 video from Practical Engineering, Plainly Difficult, Fascinating Horror, Brick Immortar or DisastersUncovered. The answer to a 5-year-old open question just published, and nobody has covered it.",
+      "report_sources": "NIST NCST Champlain Towers South investigation \u2014 technical findings June 2026 (final report in drafting), https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse ; ENR summary https://www.enr.com/articles/63213-nist-report-details-how-design-construction-flaws-led-to-surfside-condo-collapse",
+      "ad_suitability_note": "Recent tragedy (2021) = the most sensitive item on the slate; mitigate with strictly forensic register, no victim footage, diagram-led visuals. Precedent: PD's 909k-view video monetized the same event."
+    },
+    {
+      "title_working": "The Mine That Was Wired to Explode: Upper Big Branch",
+      "event": "Upper Big Branch mine coal-dust explosion, Montcoal, West Virginia (29 dead) \u2014 worst US mine disaster in 40 years",
+      "year": "2010",
+      "why_it_wins": "Three parallel official investigations (MSHA, the Governor's Independent Panel under Davitt McAteer, and the UMWA's 'Industrial Homicide' report) agree on a chain made for diagrams: worn shearer bites sandstone \u2192 spark ignites a methane pocket \u2192 clogged water sprays fail to quench it \u2192 illegal float-dust accumulations turn a flare into a 2-mile explosion. Plus a genuine villain arc: CEO Don Blankenship went to prison. Aberfan (478k on a 26.6k-sub channel) proved coal-disaster demand for young channels.",
+      "demand_evidence": "API-verified: Plainly Difficult's UBB video (Mar 2024) 322,288 views; MSHA's own explosion-scenario animation 56,945; WCHS 10th-anniversary special 36,806; 60 Minutes clip 42,383. Analog: DisastersUncovered's Aberfan (Apr 2026) 478,842 on a 26.6k-sub channel.",
+      "coverage_gap": "PD's 13-minute video is the only modern long-form treatment; everything else is 2014-era news or the company-funded rebuttal documentary. Nobody has reconciled the three reports' shared physics and dueling politics into one forensic narrative.",
+      "report_sources": "MSHA final investigation report (Dec 2011), https://www.msha.gov/data-reports/upper-big-branch-mine-south-performance-coal-company ; Governor's Independent Investigation Panel report (McAteer, May 2011); WV Office of Miners' Health Safety & Training report https://minesafety.wv.gov/upper-big-branch-investigative-report/",
+      "ad_suitability_note": "Industrial explosion + corporate accountability; no violence adjacency. Criminal-trial angle is court record, not sensationalism."
+    },
+    {
+      "title_working": "The Fire Was Out in Minutes. The Smoke Killed 85: MGM Grand, 1980",
+      "event": "MGM Grand Hotel fire, Las Vegas (85 dead, most on floors 19-26, far above a fire that never left the casino level)",
+      "year": "1980",
+      "why_it_wins": "A counterintuitive mechanism story: a ground-fault in unprotected wiring inside a deli's concealed ceiling space, a casino floor left unsprinklered because it was 'occupied 24/7', and smoke riding HVAC systems, seismic joints and elevator shafts 20 floors up. The Clark County/NFPA investigation maps every path \u2014 ideal for the channel's smoke-propagation diagrams. Vegas fame gives permanent search demand.",
+      "demand_evidence": "API-verified: Fascinating Horror's MGM Grand (Sep 2021) 1,940,535 views \u2014 one of FH's biggest ever \u2014 with no substantial competition since.",
+      "coverage_gap": "The 1.94M-view incumbent video is nearly 5 years old, deliberately light on mechanism (no smoke-path diagrams, minimal code forensics), and nothing of quality has followed. High-demand topic with a single aging narrative treatment = the census's exact 'marquee-adjacent, under-served in quality' profile.",
+      "report_sources": "Clark County Fire Department investigation report (1981), official PDF https://fire.co.clark.nv.us/(S(gtgop1ers1xz2gkadvhp1w1u))/Files/pdfs/MGM_FIRE.pdf (mirror: https://www.firefighternation.com/wp-content/uploads/2016/11/MGM_FIRE.pdf ); NFPA investigation report (1982)",
+      "ad_suitability_note": "Historical hotel fire, 46 years old; FH monetized 1.94M views on it. Standard house style (no bodies, diagram-led) suffices."
+    },
+    {
+      "title_working": "The Dam That Was Never a Dam: Buffalo Creek, 1972",
+      "event": "Pittston Coal slurry impoundment Dam No. 3 failure, Buffalo Creek, West Virginia (125 dead, 4,000 homeless)",
+      "year": "1972",
+      "why_it_wins": "An 'Aberfan of Appalachia': a coal-waste impoundment built on sludge, never engineered, never inspected, failing after rain and releasing 132 million gallons through 16 towns \u2014 while the company called it 'an act of God.' The Governor's Ad Hoc Commission report and the ASDSO case study give both the geotechnical mechanism and the regulatory-vacuum story. Slots into the proven dam-failure lane with a fresh subject.",
+      "demand_evidence": "API-verified: Plainly Difficult's Buffalo Creek (2021, early era) 426,093 views. Lane proof: Practical Engineering's Oroville 5,323,775 and Teton (Apr 2026) 1,144,123; PD's Teton 1,355,864; DisastersUncovered's coal-waste analog Aberfan 478,842 on 26.6k subs.",
+      "coverage_gap": "One 5-year-old treatment from PD's weakest production era; no one has diagrammed the three-impoundment cascade or mined the commission's 'flagrant disregard' findings. Dam-failure viewers demonstrably exist in the millions and have nothing current on this event.",
+      "report_sources": "The Buffalo Creek Flood and Disaster: Official Report from the Governor's Ad Hoc Commission of Inquiry (1973), http://129.71.204.160/history/disasters/buffcreekgovreport.html ; ASDSO case study https://damfailures.org/case-study/buffalo-creek-dam-west-virginia-1972",
+      "ad_suitability_note": "Dam/geotechnical failure; historical. Flood deaths treated forensically \u2014 same class as Aberfan, which monetizes."
+    },
+    {
+      "title_working": "A Loose Wire Took Down the Key Bridge: The NTSB's Final Answer",
+      "event": "Containership Dali blackout and Francis Scott Key Bridge collapse, Baltimore (6 dead)",
+      "year": "2024",
+      "why_it_wins": "The NTSB final report (10 Dec 2025) traced the collapse to a single loose signal wire from improperly installed wire-label banding \u2014 cascading through misconfigured high-voltage breakers, a flushing pump misused for fuel supply, and a bridge with no modern pier protection. A once-in-a-decade 'smallest cause, biggest consequence' chain, seven months old, that no quality forensic channel has built a report-based documentary on.",
+      "demand_evidence": "API-verified: same-day explainers pulled huge numbers \u2014 What's Going on With Shipping 1,215,221; Casual Navigation 795,167; Oceanliner Designs 336,372. Post-findings demand persists: jeffostroff's NTSB-findings video (Nov 2025) 206,873; PD's Mar 2026 video 111,241 in 4 months. Fetched: NTSB investigation page https://www.ntsb.gov/investigations/Pages/DCA24MM031.aspx",
+      "coverage_gap": "All million-view coverage is day-of speculation from 2024 that predates the final report; the only post-report long-forms are a livestream-style analyst (207k) and PD's quick treatment (111k). API-verified: Practical Engineering, Brick Immortar, Fascinating Horror and DisastersUncovered have zero dedicated Key Bridge videos \u2014 the definitive final-report forensic is unclaimed.",
+      "report_sources": "NTSB Marine Investigation Report, Contact of Containership Dali with the Francis Scott Key Bridge (DCA24MM031, final report Dec 10 2025), https://www.ntsb.gov/investigations/Pages/DCA24MM031.aspx",
+      "ad_suitability_note": "Recent event (2024) with 6 deaths \u2014 use forensic register and avoid victim focus; heavy precedent of monetized coverage (news + maritime channels) lowers risk."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?part=statistics,snippet,contentDetails&forHandle=USCSB (+PlainlyDifficult, BrickImmortar, PracticalEngineeringChannel)",
+      "title": "YouTube Data API channels.list \u2014 USCSB 420k subs/73.6M views/103 videos; Plainly Difficult 1.1M subs; Brick Immortar 395k subs/55.9M views/61 videos; Practical Engineering 4.79M subs (queried 2026-07-13)",
+      "supports": "CSB-demand thesis, comparator channel authority levels",
+      "reliability": "high \u2014 primary API source"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/playlistItems + videos.list over uploads playlists UUXIkr0SRTnZO4_QpZozvCCA, UUjw9YUv4UoA3d0V_Pc6zLTQ, UUFXad0mx4WxY1fXdbvtg0CQ, UU3lv_rnB5LgXW8t9sUH3hXw, UUb0MyY46T9ZYOzDHkYnIoXg, UUMOqf8ab-42UUQIdVoKwjlQ",
+      "title": "Full upload-history pulls with per-video view counts for USCSB (103), Brick Immortar (51), Fascinating Horror (452), DisastersUncovered (62), Plainly Difficult (429), Practical Engineering (246) \u2014 raw data in scratchpad /tmp/claude-0/-home-user-Tube-3/51c55a61-5128-5a5c-b814-dc2f65ee12ef/scratchpad/yt/*_full.jsonl",
+      "supports": "Every incumbent-coverage view count and every coverage-absence claim (catalog greps) in the 12 topics",
+      "reliability": "high \u2014 primary API source, queried 2026-07-13"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?id=eppo2WrPdak,HNpcwmIyuH0,NzrGZCJojUE,o3vfLo29qUs,N39w6aQFKSQ,TlIhoxIxM30,wHacCVJAvaA,R4AuGZIhJ_c,SmdV8mUB-gM,hBvaJVaAEDU,... ",
+      "title": "YouTube Data API videos.list spot-verification of externally-discovered coverage (Lac-M\u00e9gantic, Deepwater Horizon, Piper Alpha, BP Texas City, Upper Big Branch, Key Bridge videos)",
+      "supports": "All non-cohort demand numbers: FH Lac-M\u00e9gantic 1,367,134; Dark Records 2,584,057; FRONTLINE 2,328,400; Extreme Earth 866,923; WGOWS 1,215,221; Casual Navigation 795,167; jeffostroff 206,873; PD UBB 322,288; BP Texas City indie max 3,272; etc.",
+      "reliability": "high \u2014 primary API source"
+    },
+    {
+      "url": "https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse",
+      "title": "NIST: technical findings on Champlain Towers South partial collapse released June 23, 2026",
+      "supports": "Surfside timeliness hook \u2014 all existing YouTube coverage predates the findings",
+      "reliability": "high \u2014 official agency announcement, found via WebSearch"
+    },
+    {
+      "url": "https://www.ntsb.gov/investigations/Pages/DCA24MM031.aspx",
+      "title": "NTSB investigation page DCA24MM031 \u2014 Dali / Francis Scott Key Bridge, final report issued Dec 10, 2025 (loose signal wire probable cause)",
+      "supports": "Key Bridge topic report source and post-report coverage-gap timing",
+      "reliability": "high \u2014 official agency page, corroborated by CBS Baltimore and Wikipedia via WebSearch"
+    },
+    {
+      "url": "https://www.hse.gov.uk/offshore/piper-alpha-disaster-public-inquiry.htm",
+      "title": "HSE \u2014 The Public Inquiry into the Piper Alpha Disaster (Cullen Report, Cm 1310)",
+      "supports": "Piper Alpha report richness and availability",
+      "reliability": "high \u2014 official regulator page"
+    },
+    {
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf",
+      "title": "NTSB HAR-71-1 \u2014 Collapse of U.S. 35 Highway Bridge, Point Pleasant, WV (Silver Bridge)",
+      "supports": "Silver Bridge report source (eyebar 330 stress-corrosion fracture)",
+      "reliability": "high \u2014 official report PDF"
+    },
+    {
+      "url": "https://www.msha.gov/data-reports/upper-big-branch-mine-south-performance-coal-company",
+      "title": "MSHA \u2014 Upper Big Branch Mine-South investigation (final report Dec 6, 2011) + McAteer GIIP report (May 2011) via minesafety.wv.gov",
+      "supports": "UBB triple-report richness",
+      "reliability": "high \u2014 official agency pages found via WebSearch"
+    },
+    {
+      "url": "https://fire.co.clark.nv.us/MGM.aspx",
+      "title": "Clark County Fire Department \u2014 official MGM Grand fire investigation report (PDF hosted; mirror at firefighternation.com)",
+      "supports": "MGM Grand report source",
+      "reliability": "high \u2014 official county fire department"
+    },
+    {
+      "url": "https://damfailures.org/case-study/buffalo-creek-dam-west-virginia-1972",
+      "title": "ASDSO Dam Failures case study \u2014 Buffalo Creek Dam No. 3, plus WV Governor's Ad Hoc Commission official report (wvculture hosting)",
+      "supports": "Buffalo Creek report sources",
+      "reliability": "high \u2014 professional association + state archive"
+    },
+    {
+      "url": "https://www.tsb.gc.ca/eng/rapports-reports/rail/2013/r13d0054/r13d0054.html",
+      "title": "TSB Canada Railway Investigation Report R13D0054 \u2014 Lac-M\u00e9gantic (18 causal factors)",
+      "supports": "Lac-M\u00e9gantic report source",
+      "reliability": "high \u2014 official agency report (canonical TSB URL pattern; not re-fetched)"
+    },
+    {
+      "url": "https://www.csb.gov/bp-america-refinery-explosion/ and https://www.csb.gov/macondo-blowout-and-explosion/",
+      "title": "CSB investigation pages \u2014 BP Texas City (2005-04-I-TX) and Macondo (4-volume report)",
+      "supports": "Texas City and Deepwater Horizon report sources",
+      "reliability": "medium-high \u2014 canonical CSB URL patterns, video evidence API-verified; pages not directly fetched"
+    },
+    {
+      "url": "https://www.enr.com/articles/63213-nist-report-details-how-design-construction-flaws-led-to-surfside-condo-collapse",
+      "title": "ENR \u2014 NIST report details design/construction flaws behind Surfside collapse (June 2026)",
+      "supports": "Surfside findings substance (punching shear at garage columns, weeks-early initiation)",
+      "reliability": "medium-high \u2014 trade press via WebSearch"
+    },
+    {
+      "url": "/home/user/Tube-3/research/validation/census-C09-quiet-catastrophes.json",
+      "title": "Prior census (2026-07-12 API pulls) \u2014 DisastersUncovered Aberfan 478,842 on 26.6k subs; authority-gating of long tail",
+      "supports": "Marquee-adjacent strategy calibration; Aberfan analog for Buffalo Creek/UBB",
+      "reliability": "high \u2014 prior API-verified internal evidence"
+    }
+  ]
+}

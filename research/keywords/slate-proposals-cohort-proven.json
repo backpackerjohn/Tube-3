@@ -1,0 +1,210 @@
+{
+  "topics": [
+    {
+      "title_working": "Asia's Titanic, Times Thirty: Why 4,386 People Could Not Escape the Do\u00f1a Paz",
+      "event": "MV Do\u00f1a Paz ferry\u2013tanker collision and fire, Tablas Strait, Philippines \u2014 deadliest peacetime maritime disaster in history (collision with MT Vector, unlicensed tanker; no working radio, apprentice at the helm, life jackets locked away)",
+      "year": "1987",
+      "why_it_wins": "Maritime is the highest-performing class in the entire cohort dataset: DisastersUncovered's maritime videos run 3.7x its channel median, and Brick Immortar built 395k subs on maritime forensics with docs at 1-4.6M views \u2014 then went dormant in 2026 (its 2026 uploads are low-effort Hormuz-tracker clips, 3-17k views), leaving the class under-supplied. Do\u00f1a Paz is world-record famous ('deadliest ever') yet has zero treatment from any of the 8 forensic channels pulled. The decision-chain material (franchise overloading, phantom passengers on the manifest, Vector's fake licenses) is exactly the systems-failure spine of the channel.",
+      "demand_evidence": "API-verified 2026-07-13: best existing treatment is Dark Records' 13-min 'The Do\u00f1a Paz Ferry Disaster That Killed 4,300' \u2014 629,878 views (2022); Sideprojects 186,754 (8-min, 2021); Historic Travels 113,135 (2021). Class comps: FH's Sewol video 313,254 (Feb 2025); DU's Zeebrugge 233,441 (Aug 2025) = 7.1x DU's 32,880 median; FH Zeebrugge 1,211,636.",
+      "coverage_gap": "Zero coverage across Fascinating Horror (452 uploads), DisastersUncovered, Tragedy Tales, Outdoor Disasters, Mode of Horror, Plainly Difficult (429), Brick Immortar, USCSB. Existing YouTube treatments are short, sensational, and not built from the inquiry record; the 630k-view leader is a 13-min listicle-style channel. No calm forensic 15-20 min treatment exists.",
+      "report_sources": "Philippine Board of Marine Inquiry proceedings and the Philippine Senate/Congressional inquiry into the Do\u00f1a Paz\u2013Vector collision (1988); Supreme Court rulings (Caltex v. Sulpicio, G.R. No. 131166) documenting the findings chain \u2014 supplemented by IMO-era analyses of Philippine domestic ferry safety. Primary docs are court/inquiry records rather than one bound report; provenance strong enough for a decision-chain reconstruction.",
+      "ad_suitability_note": "Engineering/regulatory systems failure (collision + fire at sea). Non-graphic archival treatment; no violence. Same 'sensitive events, historical, non-graphic' monetizable category FH has run for 7 years."
+    },
+    {
+      "title_working": "Eighty-Four Men, No Survival Suits: The Ocean Ranger's Broken Chain",
+      "event": "Semi-submersible rig Ocean Ranger capsized in a storm off Newfoundland; a broken portlight flooded the ballast control room, crew operated ballast controls they were never trained on; all 84 died",
+      "year": "1982",
+      "why_it_wins": "Offshore-rig forensics is proven twice over: Brick Immortar's Ocean Ranger doc pulled 4,192,374 views (2022) when the channel was small, and FH's Alexander Kielland (same class) did 742,398 in Sep 2025 \u2014 1.7x FH's era median. BI has since left the lane (no long-form maritime doc since Dec 2025; 2026 = Hormuz clips), and its treatment is 4+ years old \u2014 exactly the staleness window in which DU's Aberfan/Zeebrugge seconds succeeded. The Royal Commission report is a diagram goldmine (ballast panel logic, portlight, chain-of-command).",
+      "demand_evidence": "API-verified: Brick Immortar 'TRAGICALLY INEXPERIENCED: The Ocean Ranger Oil Rig Disaster' 4,192,374 views (Feb 2022, channel now 395k subs); FH 'One Faulty Weld, 123 Dead: The Alexander Kielland' 742,398 (Sep 2025); FH Piper Alpha 789,709 (2022). BI's 2026 uploads: 2,915-16,973 views (pivoted to Hormuz tracking) \u2014 supply withdrawn from a 4M-view topic class.",
+      "coverage_gap": "One good treatment exists (BI, 2022) \u2014 winner-take-more evidence, not saturation: Sampoong (FH 819k + PD 1.72M + BI 2.0M) and I-35W (FH 996k + PD 1.34M + BI 667k) show marquee-adjacent engineering topics absorb 2-3 quality treatments. Zero coverage in the five cohort channels. BI's is narrative-forward; a report-figure/diagram forensic angle (ballast control system mechanics) is untaken.",
+      "report_sources": "Royal Commission on the Ocean Ranger Marine Disaster, two-volume final report (Canada, 1984-85; Hickman Commission) \u2014 archived via Memorial University of Newfoundland DAI collections; plus USCG Marine Casualty Report USCG 16732/0001 HQS 82.",
+      "ad_suitability_note": "Industrial/engineering failure at sea, no violence; standard monetizable historical-disaster treatment."
+    },
+    {
+      "title_working": "The Bow Door That Sank a Nation: MS Estonia and the 2023 Re-Investigation",
+      "event": "MS Estonia RoRo ferry sank in the Baltic; bow visor locking mechanism failed in heavy seas; 852 dead \u2014 Europe's worst peacetime shipwreck; 2020 documentary footage of a hull hole triggered a full state re-investigation completed 2023",
+      "year": "1994 / 2023",
+      "why_it_wins": "RoRo ferry class double-proven in the cohort (FH Zeebrugge 1,211,636; DU Zeebrugge 233,441 at 7.1x median in 2025), and the only forensic treatment (Plainly Difficult, 735,333 views) is a ~2020 8-bit-graphics video that predates the entire 2020-2023 official re-investigation \u2014 the new OJK/SHK findings (visor design approval, no hull breach before sinking, conspiracy claims closed) make every existing video factually outdated. A 'what the new report actually found' framing is a clean first-mover.",
+      "demand_evidence": "API-verified: Plainly Difficult 'A Brief History of: The MS Estonia Disaster' 735,333 views (single treatment among the 8 channels pulled); FH Zeebrugge 1,211,636 (2020); DU Zeebrugge 233,441 (Aug 2025, 7.1x its 32,880 median); FH Costa Concordia 439,236 (Nov 2025) shows ship-loss demand in the current era.",
+      "coverage_gap": "Zero cohort coverage; PD's single treatment is old-style, pre-re-investigation, and mispronunciation-prone house style \u2014 beatable on accuracy, freshness (2023 final report), and diagram craft (bow visor lock mechanics).",
+      "report_sources": "Joint Accident Investigation Commission Final Report (1997); Estonian Safety Investigation Bureau (OJK) + Swedish SHK joint re-investigation final report (2023) \u2014 ojk.ee/en and havkom.se publish both.",
+      "ad_suitability_note": "Engineering failure + institutional decision chain; non-graphic. The conspiracy-adjacent search demand is served with official-report debunking, not amplification \u2014 ad-safe."
+    },
+    {
+      "title_working": "A Torpedo Fuel From the 1950s: The Kursk, Minute by Minute",
+      "event": "Russian submarine Kursk sank in the Barents Sea after an HTP practice-torpedo fuel leak caused two explosions; 118 dead, 23 survived hours in compartment 9; botched rescue and cover-up",
+      "year": "2000",
+      "why_it_wins": "Submarine-loss forensics carries the biggest single numbers in the dataset (Brick Immortar's USS Thresher: 4,600,297 views; FH's Thresher 381,789 in Apr 2024), and Kursk demand is current \u2014 Megaprojects pulled 829,032 in Nov 2025 and licensed TV re-cuts drew ~197k/194k in Jan-Feb 2026. Yet the existing leaders are sensational (Dark Records 2.44M, 2022) or generalist; nobody in the forensic-doc format has built it from the actual investigation findings (HTP decomposition chemistry, the 2:15 gap between blasts, the rescue-offer refusals).",
+      "demand_evidence": "API-verified: Dark Records 'Trapped Inside - Kursk Submarine Explosion' 2,441,690 (2022); Weird History 1,063,602 (2021); Megaprojects 829,032 (Nov 2025); Timeline 197,003 (Jan 2026); Spark 193,797 (Feb 2026). Class comps: BI Thresher 4,600,297; FH Thresher 381,789 (2024); FH Soyuz 11 3,309,340 (2024) for sealed-vessel decision-chain class.",
+      "coverage_gap": "Zero coverage in cohort, Plainly Difficult, or Brick Immortar. Existing high-view videos are sensational or TV-length (42-45 min licensed re-uploads); no 15-20 min calm report-based forensic treatment with failure diagrams exists.",
+      "report_sources": "Russian Prosecutor General's investigation (Ustinov report, conclusions published 2002; torpedo 65-76A HTP seal failure); Norwegian/UK rescue-operation records; secondary spine: 'A Time to Die' (Robert Moore) and released official findings summaries.",
+      "ad_suitability_note": "Military accident (peacetime exercise), not combat/violence; treat as engineering + institutional failure. Historically monetized fine across the comps listed."
+    },
+    {
+      "title_working": "The Turbine That Jumped: Sayano-Shushenskaya, Russia's Hydro Catastrophe",
+      "event": "Turbine 2 at Russia's largest hydroelectric plant tore loose from its mounts (fatigued studs, vibration ignored for hours), flooding the turbine hall; 75 dead",
+      "year": "2009",
+      "why_it_wins": "Pure engineering-forensics showcase (rotor dynamics, fatigue, ignored monitoring data) in FH's best class (engineering/structural = 1.63x its 2024-26 median). Single existing treatment: Plainly Difficult's 2021 video at 845,918 views \u2014 5 years old, 8-bit style, pre-dating detailed English-language engineering analyses. The Rostechnadzor report supplies exact diagrams (49 of 80 studs fatigue-cracked). No cohort channel touches it.",
+      "demand_evidence": "API-verified: Plainly Difficult 'The Sayano Shushenskaya Dam Disaster' 845,918 views (2021) \u2014 a top-decile PD performer; FH 'Vaal Reefs' (heavy-machinery class) 387,721 (Apr 2026); USCSB machinery/process animations run 1-4.2M (e.g. 'Blowout in Oklahoma' 4,224,618), proving report-based industrial forensics demand.",
+      "coverage_gap": "One treatment (PD, 2021, thin on mechanism). Zero cohort coverage. Beatable on diagram depth (turbine cross-section, stud fatigue progression), report fidelity, and freshness.",
+      "report_sources": "Rostechnadzor official investigation report (Oct 2009; English summaries in Power Magazine and hydro-engineering literature); Russian parliamentary commission report (Dec 2009).",
+      "ad_suitability_note": "Industrial machinery failure; workers died but treatment is mechanism-focused and non-graphic \u2014 standard monetizable class."
+    },
+    {
+      "title_working": "An Act of God, Built by a Coal Company: The Buffalo Creek Flood",
+      "event": "Pittston Coal's slurry dam 3 collapsed after rain, sending a wave through 16 West Virginia towns; 125 dead, 4,000 homeless; company called it 'an act of God'",
+      "year": "1972",
+      "why_it_wins": "This is the American Aberfan \u2014 and Aberfan is the single most proven topic in the cohort: FH 1,228,426 (2020) AND DU 478,842 (Apr 2026, DU's all-time #1 at 14.6x its median) \u2014 direct evidence a coal-waste-dam story lifts a young channel 6 years after the incumbent's treatment. Buffalo Creek has only one forensic treatment (PD, 426,094, 2021). The 'act of God' corporate-liability decision chain plus dam-inspection failures fit the report-forensics spine exactly.",
+      "demand_evidence": "API-verified: FH Aberfan 1,228,426 (Oct 2020); DU Aberfan 478,842 (Apr 2026, channel median 32,880 = 14.6x); Plainly Difficult Buffalo Creek 426,094 (2021); PD dam-class comps: Teton 1,355,865, Gleno 742,143; FH Vajont 1,552,352.",
+      "coverage_gap": "Zero cohort coverage; PD's 2021 treatment is 5 years old and light on the engineering (no dam cross-sections, inspection-regime failure). US search audience underserved relative to the UK-heavy Aberfan coverage.",
+      "report_sources": "West Virginia Ad Hoc Commission of Inquiry report (1972); U.S. Senate Subcommittee on Labor hearings ('Buffalo Creek Disaster', 1972); U.S. Bureau of Mines / USGS dam-failure analyses \u2014 wvculture.org hosts the state archive collection.",
+      "ad_suitability_note": "Dam/engineering failure with corporate-negligence angle; non-graphic archival treatment; fully in the monetizable historical-disaster class."
+    },
+    {
+      "title_working": "A Predictable Path to Disaster: The Westray Mine Explosion",
+      "event": "Methane-coal dust explosion killed 26 miners in Nova Scotia; inquiry found management ignored methane monitors, falsified records, and regulators looked away \u2014 led to Canada's 'Westray law' on corporate criminal liability",
+      "year": "1992",
+      "why_it_wins": "Mining disasters perform at every tier of the dataset (FH Farmington 388,751; FH Vaal Reefs 387,721 in Apr 2026; MoH Monongah 58,562 = 6.1x MoH's median), and Westray \u2014 famous across Canada, taught in every safety course \u2014 has ZERO treatments across all 8 channels pulled. The public inquiry literally titled its report 'A Predictable Path to Disaster': the decision-chain framing is pre-written. Modern-era (1992) means photos, news footage, and living memory search demand.",
+      "demand_evidence": "API-verified class comps: FH 'Farmington Mine Disaster' 388,751 (Oct 2023); FH 'Vaal Reefs' 387,721 (Apr 2026); Mode of Horror 'Monongah' 58,562 (6.1x its 9,592 median); DU 'Huskar Pit' 13,709 (2026). Absence of any Westray video among 1,400+ uploads pulled from 8 disaster channels = clean gap on a nationally famous event.",
+      "coverage_gap": "Zero coverage anywhere in the pulled set. Existing YouTube material is CBC news archive clips and local memorials \u2014 no forensic documentary treatment at all.",
+      "report_sources": "The Westray Story: A Predictable Path to Disaster \u2014 Report of the Westray Mine Public Inquiry, Justice K. Peter Richard (Province of Nova Scotia, 1997) \u2014 novascotia.ca/lae/pubs/westray/; plus RCMP investigation records.",
+      "ad_suitability_note": "Industrial explosion + regulatory failure; no violence; standard class."
+    },
+    {
+      "title_working": "Thirteen Seconds, One Eyebar: The Silver Bridge Collapse",
+      "event": "US-35 suspension bridge at Point Pleasant, WV dropped into the Ohio River at rush hour; 46 dead; cause traced to a 2.5mm stress-corrosion crack in one eyebar \u2014 uninspectable by design; birthed the US national bridge inspection program",
+      "year": "1967",
+      "why_it_wins": "Bridge collapse is the most repeatedly-absorbed topic class in the data: Sunshine Skyway has TWO mega-treatments (FH 4,593,662 + BI 2,960,759), I-35W has THREE (FH 995,949 + PD 1,338,690 + BI 667,417) \u2014 all large. Silver Bridge, equally famous (plus Mothman search adjacency), has only one thin, old treatment (PD 215,132, early-era 'A Brief History' style). The fracture-mechanics story (one eyebar, non-redundant chain) is the best single-diagram hook on the slate.",
+      "demand_evidence": "API-verified: FH Sunshine Skyway 4,593,662 (2022); BI Sunshine Skyway 2,960,759 (2021); FH I-35W 995,949; PD I-35W 1,338,690; BI I-35W 667,417; FH Ponte Morandi 664,055 (Mar 2025); PD Silver Bridge only 215,132 \u2014 massive class-vs-topic coverage mismatch.",
+      "coverage_gap": "Zero cohort coverage; PD's is old and shallow. Mothman-driven search volume (Point Pleasant) adds browse-adjacent discovery no incumbent exploits with a serious forensic treatment.",
+      "report_sources": "NTSB Highway Accident Report HAR-71-01 'Collapse of U.S. 35 Highway Bridge, Point Pleasant, West Virginia' (ntsb.gov); NBS (now NIST) fracture analysis of eyebar 330.",
+      "ad_suitability_note": "Structural engineering failure; historical, non-graphic; prime monetizable class."
+    },
+    {
+      "title_working": "The Pool Deck Was the Warning: What the NIST Report Says Really Collapsed Champlain Towers South",
+      "event": "Surfside, FL condo partial collapse killed 98 \u2014 deadliest non-deliberate US building failure; NIST's multi-year NCST investigation identified design deficiencies + decades of deterioration, findings released 2025-26",
+      "year": "2021",
+      "why_it_wins": "FH's engineering/structural class is its best (1.63x era median; Ronan Point 2,730,841 in Jul 2024 proves building-collapse appetite at the top of the market), and the only forensic treatment of Surfside (PD, 909,021 views) was published in 2022 \u2014 three years BEFORE the NIST findings existed. Every high-view Surfside video is now factually superseded; a 'the official answer is finally in' video is a timing wedge no incumbent has taken.",
+      "demand_evidence": "API-verified: Plainly Difficult 'Destined to Fail: The Surfside Condominium Collapse 2021' 909,021 views (Dec 2022); FH Ronan Point 2,730,841 (Jul 2024); PD's 2025-26 building-collapse videos keep performing (Tropicana car park 305,498 Apr 2026; Delft 281,627 Jan 2026) \u2014 current-era class demand confirmed.",
+      "coverage_gap": "Zero cohort coverage. PD's single treatment predates the NIST conclusions \u2014 beatable on the one axis that matters for this topic: what the investigation actually found.",
+      "report_sources": "NIST National Construction Safety Team investigation of Champlain Towers South \u2014 nist.gov/disaster-failure-studies/champlain-towers-south-collapse-ncst-investigation (findings/final report 2025-26); Miami-Dade grand jury report (2021).",
+      "ad_suitability_note": "Recent tragedy (2021) \u2014 keep strictly to the engineering record, no victim-focused sensationalism; NIST-report framing keeps it in the educational/monetizable lane."
+    },
+    {
+      "title_working": "They Unplugged the Brakes: The Mottarone Cable Car Disaster",
+      "event": "Stresa-Mottarone (Italy) cable car haul rope snapped; the emergency brake had been deliberately disabled with 'forchettoni' clamps to avoid service stops; car ran back and fell 20m; 14 dead",
+      "year": "2021",
+      "why_it_wins": "Cable-car/ropeway disasters are DisastersUncovered's single best class (5.2x median; Cavalese-1976 291,912 = its #2 all-time) and FH's Kaprun sits at 2,267,125 \u2014 yet Mottarone, the most recent famous cable-car disaster with the most damning decision chain (maintenance company deliberately bypassed the safety brake for months), has zero treatment in all 8 channels. The judicial-investigation record includes the physical clamp evidence \u2014 a perfect custom-diagram story.",
+      "demand_evidence": "API-verified: Dark Records 'The Cable Car That Crashed at 60mph' 553,476 views (Oct 2023, 9-min sensational treatment = demand floor); DU Cavalese-1976 291,912 (May 2026, 8.9x its median); FH Kaprun 2,267,125; DU Cavalese-1998 49,125 (Jun 2026).",
+      "coverage_gap": "Zero coverage in cohort/PD/BI. The 553k-view leader is 9 minutes, no report basis, sensational register. Ministry-commission findings and trial record are untouched by any quality treatment.",
+      "report_sources": "Italian Ministry of Infrastructure investigative commission report on the Stresa-Mottarone accident (2021); Verbania prosecutors' technical consultancy findings (haul-rope failure + disabled brake); ANSFISA oversight findings \u2014 court record documents the maintenance decision chain.",
+      "ad_suitability_note": "Recent (2021) with criminal-negligence angle \u2014 non-graphic, mechanism-first treatment; avoid trial sensationalism; engineering framing keeps it monetizable."
+    },
+    {
+      "title_working": "18 Feet of Roof Gone at 24,000 Feet: The Metal Fatigue Behind Aloha 243",
+      "event": "Boeing 737's fuselage crown tore off mid-flight over Hawaii (multiple-site fatigue in lap joints, 89,000 flight cycles, corrosion-prone cold-bond adhesive); one flight attendant lost; landed safely \u2014 rewrote worldwide aging-aircraft rules",
+      "year": "1988",
+      "why_it_wins": "Aviation runs 1.23x FH's era median (Kegworth 700,814; Swissair 111 820,927; Pinnacle 3701 791,523 \u2014 all 2025-26) and DU's aviation class is 1.47x its median, yet Aloha 243 \u2014 one of the most-searched air incidents ever \u2014 has zero treatment in all 8 pulled channels. The only quality treatment anywhere is Mentour Pilot's 2020 talking-head video (1.5M views); the faceless diagram-forensics format (lap joint cross-sections, inspection-program failure) is untaken. Survivable outcome makes it the most ad-safe topic on the slate.",
+      "demand_evidence": "API-verified: Mentour Pilot 'How this Boeing 737 lost it's ROOF!' 1,516,529 views (Oct 2020); licensed Mayday re-uploads still pulling 20-35k in Mar-May 2026; FH aviation class 2024-26 median 540,586 (n=13, e.g. JAL123 540,586, Saudia 163 919,761).",
+      "coverage_gap": "Zero cohort/PD/BI coverage. Existing coverage is a 6-year-old pilot-vlog format and TV-episode re-uploads (100-min, buried) \u2014 exactly the 'quality treatment buried in long TV docs' gap the memo targets.",
+      "report_sources": "NTSB Aircraft Accident Report AAR-89/03, Aloha Airlines Flight 243 (ntsb.gov/investigations/AccidentReports/Reports/AAR8903.pdf); FAA Aging Aircraft Program records.",
+      "ad_suitability_note": "One fatality, survivable outcome, pure engineering story \u2014 the most advertiser-friendly topic on the slate."
+    },
+    {
+      "title_working": "Anatomy of the Texas City Refinery Explosion: The Report BP Didn't Want",
+      "event": "BP Texas City ISOM unit explosion: overfilled raffinate splitter + faulty level instrumentation + occupied trailers sited next to a blowdown drum; 15 dead, 180 injured; produced the most influential process-safety report ever written",
+      "year": "2005",
+      "why_it_wins": "The demand for CSB-report forensics is proven by the CSB's own channel: its two BP Texas City animations alone hold 2,184,145 + 1,924,241 views, and USCSB's catalog tops 4.2M per video \u2014 on a government channel with zero packaging effort. No indie forensic-doc treatment exists in any of the 8 channels pulled (FH covered the 1947 Texas City ship explosion \u2014 a different event \u2014 at 835,422). The CSB report + Baker Panel supply ready-made failure diagrams and a boardroom decision chain (budget cuts, alarm rationalization) that is the channel's exact thesis.",
+      "demand_evidence": "API-verified: USCSB 'Updated BP Texas City Animation' 2,184,145 (2020) + 'Anatomy of a Disaster' 1,924,241 (2008); USCSB class ceiling 'Blowout in Oklahoma' 4,224,618; FH 'Texas City Disaster' (1947 event) 835,422 (2022) proves the place-name search pull.",
+      "coverage_gap": "Zero indie documentary treatment across all 8 channels; the CSB's own videos are 10-15 min animations without narrative decision-chain depth, and every high-view alternative is the raw CSB material re-cut. Quality 15-20 min human-narrated forensic doc is absent.",
+      "report_sources": "CSB Investigation Report No. 2005-04-I-TX, 'BP America Refinery Explosion' (csb.gov/bp-america-refinery-explosion/, final 2007) + Baker Panel Report (2007); OSHA citations record.",
+      "ad_suitability_note": "Industrial process-safety failure; non-graphic; the engineering-education framing (CSB material is used in university courses) widens the Brilliant/CuriosityStream-class sponsor surface named in the memo."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.googleapis.com/youtube/v3/playlistItems?playlistId=UUFXad0mx4WxY1fXdbvtg0CQ (+UU3lv_rnB5LgXW8t9sUH3hXw, UUHtMtkH3yxRP_S1zS8u2C2A, UUsrtvSjgVg8QgRJzysB55xA, UUth5ytijzUfL0EMIczVQE-w) + videos.list on all returned IDs",
+      "title": "YouTube Data API: full upload histories of the 5 cohort channels \u2014 Fascinating Horror (452), DisastersUncovered (62), Tragedy Tales (93), Outdoor Disasters (196), Mode of Horror (53) \u2014 pulled 2026-07-13",
+      "supports": "All cohort medians, class-performance multipliers, coverage map, and every cohort view number cited",
+      "reliability": "high \u2014 primary source, complete histories not samples"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/channels?forHandle=PlainlyDifficult|BrickImmortar|USCSB + playlistItems/videos.list full pulls (429 + 51 + 103 uploads)",
+      "title": "YouTube Data API: full upload histories of adjacent forensic incumbents Plainly Difficult, Brick Immortar, USCSB \u2014 pulled 2026-07-13",
+      "supports": "Single-treatment/gap claims (Estonia, Sayano, Buffalo Creek, Silver Bridge, Surfside), Brick Immortar's 2026 dormancy, USCSB demand numbers",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?id=fTE5hgF40JM,mpwuRFLFym0,r6j9evuYfwU,lfviEHwmgm4",
+      "title": "videos.list verification: Do\u00f1a Paz existing treatments (Dark Records 629,878; Sideprojects 186,754; Historic Travels 113,135)",
+      "supports": "Topic 1 demand evidence",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?id=884i-6lQR-c,7RL_UdWCPlw,Ki6OJoWQBKE,lzVrBWg6Gzs,g6oPuqFmI2Y",
+      "title": "videos.list verification: Kursk treatments (Dark Records 2,441,690; Weird History 1,063,602; Megaprojects 829,032 Nov-2025; Timeline 197,003 Jan-2026; Spark 193,797 Feb-2026)",
+      "supports": "Topic 4 demand evidence and demand currency",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?id=sKs3ov6hFqM,5nXBQrepAz8,8xYBbMFgAOA",
+      "title": "videos.list verification: Aloha 243 treatments (Mentour Pilot 1,516,529; Mayday TV re-uploads 20-35k in 2026)",
+      "supports": "Topic 11 demand evidence and gap claim",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?id=YmJrW_N4kqA",
+      "title": "videos.list verification: Mottarone existing leader (Dark Records 'The Cable Car That Crashed at 60mph' 553,476, 9-min)",
+      "supports": "Topic 10 demand floor and gap quality",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "https://www.googleapis.com/youtube/v3/videos?id=miV7udgu_FY,fP85nmVUIMY,X0ktytjKI9I",
+      "title": "videos.list verification: Banqiao dam candidates (History Guy 143,798; Asianometry 63,158; Grim Asia 17,083) \u2014 topic CUT from slate for weak demand vs alternatives",
+      "supports": "Negative screen: Banqiao demoted to alternate; demonstrates demand-gate discipline",
+      "reliability": "high \u2014 primary source"
+    },
+    {
+      "url": "/home/user/Tube-3/research/validation/census-C09-quiet-catastrophes.json",
+      "title": "C09 census (cohort channel IDs, sub counts, prior verification 2026-07-12)",
+      "supports": "Cohort selection, channel IDs, authority-gating baseline (Mount Pel\u00e9e 2,213 / Matawan 752)",
+      "reliability": "high \u2014 prior API-verified project artifact"
+    },
+    {
+      "url": "/home/user/Tube-3/research/SELECTION_MEMO.md",
+      "title": "Selection memo v2 \u2014 corrected topic strategy and hard gates",
+      "supports": "Topic criteria applied: marquee-adjacent, quality-underserved, ad-suitability gate, no violence-pull topics",
+      "reliability": "high \u2014 governing project document"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stresa%E2%80%93Mottarone_cable_car_crash",
+      "title": "Stresa-Mottarone cable car crash \u2014 investigation summary (disabled emergency brake, ministry commission)",
+      "supports": "Topic 10 event facts and report-source existence",
+      "reliability": "medium-high \u2014 encyclopedic, corroborated by court record reporting"
+    },
+    {
+      "url": "https://www.csb.gov/bp-america-refinery-explosion/",
+      "title": "CSB Investigation Report 2005-04-I-TX, BP America Refinery Explosion",
+      "supports": "Topic 12 report source",
+      "reliability": "high \u2014 official investigation body"
+    },
+    {
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR8903.pdf",
+      "title": "NTSB AAR-89/03 Aloha Airlines Flight 243",
+      "supports": "Topic 11 report source",
+      "reliability": "high \u2014 official report"
+    },
+    {
+      "url": "https://www.nist.gov/disaster-failure-studies/champlain-towers-south-collapse-ncst-investigation",
+      "title": "NIST NCST Champlain Towers South investigation",
+      "supports": "Topic 9 report source and timing wedge",
+      "reliability": "high \u2014 official investigation body"
+    },
+    {
+      "url": "https://novascotia.ca/lae/pubs/westray/",
+      "title": "The Westray Story: A Predictable Path to Disaster \u2014 Westray Mine Public Inquiry (Justice Richard, 1997)",
+      "supports": "Topic 7 report source",
+      "reliability": "high \u2014 official public inquiry"
+    }
+  ]
+}
