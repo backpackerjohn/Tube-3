@@ -19,3 +19,8 @@ Per guardrail 5 ("Never ask me anything"), every question that would normally go
 - Rejected on collisions: "Failure Files" (Failure Files™/Human Signal + IDR podcast), "The Failure Report" (existing podcast). 9 other candidates' handles already taken.
 - Namespace is being actively squatted (5 zero-sub channels on forensic-failure names registered Aug 2025–Jul 2026, incl. @AnatomyOfFailure on 2026-07-09) → register @ModeOfFailure immediately at account creation.
 - Full check table in brand/BRAND_GUIDELINES.md §1.
+
+## 2026-07-13 — Phase 10/Monetization: kill-switch measurement basis
+| ID | Question | Assumed answer | Why |
+|----|----------|----------------|-----|
+| D-010 | The engine's trailing-8-week revenue formula would fire the $7,200/yr gate at day 120 even on a median-passing channel (pre-monetization weeks drag the average). Change the floor, the measurement, or the date? | **Keep the $7,200 floor; measure as forward run-rate (RPM × trailing-4-week views × 52) at day 120; add a second checkpoint at day 240 with a raised $14,400 floor.** | The floor came from evidence (top of the documented failure band) and should not move; the measurement was simply mis-specified for a channel that cannot be monetized before ~week 8-10. Forward run-rate answers the question the gate actually asks ("is this trajectory a business?"), and the day-240 escalation prevents the fixed floor from grandfathering stagnation. Adopted in MONETIZATION_ROADMAP.md; CONTENT_ENGINE.md kill-switch spec inherits this definition. |
