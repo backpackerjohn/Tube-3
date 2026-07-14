@@ -13,3 +13,9 @@ Per guardrail 5 ("Never ask me anything"), every question that would normally go
 | D-007 | What counts as "launch-ready" for the 10 videos? | **Full word-for-word narration script, scene/visual direction, title (+A/B variants), description, tags, thumbnail concept.** | This is everything a creator needs before opening a recording/editing tool. Producing final rendered video/audio is not possible to verify here and would be placeholder-quality; scripts + complete metadata are the honest 100% of the writable deliverable. |
 | D-008 | Which multi-agent budget is appropriate? | **Aggressive but bounded: parallel research fan-outs, judge panels, adversarial verification, completeness critics — with all vidIQ calls kept out of subagents.** | The prompt demands orchestration ("floor, not a ceiling"); the only hard external budget is vidIQ credits, which stay in the main loop per D-002. |
 | D-009 | Date-sensitive claims: what is "now"? | **Today is 2026-07-12; recency thresholds: trends within 12–18 months preferred, competitor stats fetched live.** | System clock; YouTube meta changes fast, so older sources are used only for durable facts (e.g., how YPP rules work) with dates noted. |
+
+## 2026-07-13 — Phase 6/Brand: channel name locked
+- **Winner: "Mode of Failure" (@ModeOfFailure)** — API-verified available (channels.list forHandle, 0 items, 2026-07-13); no trademark/brand collision found in web checks. Runners-up: The Accident Report (@TheAccidentReport), The Cause File (@TheCauseFile) — both API-verified available.
+- Rejected on collisions: "Failure Files" (Failure Files™/Human Signal + IDR podcast), "The Failure Report" (existing podcast). 9 other candidates' handles already taken.
+- Namespace is being actively squatted (5 zero-sub channels on forensic-failure names registered Aug 2025–Jul 2026, incl. @AnatomyOfFailure on 2026-07-09) → register @ModeOfFailure immediately at account creation.
+- Full check table in brand/BRAND_GUIDELINES.md §1.
